@@ -7,6 +7,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.styles import Alignment
 from openpyxl.comments import Comment
 
+
 # Function to read XML files from a directory
 def read_xml_files(directory, pattern=".xml"):
     xml_files = []
