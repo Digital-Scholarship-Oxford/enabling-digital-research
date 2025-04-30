@@ -6,7 +6,7 @@
 
 global_config = {
     # Authority input directories
-    "auth_xml_path": "..",                              # Where are the authority files found? To get to the parent folder of 'tabular_data', use '..'.
+    "auth_xml_path": "../",                              # Where are the authority files found? To get to the parent folder of 'tabular_data', use '..'.
     "auth_config_path": "config/authority",             # Where are the authority configuration files found?
     "auth_xml_recursive": False,                        # Should the program look for authority files inside any folders in the auth_xml_path directory?
     "auth_config_recursive": False,                     # Should the program look for authority configuration files inside any folders in the auth_config_path directory?
