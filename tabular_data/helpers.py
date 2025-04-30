@@ -62,8 +62,10 @@ def read_files(directory, pattern, recursive=True):
     Returns:
         list: List of file paths.
     """
+    WORKING_DIR = Path(__file__).resolve().parents[1] / 'tabular_data'
+
     try:
-        directory_path = Path(directory)
+        directory_path = WORKING_DIR / directory
         if recursive:
             files = list(directory_path.rglob(f"*{pattern}"))
         else:
