@@ -23,6 +23,8 @@ def import_files(xml_path, config_path, xml_recursive=False, config_recursive=Fa
     """
     # Read and parse XML files
     xml_files = read_files(xml_path, pattern=".xml", recursive=xml_recursive)
+
+    print(xml_files)
     xml_data = {}
     for file in tqdm(xml_files, desc="Parsing XML files"):
         try:
