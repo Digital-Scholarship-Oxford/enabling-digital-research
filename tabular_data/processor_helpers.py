@@ -650,48 +650,42 @@ def sort_df(df, file_type):
 # Helper function for natural sorting of shelfmarks
 def parse_shelfmark(text):
     """
-    Converts a shelfmark into a single sortable string.
+    Converts a shelfmark into a string for deterministic natural sorting.
     Args:
         text (str): The shelfmark string to parse.
     Returns:
-        str: A single normalised string for sorting.
+        string: Normalised shelfmark for sorting.
     """
-    # Handle nulls
     if pd.isnull(text):
         return ""
 
-    # Normalise dashes and split tokens
-    clean = str(text).replace('–', '-').replace('—', '-')
-    tokens = re.split(r'[^\w\-]+', clean)
+    tokens = re.split(r'[\W_]+', text)
     parsed = []
 
-    for token in tokens:
+    for ti, token in enumerate(tokens):
         if not token:
             continue
 
-        # Handle dash ranges
-        if re.match(r'^\d+-\d+$', token):
-            start, end = map(int, token.split('-'))
-            if start <= end: # e.g. 10-20
-                sort_value = end
-            else: #e.g. 20-5
-                sort_value = float(start)
-            parsed.append(f"{sort_value:05.1f}")
+        elif re.search(r'[A-Za-z]', token) and re.search(r'\d', token):
+            parts = re.findall(r'\d+|[A-Za-z]+', token)
+            for pi, part in enumerate(parts):
+                if part.isdigit():
+                    parsed.append(f"{int(part):05}")
+                else:
+                    parsed.append(part.lower())
+                if pi != len(parts) - 1:
+                    parsed.append(" ")
 
-        # Handle digit + letter suffix (e.g. "10b")
-        elif re.match(r'^\d+[a-zA-Z]$', token):
-            parsed.append(f"{int(token[:-1]):05}.{ord(token[-1].lower())}")
-
-        # Handle simple digits
         elif token.isdigit():
             parsed.append(f"{int(token):05}")
-            parsed.append(" ")
 
         else:
             parsed.append(token.lower())
 
-    return " ".join(parsed)
+        if ti != len(tokens) - 1:
+            parsed.append(" ")
 
+    return "".join(parsed)
 
 # Helper function to save DataFrame as either csv or json file
 def save_as(df, output_dir, config_name, format):

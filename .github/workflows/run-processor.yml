@@ -56,60 +56,37 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Clear existing output
+        run: |
+          echo "Removing existing output directory..."
+          rm -rf tabular_data/output
+          mkdir -p tabular_data/output
+
       - name: Run processor
         run: |
           cd tabular_data
           source .venv/bin/activate
           python processor.py
 
-      - name: Commit output changes
+      - name: Commit and force-push new output
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          # Stash current uncommitted changes
-          git stash push --include-untracked --quiet
+          echo "File list in new output (size in bytes):"
+          find tabular_data/output -type f -printf "%s %p\n" | sort -nr | head -20
 
-          # Update branch with remote changes
-          git fetch origin main
-          git pull --rebase origin main || git rebase --skip
+          # Remove any file >100MB
+          while IFS= read -r bigfile; do
+            echo "Skipped large file (>100MB): $bigfile"
+            rm -f "$bigfile"
+          done < <(find tabular_data/output -type f -size +100M)
 
-          # Restore the stashed changes
-          git stash pop --quiet || true
+          # Stage only the output directory
+          git add -A tabular_data/output
 
-          # Check for conflicts in output folder
-          if git ls-files --unmerged tabular_data/output | grep -q .; then
-            echo "Conflicts detected in tabular_data/output — keeping workflow's version"
-            git checkout --ours tabular_data/output || true
-            OVERRIDDEN=true
-          else
-            echo "No conflicts in tabular_data/output"
-          fi
+          # Commit
+          git commit -m "Update processor output"
 
-          # Remove any file >100MB from staging
-          find tabular_data/output -type f -size +100M -print -delete |
-            while read -r bigfile; do
-              echo "Skipping large file (>100MB): $bigfile"
-            done
-
-          # Stage only the output folder
-          git add -f tabular_data/output
-
-          # Debug: list files that will be committed
-          echo "Files staged for commit:"
-          git diff --cached --name-only || echo "(none)"
-
-          # Commit if there are changes
-          if ! git diff --quiet || ! git diff --staged --quiet; then
-            if [ "$OVERRIDDEN" = true ]; then
-              git commit -m "Update output from processor (overrode manual changes)"
-            else
-              git commit -m "Update output from processor"
-            fi
-          else
-            echo "No changes to commit."
-          fi
-
-          # Push changes
-          git push
-
+          # Force push output changes
+          git push origin main --force-with-lease
