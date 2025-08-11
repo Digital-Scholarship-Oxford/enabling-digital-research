@@ -2,6 +2,7 @@ import os
 import re
 import math
 import pandas as pd
+import numpy as np
 import xml.etree.ElementTree as ET
 from saxonche import PySaxonProcessor
 from collections import defaultdict
@@ -717,6 +718,52 @@ def save_as(df, output_dir, config_name, format):
     except Exception as e:
         tqdm.write(f"Saving data to '{output_filename}' failed. Error: {e}")
 
+# Helper function to produce table containing details of data quality and completeness
+def summarise_dataframes(dfs_dict):
+    """
+    Summarises the data quality and completeness of DataFrames in a dictionary.
+    Args:
+        dfs_dict (dict): Dictionary of DataFrames to summarise.
+    Returns:
+        DataFrame: A summary DataFrame containing file names, sections, headings, counts, and percentages.
+    """
+
+    summary_rows = []
+
+    for file_name, df in dfs_dict.items():
+        total_rows = len(df)
+        for col in df.columns:
+            if ":" in col:
+                section, heading = [part.strip() for part in col.split(":", 1)]
+            else:
+                section, heading = "", col.strip()
+
+            # Count non-empty
+            non_empty_mask = df[col].notna() & (df[col].astype(str).str.strip() != "")
+            count_non_empty = non_empty_mask.sum()
+
+            # Calculate percentages
+            percentage = (count_non_empty / total_rows) if total_rows > 0 else 0
+
+            summary_rows.append([
+                file_name,
+                section,
+                heading,
+                count_non_empty,
+                percentage
+            ])
+
+    # Create summary dataframe
+    summary_df = pd.DataFrame(summary_rows, columns=[
+        "data quality: file", "data quality: section", "data quality: heading", "data quality: count", "data quality: percentage"
+    ])
+
+    # Apply formatting
+    formats = ["text", "text", "text", "number", "percentage"]
+    summary_df = set_format(summary_df, formats)
+
+    return summary_df
+
 # Helper function to save DataFrame list as an xlsx file with individual tables as tabs
 def save_as_xlsx(df_list, config_list, output_dir, output_filename):
     """
@@ -732,6 +779,11 @@ def save_as_xlsx(df_list, config_list, output_dir, output_filename):
     sections_list = [config_list[config_name]['section'].to_numpy() for config_name in config_list.keys()]
     headings_list = [config_list[config_name]['heading'].to_numpy() for config_name in config_list.keys()]
     comments_list = [config_list[config_name]['comment'].to_numpy() for config_name in config_list.keys()]
+    if df_list and any(name.startswith('data_quality') for name in df_list.keys()):
+        sections_list.append(["data quality"] * 5)
+        headings_list.append(["file", "section", "heading", "count", "percentage"])
+        comments_list.append(["File name", "Section name", "Heading name", "Count of non-empty cells", "Percentage of non-empty cells"])
+    
     tqdm.write(f"Saving '{output_filename}.xlsx'...")
 
     try:
