@@ -29,6 +29,19 @@ Below is an explanation of the information contained within each of the default
 		these limitations when engaging with the outputs of this
 		processor, whether using the default outputs or custom ones.
 
+	Both the authority and collection files contain a file/tab on data
+		quality, containing details of how many instances of a given
+		datapoint appear in the outputs, and what proportion this
+		constitutes of the total output. When this absolute or
+		percentage figure is low, users should be wary of assuming
+		that the feature in question is rare; it is also possible
+		that it is just infrequently encoded. For example, the
+		relative scarcity of detail concerning script type in the
+		TEI catalogue files (and therefore the tabular output) means
+		that if there are only a few examples of one type in the
+		output, this by no means indicates that these are the only
+		such instances in the collections.
+
 	1.2. Order of Processing
 
 	All configuration files will be processed in alphabetical order by filename,
