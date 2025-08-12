@@ -7,3 +7,7 @@ You do not need to be able to run the processor in order to access the output da
 The processor is accompanied by an app which runs locally in a browser and enables users to merge files output by the processor, to suit diverse requirements for use of the data.
 
 <a href="https://digital-scholarship-oxford.github.io/enabling-digital-research" target="_blank" rel="noopener noreferrer">Click here to access the user guide</a>.
+
+Issues with the authority and catalogue data should be raised through <a href="https://github.com/bodleian/medieval-mss/issues" target="_blank" rel="noopener noreferrer">the bodleian/medieval-mss issues page</a>.
+
+Issues with the processor or web app should be raised through <a href="https://github.com/Digital-Scholarship-Oxford/enabling-digital-research/issues" target="_blank" rel="noopener noreferrer">the issues page attached to this repository</a>.
