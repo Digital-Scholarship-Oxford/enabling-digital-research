@@ -42,7 +42,7 @@
 <p>The authority input file (without suffix) from which the data should be extracted.</p>
 
 <h3>xpath</h3>
-<p>The XPath query that should be used to extract the data for the present output column. Every XPath query in a given authority file must return exactly the same number of values as any other, else the code will fail. <code>string()</code> and <code>string-join()</code> are good ways of forcing multiple (or zero-length) values to be returned as a single value. XPath up to and including version 3.0 is supported, with the exception of FLOWR loops and conditional (e.g. if/else) statements.</p>
+<p>The XPath query that should be used to extract the data for the present output column. Every XPath query in a given authority file must return exactly the same number of values as any other, else the code will fail. <code>string()</code> and <code>string-join()</code> are good ways of forcing multiple (or zero-length) values to be returned as a single value. XPath up to and including version 3.1.</p>
 
 <h3>separator</h3>
 <p>The string separator that should be used when the XPath returns multiple values but the code expects only one. The default values are as below, which can be modified or expanded in <code>_global_config.py</code>:</p>
@@ -86,7 +86,7 @@
 <p>A heading for the output column, within the previously designated section.</p>
 
 <h3>xpath</h3>
-<p>The XPath query that should be used to extract the data for the present output column. Every XPath query in a given authority file must return exactly the same number of values as any other, else the code will fail. <code>string()</code> and <code>string-join()</code> are good ways of forcing multiple (or zero-length) values to be returned as a single value. XPath up to and including version 3.0 is supported, with the exception of FLOWR loops and conditional (e.g. if/else) statements. If you wish to perform an ‘authority lookup’ and extract data from one of the authority output files, then this query must result in an identifier that corresponds with the identifier given in the first column of the relevant authority output file.</p>
+<p>The XPath query that should be used to extract the data for the present output column. Every XPath query in a given authority file must return exactly the same number of values as any other, else the code will fail. <code>string()</code> and <code>string-join()</code> are good ways of forcing multiple (or zero-length) values to be returned as a single value. XPath up to and including version 3.1. If you wish to perform an ‘authority lookup’ and extract data from one of the authority output files, then this query must result in an identifier that corresponds with the identifier given in the first column of the relevant authority output file.</p>
 
 <h3>auth_file</h3>
 <p>The name of the authority output file from which the data should be extracted, if you are performing an authority lookup. Else this can be left blank.</p>

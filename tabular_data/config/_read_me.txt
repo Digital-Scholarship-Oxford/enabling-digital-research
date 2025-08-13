@@ -124,9 +124,7 @@ Below is an explanation of the information contained within each of the default
 				and `string-join()` are good ways of forcing
 				multiple (or zero-length) values to be returned
 				as a single value. XPath up to and including
-				version 3.0 is supported, with the exception of
-				FLOWR loops and conditional (e.g. if/else)
-				statements.
+				version 3.1.
 
 		separator	the string separator that should be used when
 				the XPath returns multiple values but the code
@@ -329,10 +327,8 @@ Below is an explanation of the information contained within each of the default
 				and `string-join()` are good ways of forcing
 				multiple (or zero-length) values to be returned
 				as a single value. XPath up to and including
-				version 3.0 is supported, with the exception of
-				FLOWR loops and conditional (e.g. if/else)
-				statements. If you wish to perform an
-				'authority lookup' and extract data from one
+				version 3.0 is supported. If you wish to perform
+				an 'authority lookup' and extract data from one
 				of the authority output files, then this query
 				must result in an identifier that corresponds
 				with the identifier given in the first column
