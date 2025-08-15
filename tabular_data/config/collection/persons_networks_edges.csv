@@ -1,0 +1,5 @@
+﻿section,heading,xpath,auth_file,auth_section,auth_col,separator,format,comment
+,Source,"//tei:history/descendant::tei:persName[@key][position()>1]/string-join(ancestor::tei:history/(.//tei:persName[@key])[1]/@key, "" "")",,,,,text,
+,Target,"//tei:history/descendant::tei:persName[@key][position()>1]/string-join(@key, "" "")",,,,,text,
+,Type,"//tei:history/descendant::tei:persName[@key][position()>1]/string-join(""Undirected"", "" "")",,,,,text,
+,Label,"//tei:history/descendant::tei:persName[@key][position()>1]/string-join((ancestor::tei:msPart|ancestor::tei:msDesc)[last()]/@xml:id, "" "")",,,,,text,

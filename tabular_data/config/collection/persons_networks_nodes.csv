@@ -1,0 +1,4 @@
+﻿section,heading,xpath,auth_file,auth_section,auth_col,separator,format,comment
+,ID,"//tei:history/descendant::tei:persName[@key]/string-join(@key, "" "")",,,,,text,
+,Label,"//tei:history/descendant::tei:persName[@key]/string-join(@key, "" "")",persons,,name,semi-colon,text,
+,Type,"//tei:history/descendant::tei:persName[@key]/string-join(@role, "" "")",,,,,text,

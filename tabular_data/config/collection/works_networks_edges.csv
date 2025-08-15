@@ -1,0 +1,5 @@
+﻿section,heading,xpath,auth_file,auth_section,auth_col,separator,format,comment
+,Source,"//tei:msContents/descendant::tei:msItem[tei:title/@key][position()>1]/string-join(ancestor::tei:msContents/(.//tei:msItem[tei:title/@key])[1]/tei:title/@key, "" "")",,,,,text,
+,Target,"//tei:msContents/descendant::tei:msItem[tei:title/@key][position()>1]/string-join(tei:title/@key, "" "")",,,,,text,
+,Type,"//tei:msContents/descendant::tei:msItem[tei:title/@key][position()>1]/string-join(""Undirected"", "" "")",,,,,text,
+,Label,"//tei:msContents/descendant::tei:msItem[tei:title/@key][position()>1]/string-join((ancestor::tei:msPart|ancestor::tei:msDesc)[last()]/@xml:id, "" "")",,,,,text,

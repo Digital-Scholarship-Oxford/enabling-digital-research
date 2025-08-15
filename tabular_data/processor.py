@@ -65,7 +65,7 @@ def main():
     try:
         data_quality_auth = summarise_dataframes(auth_df_list)
         save_as(data_quality_auth, auth_csv_output_dir, "data_quality_authority", "csv")
-        save_as(data_quality_auth, auth_csv_output_dir, "data_quality_authority", "json")
+        save_as(data_quality_auth, auth_json_output_dir, "data_quality_authority", "json")
         auth_df_list["data_quality"] = data_quality_auth
     except Exception as e:
         tqdm.write(f"Error producing data quality summary for authority files: {e}")
@@ -99,7 +99,7 @@ def main():
     try:
         data_quality_coll = summarise_dataframes(coll_df_list)
         save_as(data_quality_coll, coll_csv_output_dir, "data_quality_collection", "csv")
-        save_as(data_quality_coll, coll_csv_output_dir, "data_quality_collection", "json")
+        save_as(data_quality_coll, coll_json_output_dir, "data_quality_collection", "json")
         coll_df_list["data_quality"] = data_quality_coll
     except Exception as e:
         tqdm.write(f"Error producing data quality summary for collection files: {e}")

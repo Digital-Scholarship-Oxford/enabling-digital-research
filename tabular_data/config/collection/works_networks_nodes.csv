@@ -1,0 +1,4 @@
+﻿section,heading,xpath,auth_file,auth_section,auth_col,separator,format,comment
+,ID,"//tei:msContents/descendant::tei:msItem[tei:title/@key]/string-join(tei:title/@key, "" "")",,,,,text,
+,Label,"//tei:msContents/descendant::tei:msItem[tei:title/@key]/string-join(tei:title/@key, "" "")",works,,title,semi-colon,text,
+,Type,"//tei:msContents/descendant::tei:msItem[tei:title/@key]/string-join(tei:title/@key, "" "")",works,,subjects,semi-colon,text,
