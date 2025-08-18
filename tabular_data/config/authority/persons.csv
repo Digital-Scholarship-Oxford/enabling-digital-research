@@ -1,3 +1,3 @@
 ﻿section,heading,auth_file,xpath,separator,format,comment
 ,ID,persons,"//tei:person/string-join(@xml:id, """")",,text,"The identifier given to the person, corresponding to that used in the collection files."
-,name,persons,"//tei:person/normalize-space(string-join(tei:persName[@type=""display""]/string-join(., """"), ""; ""))",,text,"The URI given to the person within the Bibliothèque nationale de France database, as encoded within a @target attribute to a ref element with a corresponding value in a title element."
+,name,persons,"//tei:person/normalize-space(string-join(tei:persName[@type=""display""]/string-join(., """"), ""; ""))",,text,The standard name given to the person in the authority file.

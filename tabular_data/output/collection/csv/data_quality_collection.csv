@@ -1,11 +1,11 @@
 ﻿data quality: file,data quality: section,data quality: heading,data quality: count,data quality: percentage
-persons_networks_edges,,Source,5515,100.00%
-persons_networks_edges,,Target,5515,100.00%
-persons_networks_edges,,Type,5515,100.00%
-persons_networks_edges,,Label,5515,100.00%
-persons_networks_nodes,,ID,11879,100.00%
-persons_networks_nodes,,Label,11879,100.00%
-persons_networks_nodes,,Type,11077,93.25%
+persons_networks_edges,,Source,4048,100.00%
+persons_networks_edges,,Target,4048,100.00%
+persons_networks_edges,,Type,4048,100.00%
+persons_networks_edges,,Label,4048,100.00%
+persons_networks_nodes,,ID,9679,100.00%
+persons_networks_nodes,,Label,9679,100.00%
+persons_networks_nodes,,Type,9679,100.00%
 works_networks_edges,,Source,14624,100.00%
 works_networks_edges,,Target,14624,100.00%
 works_networks_edges,,Type,14624,100.00%
