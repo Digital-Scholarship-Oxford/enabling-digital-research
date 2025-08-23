@@ -25,8 +25,12 @@
                                     {% set column_id = (safe ~ '_' ~ column|replace(' ', '_')|replace(':', '_')|replace('.', '_')) %}
                                     <option value="{{ column }}" {% if 'part id' in column|lower %}selected{% endif %}>{{ column }}</option>
                                 {% endfor %}
-                            </select><br><br>
-                            <label for="merge_key_{{ loop.index }}"><strong>Select columns to include:</strong></label>
+                            </select><br>
+                            <label><strong>Select columns to include:</strong></label>
+                            <label>
+                                <input type="checkbox" id="select_all_{{ safe }}" class="select-all" data-file="{{ safe }}">
+                                <strong>Include all</strong>
+                            </label>
                             {% for column in columns %}
                                 {% set column_id = (safe ~ '_' ~ column|replace(' ', '_')|replace(':', '_')|replace('.', '_')) %}
                                 <label for="{{ column_id }}">
@@ -52,26 +56,58 @@
             const checkboxes = document.querySelectorAll(`.colbox_${fileKey}`);
 
             checkboxes.forEach(cb => {
-                if (cb.disabled) {
-                    // Previously disabled checkbox - uncheck and enable it if it's not the new selected
-                    if (cb.value !== selectedValue) {
-                        cb.checked = false;
-                        cb.disabled = false;
-                    }
+                if (cb.disabled && cb.value !== selectedValue) {
+                    cb.checked = false;
+                    cb.disabled = false;
                 }
             });
 
             const match = document.getElementById(safeId);
-                if (match) {
-                    match.checked = true;
-                    match.disabled = true;
-                }
+            if (match) {
+                match.checked = true;
+                match.disabled = true;
             }
+
+            const selectAll = document.getElementById(`select_all_${fileKey}`);
+            if (selectAll) {
+                const enabledBoxes = Array.from(checkboxes).filter(cb => !cb.disabled);
+                selectAll.checked = enabledBoxes.every(cb => cb.checked);
+            }
+        }
 
         document.addEventListener('DOMContentLoaded', () => {
             document.querySelectorAll('select[name$="_merge_key"]').forEach(select => {
-            const fileKey = select.name.replace(/_merge_key$/, '').replace(/[:./\s]/g, '_');
+                const fileKey = select.name.replace(/_merge_key$/, '').replace(/[:./\s]/g, '_');
                 updateCheckbox(fileKey, select.value);
+            });
+
+            // attach "Include all" handlers
+            document.querySelectorAll('.select-all').forEach(allBox => {
+                const fileKey = allBox.dataset.file;
+                const checkboxes = document.querySelectorAll(`.colbox_${fileKey}`);
+
+                // clicking "Include all" toggles all enabled checkboxes
+                allBox.addEventListener('change', () => {
+                    checkboxes.forEach(cb => {
+                        if (!cb.disabled) {
+                            cb.checked = allBox.checked;
+                        }
+                    });
+                });
+
+                // individual checkbox change updates "Include all"
+                checkboxes.forEach(cb => {
+                    cb.addEventListener('change', () => {
+                        if (!cb.disabled) {
+                            if (!cb.checked) {
+                                allBox.checked = false;
+                            } else {
+                                const enabledBoxes = Array.from(checkboxes).filter(c => !c.disabled);
+                                allBox.checked = enabledBoxes.every(c => c.checked);
+                            }
+                        }
+                    });
+                });
             });
         });
     </script>
