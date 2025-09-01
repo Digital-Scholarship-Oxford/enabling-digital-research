@@ -25667,7 +25667,8 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             <bibl xml:id="work_5121">
                <!--original: Proclus-->
                <author key="person_102369543">Proclus, approximately 410–485</author>
-               <title type="uniform">Proclus, approximately 410–485: Commentary on Plato, Parmenides [Latin]</title>
+               <author key="person_2471391" role="translator">William, of Moerbeke, approximately 1215–1286</author>
+               <title type="uniform">Proclus, approximately 410–485: Commentary on Plato, Parmenides (tr. William of Moerbeke) [Latin]</title>
                <title type="normalised_ms">commentary on plato, parmenides</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Digby 236</note>
@@ -25685,7 +25686,8 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             <bibl xml:id="work_3784">
                <!--original: Proclus-->
                <author key="person_102369543">Proclus, approximately 410–485</author>
-               <title type="uniform">Proclus, approximately 410–485: De decem dubitationibus [Latin]</title>
+               <author key="person_2471391" role="translator">William, of Moerbeke, approximately 1215–1286</author>
+               <title type="uniform">Proclus, approximately 410–485: De decem dubitationibus (tr. William of Moerbeke) [Latin]</title>
                <title type="normalised_ms">de decem dubitationibus</title>
                <textLang mainLang="la"/>
                <term ref="#subject_philosophy"/>
@@ -25694,7 +25696,8 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             <bibl xml:id="work_3785">
                <!--original: Proclus-->
                <author key="person_102369543">Proclus, approximately 410–485</author>
-               <title type="uniform">Proclus, approximately 410–485: De malorum subsistencia [Latin]</title>
+               <author key="person_2471391" role="translator">William, of Moerbeke, approximately 1215–1286</author>
+               <title type="uniform">Proclus, approximately 410–485: De malorum subsistencia (tr. William of Moerbeke) [Latin]</title>
                <title type="normalised_ms">de malorum subsistencia</title>
                <textLang mainLang="la"/>
                <term ref="#subject_philosophy"/>
@@ -25713,7 +25716,8 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             <bibl xml:id="work_3787">
                <!--original: Proclus-->
                <author key="person_102369543">Proclus, approximately 410–485</author>
-               <title type="uniform">Proclus, approximately 410–485: De prouidentia et fato [Latin]</title>
+               <author key="person_2471391" role="translator">William, of Moerbeke, approximately 1215–1286</author>
+               <title type="uniform">Proclus, approximately 410–485: De prouidentia et fato (tr. William of Moerbeke) [Latin]</title>
                <title type="normalised_ms">de prouidentia et fato</title>
                <textLang mainLang="la"/>
                <term ref="#subject_philosophy"/>
@@ -32286,6 +32290,48 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                   </list>
                </note>
                <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7465">
+               <title type="uniform">Commentary on Statius, Achilleis [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_classical_literature"/>
+            </bibl>
+            <bibl xml:id="work_7466">
+               <author key="person_19688718">Averroës, 1126–1198</author>
+               <title type="uniform">Averroës, 1126–1198: De animae beatitudine [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_philosophy"/>
+               <bibl>eTK 0762E</bibl><bibl><title>Averroës, La béatitude de l’âme</title>, ed. M. Geoffrey and C. Steel (Paris: J. Vrin, 2001)</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/de-animae-beatitudine-averroes-n-1126-m-1192-title/7948"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            <bibl xml:id="work_7467">
+               <author key="person_19688718">Averroës, 1126–1198</author>
+               <title type="uniform">Averroës, 1126–1198: De separatione primi principii [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_philosophy"/>
+               <bibl>Carlos Steel and Guy Guldentops, “An unknown treatise of Averroes against the Avicennians on the first cause. Edition and translation.” <title>Recherches de Théologie et Philosophie Médiévales</title>, vol. 64, no. 1, 1997, pp. 86–135. </bibl>
+             <bibl>Diaz, 1070</bibl>
+            </bibl>
+            <bibl xml:id="work_7468">
+               <author key="person_19688718">Averroës, 1126–1198</author>
+               <title type="uniform">Averroës, 1126–1198: Epistola ad amicum [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_philosophy"/>
+               <bibl>Silvia Di Donato 'La tradizione ebraica dell'opuscolo di Averroè sulla scienza divina' in <title>Philosophical Translations in Late Antiquity and Middle Ages. In Memory of Mauro Zonta</title>, ed. Francesca Gorgoni, Irene Kajon, Luisa Valente (Roma, Aracne 2022) pp. 141-69, at 150 and n. 18 </bibl>
+             <bibl>Diaz, 1070</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/appendix-averroes-n-1126-m-1192-title/237229"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
@@ -111664,7 +111710,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
                <note type="shelfmark">Christ Church MS. 103</note><term ref="#subject_law"/>
             </bibl>
-            <bibl xml:id="work_13431">
+           <!-- <bibl xml:id="work_13431">
+              use 13432
                <title type="ms">Nauigatio Brendani</title>
                <title type="uniform">Nauigatio Brendani [Latin]</title>
                <title type="normalised">nauigatio brendani [Latin]</title>
@@ -111672,18 +111719,17 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. e Mus. 3</note>
                <term ref="#subject_hagiography"/>
-            </bibl>
+            </bibl>-->
             <bibl xml:id="work_13432">
-               <title type="ms">Nauigatio S. Brendani</title>
                <title type="uniform">Nauigatio S. Brendani [Latin]</title>
-               <title type="normalised">nauigatio s brendani [Latin]</title>
+               <title type="variant">navigatio sancti brendani [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Laud Misc. 173</note>
                <note type="shelfmark">MS. Laud Misc. 237</note>
                <note type="shelfmark">MS. Laud Misc. 410</note>
                <term ref="#subject_hagiography"/>
-               <bibl type="repertory"><ref target="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHL&amp;number=1436"><title>BHL</title> 1436</ref></bibl>
+               <bibl type="repertory"><ref target="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHL&amp;number=1436"><title>BHL</title> 1436-1440c</ref></bibl>
                <bibl type="edition">Giovanni Orlandi and Rossana Eugenia Guglielmetti, <title>Navigatio sancti Brendani. Alla scoperta dei segreti meravigliosi del mondo</title> Firenze, SISMEL. Edizioni del Galluzzo 2014 (Fondazione Ezio Franceschini. Per verba. Testi mediolatini con traduzione 30)</bibl>
                <bibl type="edition">Rossana Eugenia Guglielmetti and Giovanni Orlandi, <title>Navigatio sancti Brendani</title>, Firenze, SISMEL. Edizioni del Galluzzo 2017 (Millennio medievale 114. Testi [SISMEL] 29)</bibl>
                <bibl type="edition">Francesca Delzotti, ‘Le due versioni in prosa latina del «Voyage de saint Brendan» di Benedeit. Sinossi fra i tre testi e la «Navigatio sancti Brendani»’, in <title>E codicibus</title>, cur. Rossana Eugenia Guglielmetti, 2018, pp. III–172 (http://ecodicibus.sismelfirenze.it) [prints version in MS. e Mus. 3]</bibl>
@@ -119679,6 +119725,13 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="frm"/>
                <note type="shelfmark">MS. Lyell 46</note>
                <term ref="#subject_monasticism_and_religious_orders"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://jonas.irht.cnrs.fr/oeuvre/9821"><title>JONAS</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_14304">
                <title type="uniform">Regula S. Benedicti (‘Oxforder Benediktinerregel’) [German]</title>
@@ -139549,6 +139602,17 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">De tribus signis boni status [Latin]</title>
                <textLang mainLang="la"/>
                <term ref="#subject_theology"/>
+            </bibl>
+            <bibl xml:id="work_17521">
+               <author key="person_3288237">Otto, von Passau, active 1386</author>
+               <title type="uniform">Otto, von Passau, active 1386: Die vierundzwanzigsten Alten [Middle High German]</title>
+               <textLang mainLang="gmh"/>
+               <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item><ref target="http://www.handschriftencensus.de/werke/536"><title>Handschriftencensus</title></ref></item>
+                  </list>
+               </note>
             </bibl>
            
          </listBibl>
