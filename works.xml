@@ -1661,13 +1661,13 @@
                <author key="person_4346">Sibellinus Rorbach, fl. 15th century?</author>
                <title type="uniform">Sibellinus Rorbach, fl. 15th century(?): Hymns [German and Latin]</title>
                <term ref="#subject_liturgy"/>
-               <textLang mainLang="de" otherLangs="la"/>
+               <textLang mainLang="gmh" otherLangs="la"/>
             </bibl>
             <bibl xml:id="work_7409">
                <author key="person_41950212">Eike, von Repgow, approximately 1180–approximately 1233</author>
                <title type="uniform">Eike, von Repgow, approximately 1180–approximately 1233: Sachsenspiegel [German]</title>
                <note>Landrecht and Lehnrecht</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <bibl type="edition">Eckhardt, Karl August (ed.), <title>Sachsenspiegel Landrecht</title> and <title>Sachsenspiegel Lehnrecht</title>, Monumenta Germaniae Historica: Fontes Ivris Germanici Antiqvi Nova Series, vol 1, parts i, ii (Göttingen 1973<hi rend="superscript">3</hi>).</bibl>
                <term ref="#subject_law"/>
                <note type="links">
@@ -1682,7 +1682,7 @@
                <author key="person_64802227">Conradus de Wittelspach, Archbishop of Mainz, c. 1120–1200</author>
                <title type="uniform">Conradus de Wittelspach, Archbishop of Mainz, c. 1120–1200: Erfurter Judeneid [German]</title>
                <title type="variant">Jew's Oath</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <bibl type="edition">Müllenhoff, K., and W. Scherer (eds.), <title>Denkmäler Deutscher Poesie und Prosa aus dem VIII-XII Jahrhundert. Bd. I: Texte</title> (Berlin 1892), pp. 320ff.</bibl>
                <term ref="#subject_law"/>
                <note type="links">
@@ -1752,7 +1752,7 @@
                <author key="person_38590640">Ortolf, von Bayrlandt</author>
                <title type="uniform">Ortolf, von Bayrlandt: Arzneibuch [Latin]</title>
                <term ref="#subject_medicine"/>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="links">
                   <list type="links">
                      <item><ref target="http://viaf.org/viaf/3146522249532391208"><title>VIAF</title></ref></item>
@@ -8776,7 +8776,7 @@
                <author key="person_59271546">Peter von Arberg, ca. 1340</author>
                <title type="uniform">Peter von Arberg, ca. 1340: Große Tageweise [German]</title>
                <title type="variant">Dat dagelyt von der heiligen passien.</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gml"/>
                <term ref="#subject_christian_literature"/>
                <note type="links">
                   <list type="links">
@@ -8877,7 +8877,7 @@
             <bibl xml:id="work_6644">
                <author key="person_64436578">Paulinus, Johannes, 13th/14th century</author>
                <title type="uniform">Paulinus, Johannes, 13th/14th century: Salus Vitae (tr., ‘Schlangenhauttraktat’/‘Natternhemdtraktat’) [German]</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_6643">
@@ -8920,7 +8920,7 @@
             <bibl xml:id="work_6640">
                <author key="person_17218027">Seuse, Heinrich, 1295–1366</author>
                <title type="uniform">Seuse, Heinrich, 1295–1366: Büchlein der ewigen Weisheit [German]</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="de"/><!--not sure what to put here as the Bod has two witnesses categorised as gml and de but originally would have been gmh.-->
                <term ref="#subject_christian_literature"/>
                <note type="links">
                   <list type="links">
@@ -10835,7 +10835,7 @@
             <bibl xml:id="work_6434">
                <author key="person_289681963">Bonaventure, Saint, Cardinal, approximately 1217–1274, pseudo</author>
                <title type="uniform"> Bonaventure, Saint, Cardinal, approximately 1217–1274, pseudo: Arbor amoris (tr., ‘Der Minnebaum’) [German]</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="links">
                   <list type="links">
                      <item>
@@ -23493,7 +23493,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <author key="person_100218964">Boethius, –524</author>
                <title type="uniform">Boethius, –524: De consolatione philosophiae [German]</title>
                <title type="normalised_ms">de consolatione philosophiae</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Hamilton 46</note>
                <note>Edition forthcoming (2018) by Daniela Mairhofer. Cf. Daniela Mairhofer, 'Bodleian Library, MS. Hamilton 46. “Der Oxforder Boethius. Edition und Studie”, <title>Oxford German Studies</title>, 46:2 (2017), 206–212.</note>
                <term ref="#subject_philosophy"/>
@@ -32332,6 +32332,14 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                      </item>
                   </list>
                </note>
+            </bibl>
+            <bibl xml:id="work_7469">
+               <author key="person_120699895">Leontius, Bishop of Neapolis, active 7th century</author>
+               <author key="person_288020945" role="translator">Anastasius, the Librarian, approximately 810–approximately 878</author>
+               <title type="uniform">Leontius, Bishop of Neapolis, active 7th century: Vita S. Iohannis Eleemosynarii (tr. Anastasius Bibliothecarius) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_hagiography"/>
+               <bibl>PL 73. 337—84</bibl><bibl>BHL 4388</bibl>
             </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
@@ -55636,7 +55644,7 @@ Medieval Papacy -->
                <!--original: Dietrich Truchseß-->
                <author key="person_57047805">Truchseß, Dietrich, –1467</author>
                <title type="normalised_ms">excerpta chronicarum</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Douce 367</note>
                <term ref="#subject_history"/>
             </bibl>
@@ -55688,7 +55696,7 @@ Medieval Papacy -->
             <bibl xml:id="work_3436">
                <!--original: Palladius-->
                <author key="person_61550437">Palladius, Bishop of Aspuna, -approximately 430</author>
-               <title type="uniform">Palladius, Bishop of Aspuna, -approximately 430: Historica lausiaca [Greek]</title>
+               <title type="uniform">Palladius, Bishop of Aspuna, -approximately 430: Historia Lausiaca [Greek]</title>
                <title type="normalised_ms">historica lausiaca</title>
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Cromwell 18</note>
@@ -56696,7 +56704,7 @@ Medieval Papacy -->
                <author key="person_59133273">Jacobus, de Theramo, 1350 or 1351–1417</author>
                <title type="uniform">Jacobus, de Theramo, 1350 or 1351–1417: Processus Belial siue consolatio peccatorum (tr.) [German]</title>
                <title type="normalised_ms">processus belial</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. d. 4</note>
                <bibl type="edition"> pr. Augsburg, 1472 (Proctor 1530, GW M11082)</bibl>
                <bibl>Norbert H. Ott, <title>Rechtspraxis und Heiligeschichte: zu Überlieferung, Ikonographie und Gebrauchssituation des deutschen Belial</title>, Münchener Texte und Untersuchungen zur deutschen Literatur des Mittelalters, 80 (Munich, 1983)</bibl>
@@ -57750,9 +57758,11 @@ Medieval Papacy -->
             <bibl xml:id="work_3437">
                <!--original: Palladius of Hellenopolis-->
                <author key="person_61550437">Palladius, Bishop of Aspuna, -approximately 430</author>
-               <title type="uniform">Palladius, Bishop of Aspuna, -approximately 430: Historia lausiaca [Latin]</title>
+               <title type="uniform">Palladius, Bishop of Aspuna, -approximately 430: Historia Lausiaca [Latin]</title>
                <title type="normalised_ms">historia lausiaca</title>
                <textLang mainLang="la"/>
+               <bibl>PL 74. 249–342</bibl><bibl>ed. A.Wellhausen, Patristische
+                  Texte und Studien 51 (2003)</bibl><bibl>BHL 6532–4.</bibl>
                <note type="shelfmark">MS. Bodl. 602</note>
                <note type="shelfmark">MS. Bodl. 839</note>
                <term ref="#subject_history"/>
@@ -57873,7 +57883,7 @@ Medieval Papacy -->
                <author key="person_61642222">Hugo, Argentinensis, approximately 1210–approximately 1270</author>
                <title type="uniform">Hugo, Argentinensis, approximately 1210–approximately 1270: Compendium theologicae veritatis [German]</title>
                <title type="normalised_ms">compendium theologicae veritatis</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Laud Misc. 521</note>
                <term ref="#subject_theology"/>
             </bibl>
@@ -76574,7 +76584,7 @@ Medieval Papacy -->
                <author key="person_9865788">Hugh, of Saint-Victor, 1096?–1141</author>
                <title type="uniform">Hugh, of Saint-Victor, 1096?–1141 (?): Expositio in Regulam S. Augustini (tr.) [German]</title>
                <title type="normalised_ms">expositio in regulam s. augustini</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 5</note>
                <term ref="#subject_monasticism_and_religious_orders"/>
                <!--<note type="subject">commentarii</note>-->
@@ -78115,7 +78125,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_documents"/>
                <title type="normalised">accounts [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Lat. misc. a. 3</note>
             </bibl>
             <bibl xml:id="work_10068">
@@ -80651,7 +80661,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="normalised">astrological text(s) [German and Latin]</title>
                <note type="language">German and Latin</note>
                <textLang mainLang="de" otherLangs="la"/>
-               <note type="shelfmark">MS. Ashmole 189</note>
+               <note type="shelfmark">MS. Ashmole 189</note><!--Work does not exist. There are no German treatises in MS Ashmole 189. Perhaps a reference to the Middle Dutch part.-->
                <term ref="#subject_science"/>
                <!--<note type="subject">astrologia et astronomia</note>-->
             </bibl>
@@ -81849,7 +81859,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Bible [German]</title>
                <title type="normalised">bible [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MSS. Bodl. 969–70</note>
                <term ref="#subject_bible"/>
                <!--<bibl type="repertory">Verfasserlexicon I (1978) 517–519</bibl>
@@ -83915,7 +83925,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             <bibl xml:id="work_13620">
                <title type="uniform">Bible, Old Testament, Proverbs to Maccabees, [Latin]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="goh"/>
                <note type="shelfmark">MS. Laud Lat. 97</note>
                <term ref="#subject_bible"/>
             </bibl>
@@ -84090,7 +84100,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Bible, Old Testament, Song of Songs [German]</title>
                <title type="normalised">song of songs [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 10</note>
             </bibl>
             <bibl xml:id="work_14658">
@@ -84653,7 +84663,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_liturgy"/>
                <note type="language">German</note>
                <textLang mainLang="de"/>
-               <note type="shelfmark">MS. Germ. g. 1</note>
+               <note type="shelfmark">MS. Germ. g. 1</note><!--Work no longer referred to in the catalogue entry, simply linked to work_16440 (Prayer Book). Could be cut.-->
             </bibl>
             <bibl xml:id="work_10516">
                <title type="ms">Book of Hours or Psalter</title>
@@ -93720,7 +93730,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Deeds connected with the towns of Gemünd and Frankfurt-am-Main [German]</title>
                <title type="normalised">deeds connected with towns of gemünd and frankfurt-am-main [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. b. 1</note><term ref="#subject_documents"/>
             </bibl>
             <bibl xml:id="work_11490">
@@ -93728,7 +93738,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Deeds connected with the towns of Gemünd and Frankfurt-am-Main and Stockach [German]</title>
                <title type="normalised">deeds connected with towns of gemünd and frankfurt-am-main and stockach [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. b. 2</note><term ref="#subject_documents"/>
             </bibl>
             <bibl xml:id="work_11491">
@@ -93899,7 +93909,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="language">German</note>
                <textLang mainLang="de"/><term ref="#subject_christian_literature"/>
                <!--<note type="subject">devotiones</note>-->
-               <note type="shelfmark">MS. Germ. e. 5</note>
+               <note type="shelfmark">MS. Germ. e. 5</note><!--Work no longer referred to in catalogue entry, could be cut.-->
             </bibl>
             <bibl xml:id="work_11514">
                <title type="ms">Devotion</title>
@@ -97059,11 +97069,11 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
           <note type="subject">auctoritates</note>
         </bibl>-->
             <bibl xml:id="work_11851">
-               <title type="ms">Form for confession</title>
-               <title type="uniform">Form of confession [German]</title>
-               <title type="normalised">form for confession [German]</title>
+               <title type="ms">Formula for confession</title>
+               <title type="uniform">Formula of confession [German]</title>
+               <title type="normalised">formula for confession [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 5</note>
                <term ref="#subject_theology"/>
                <!--<note type="subject">sacramenta</note>-->
@@ -97223,7 +97233,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Formulary of documents [Latin and German]</title>
                <title type="normalised">formularies of charters [Latin and German]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <note type="shelfmark">MS. Lat. misc. d. 66</note>
                <term ref="#subject_literature"/>
                <!--<note type="subject">dictamen</note>-->
@@ -97243,7 +97253,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Formulary of letters [German]</title>
                <title type="normalised">formularies of letters in German [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Lat. misc. d. 66</note>
                <term ref="#subject_literature"/>
                <!--<note type="subject">dictamen</note>-->
@@ -98831,7 +98841,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Glossary ('Junius A') [Latin and German]</title>
                <title type="normalised">glossary (junius a) [Latin and German]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="goh"/>
                <term ref="#subject_grammar"/>
                <note type="shelfmark">MS. Junius 25</note>
             </bibl>
@@ -98840,7 +98850,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Glossary ('Junius B') [Latin and German]</title>
                <title type="normalised">glossary (junius b) [Latin and German]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="goh"/>
                <term ref="#subject_grammar"/>
                <note type="shelfmark">MS. Junius 25</note>
             </bibl>
@@ -98850,7 +98860,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="normalised">glossary (junius c) [Latin and German]</title>
                <note type="language">Latin and German</note>
                <term ref="#subject_grammar"/>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="goh"/>
                <note type="shelfmark">MS. Junius 25</note>
             </bibl>
             <bibl xml:id="work_12035">
@@ -98869,7 +98879,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="language">Latin and German (?)</note>
                <textLang mainLang="la" otherLangs="de"/>
                <term ref="#subject_grammar"/>
-               <note type="shelfmark">MS. Junius 83</note>
+               <note type="shelfmark">MS. Junius 83</note><!--Work not referenced in MS-->
             </bibl>
             <bibl xml:id="work_12037">
                <title type="ms">Glossary</title>
@@ -99005,11 +99015,11 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <!--<note type="subject">commentarii</note>-->
             </bibl>
             <bibl xml:id="work_12054">
-               <title type="ms">Glosses on Virgil in Latin and Old High German.</title>
-               <title type="uniform">Glosses on Virgil in Latin and Old High German [Latin and German]</title>
-               <title type="normalised">glosses on virgil in Latin and old high German [Latin and German]</title>
-               <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <title type="ms">Glosses on Virgil in Latin, Old Saxon and Old High German.</title>
+               <title type="uniform">Glosses on Virgil in Latin, Old Saxon and Old High German [Latin, Old Saxon and Old High German]</title>
+               <title type="normalised">glosses on virgil in latin, old saxon and old high German [Latin, Old Saxon and Old High German]</title>
+               <note type="language">Latin, Old Saxon, Old High German</note>
+               <textLang mainLang="la" otherLangs="osx goh"/>
                <note type="shelfmark">MS. Auct. F. 1. 16</note>
                <term ref="#subject_classical_literature"/>
             </bibl>
@@ -99027,7 +99037,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Glosses on the Old and New Testament [Latin and German (?)]</title>
                <title type="normalised">glosses on old and new testament [Latin and German (?)]</title>
                <note type="language">Latin and German (?)</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <note type="shelfmark">MS. Junius 83</note>
                <!--<note type="subject">commentarii</note>-->
                <term ref="#subject_bible"/>
@@ -101269,7 +101279,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="normalised">hymn [Latin and German]</title>
                <note type="language">Latin and German</note>
                <textLang mainLang="la" otherLangs="de"/>
-               <note type="shelfmark">MS. Hamilton 46</note><term ref="#subject_liturgy"/>
+               <note type="shelfmark">MS. Hamilton 46</note><term ref="#subject_liturgy"/><!--Work not referneced in MS, could be a reference to Sibellinus Rorbach, Hymn which already has an entry.-->
             </bibl>
             <bibl xml:id="work_12322">
                <title type="ms">Hymn</title>
@@ -101380,7 +101390,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="language">Latin with German glosses</note>
                <textLang mainLang="la" otherLangs="de"/>
                <note type="shelfmark">MS. Junius 25</note>
-               <note type="shelfmark">MS. Junius 25</note><term ref="#subject_liturgy"/>
+               <note type="shelfmark">MS. Junius 25</note><term ref="#subject_liturgy"/><!--Work no longer referenced in MS-->
             </bibl>
             <bibl xml:id="work_12334">
                <title type="ms">Hymns</title>
@@ -102861,7 +102871,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Latin-German vocabulary ('Abstractum-Glossar') [Latin and German]</title>
                <title type="normalised">Latin-German vocabulary [Latin and German]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <note type="shelfmark">MS. Lat. th. d. 14</note><term ref="#subject_grammar"/>
                <note type="links">
                   <list type="links">
@@ -103077,7 +103087,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Guardbook [German]</title>
                <title type="normalised">leaf mutilated in a guardbook [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. b. 3, fol. 8</note>
                <!--<note type="subject">miscellanea</note>-->
                <term ref="#subject_literature"/>
@@ -104081,7 +104091,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Letter [German and Latin]</title>
                <title type="normalised">letter [German and Latin]</title>
                <note type="language">German and Latin</note>
-               <textLang mainLang="de" otherLangs="la"/><term ref="#subject_documents"/>
+               <textLang mainLang="gmh" otherLangs="la"/><term ref="#subject_documents"/>
                <note type="shelfmark">MS. Lat. th. e. 18</note>
             </bibl>
             <bibl xml:id="work_12635">
@@ -107934,7 +107944,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             <bibl xml:id="work_13055">
                <title type="uniform">Der Heiligen Leben [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Laud Misc. 443</note>
                <term ref="#subject_hagiography"/>
                <bibl>ed. Margit Brand, Tübingen, 1996– (Texte und Textgeschichte; 44, 51)</bibl>
@@ -109463,7 +109473,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Medical recipes [Latin and German]</title>
                <title type="normalised">medical recipes [Latin and German]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <note type="shelfmark">MS. Lyell empt. 2</note>
                <term ref="#subject_medicine"/>
             </bibl>
@@ -109772,7 +109782,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="ms">Medical treatise</title>
                <title type="uniform">Bartholomäus [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Canon. Liturg. 334</note>
                <term ref="#subject_medicine"/>
                <note type="links">
@@ -109899,7 +109909,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="language">German and Latin</note>
                <textLang mainLang="de" otherLangs="la"/>
                <note type="shelfmark">MS. Ashmole 189</note>
-               <term ref="#subject_medicine"/>
+               <term ref="#subject_medicine"/><!--Work not referenced in MS, could be cut, also not German but Dutch-->
             </bibl>
             <bibl xml:id="work_13229">
                <title type="ms">Medical treatises</title>
@@ -110623,7 +110633,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Miracles of St. Foy and related material [German and Latin]</title>
                <title type="normalised">miracles of st foy and related material [German and Latin]</title>
                <note type="language">German and Latin</note>
-               <textLang mainLang="de" otherLangs="la"/>
+               <textLang mainLang="gmh" otherLangs="la"/>
                <note type="shelfmark">MS. Lyell 64</note>
                <term ref="#subject_hagiography"/>
                <!--<note type="subject">miracula</note>-->
@@ -113421,7 +113431,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
         </bibl>-->
             <bibl xml:id="work_13654">
                <title type="uniform">Manual for the provost of the Cistercian nunnery of St. Mary and St. Maurice, Medingen [Latin and German]</title>
-               <textLang mainLang="la" otherLangs="de"/><term ref="#subject_liturgy"/>
+               <textLang mainLang="la" otherLangs="gml"/><term ref="#subject_liturgy"/>
                <note type="shelfmark">MS. Lat. liturg. e. 18</note>
             </bibl>
             <!--<bibl xml:id="work_13655">
@@ -113856,7 +113866,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Paradisus animae intelligentis [German]</title>
                <title type="normalised">paradisus animae intelligentis [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Laud Misc. 479</note>
                <term ref="#subject_sermons"/>
             </bibl>
@@ -115053,10 +115063,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_13842">
                <title type="ms">Poem of advice to a youth</title>
-               <title type="uniform">Poem of advice to a youth [German and Middle French]</title>
-               <title type="normalised">poem of advice to a youth [German and Middle French]</title>
-               <note type="language">German and Middle French</note>
-               <textLang mainLang="de" otherLangs="frm"/>
+               <title type="uniform">Poem of advice to a youth [Middle French and Middle Dutch]</title>
+               <title type="normalised">poem of advice to a youth [Middle French and Middle Dutch]</title>
+               <note type="language">Middle French and Middle Dutch</note>
+               <textLang mainLang="frm" otherLangs="dum"/>
                <note type="shelfmark">MS. Canon. Misc. 278</note>
                <term ref="#subject_literature"/>
                <!--<note type="subject">versus</note>-->
@@ -116128,7 +116138,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             <bibl corresp="#work_16440" xml:id="work_13934">
                <title type="uniform">Prayer [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 5</note>
                <term ref="#subject_christian_literature"/>
                <term ref="#subject_theology"/>
@@ -118420,10 +118430,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
         </bibl>-->
             <bibl xml:id="work_14167">
                <title type="ms">Psalter: portable Premonstratensian Psalter</title>
-               <title type="uniform">Psalter, Premonstratensian Use [German and Latin]</title>
-               <title type="normalised">psalter: portable premonstratensian psalter [German and Latin]</title>
-               <note type="language">German and Latin</note>
-               <textLang mainLang="de" otherLangs="la"/>
+               <title type="uniform">Psalter, Premonstratensian Use [Latin and German]</title>
+               <title type="normalised">psalter: portable premonstratensian psalter [Latin and German]</title>
+               <note type="language">Latin and German</note>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <note type="shelfmark">MS. Liturg. 402</note>
                <term ref="#subject_liturgy"/>
                <term ref="#subject_bible"/>
@@ -120499,7 +120509,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la" otherLangs="de"/>
                <note type="shelfmark">MS. Canon. Pat. Lat. 52</note>
                <term ref="#subject_theology"/>
-               <term ref="#subject_christian_literature"/>
+               <term ref="#subject_christian_literature"/><!--Work not referenced in MS, can be cut-->
                <!--<note type="subject">devotiones</note>-->
             </bibl>
             <bibl xml:id="work_14368">
@@ -121371,7 +121381,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="variant">Rule of St. Augustine</title>
                <title type="variant"> Informatio regularis</title>
                <title type="variant">Regula tertia</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 5</note><term ref="#subject_monasticism_and_religious_orders"/>
                <note type="links">
                   <list type="links">
@@ -121419,7 +121429,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Rule of St. Clare (tr., 'Klarissenregel') [German]</title>
                <title type="normalised">rule of st clare [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Lyell 68</note>
                <term ref="#subject_monasticism_and_religious_orders"/>
                <note type="links">
@@ -122167,7 +122177,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             <bibl xml:id="work_14546">
                <title type="uniform">Sermon [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 5</note>
                <note type="shelfmark">MS. Germ. e. 5</note><term ref="#subject_sermons"/>
             </bibl>
@@ -124546,7 +124556,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Statutes of the city of Magdeburg [German]</title>
                <title type="normalised">statutes of city of magdeburg [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Laud Misc. 741</note>
                <term ref="#subject_documents"/>
                <term ref="#subject_law"/>
@@ -125231,13 +125241,16 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_indexes"/>
             </bibl>
             <bibl xml:id="work_14868">
+               <author role="translator" key="person_263405623">Faraǧ Ibn-Sālim, 13th century</author>
                <title type="ms">Tacuinum sanitatis</title>
-               <title type="uniform">Tacuinum sanitatis [Latin]</title>
+               <title type="uniform">Tacuinum sanitatis (tr. Faraǧ Ibn-Sālim) [Latin]</title>
                <title type="normalised">tacuinum sanitatis [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Add. A. 113</note>
                <note type="shelfmark">MS. Add. D. 32</note>
+               <bibl>pr. Strassburg 1531</bibl>
+               <bibl>Thorndike/Kibre 694 (prol.), 373 (text).</bibl>
                <term ref="#subject_medicine"/>
             </bibl>
             <bibl xml:id="work_14870">
@@ -127351,7 +127364,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="normalised">theological text(s) [Latin and German]</title>
                <note type="language">Latin and German</note>
                <textLang mainLang="la" otherLangs="de"/>
-               <note type="shelfmark">MS. Hamilton 46</note><term ref="#subject_theology"/>
+               <note type="shelfmark">MS. Hamilton 46</note><term ref="#subject_theology"/><!--Work not referenced in MS, can be cut.-->
             </bibl>
             <bibl xml:id="work_15288">
                <title type="ms">Theological pieces and excerpts from the fathers including Anastasius of Sinai.</title>
@@ -131582,10 +131595,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_15434">
                <title type="ms">Verses</title>
-               <title type="uniform">Verses [Latin and German and Middle French]</title>
-               <title type="normalised">verses [Latin and German and Middle French]</title>
-               <note type="language">Latin and German and Middle French</note>
-               <textLang mainLang="la" otherLangs="de frm"/>
+               <title type="uniform">Verses [Latin and Middle Dutch and Middle French]</title>
+               <title type="normalised">verses [Latin and Middle Dutch and Middle French]</title>
+               <note type="language">Latin and Middle Dutch and Middle French</note>
+               <textLang mainLang="la" otherLangs="dum frm"/>
                <note type="shelfmark">MS. Canon. Misc. 278</note>
                <term ref="#subject_literature"/>
                <!--<note type="subject">versus</note>-->
@@ -131595,7 +131608,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Verses [Latin and German]</title>
                <title type="normalised">verses [Latin and German]</title>
                <note type="language">Latin and German</note>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <note type="shelfmark">MS. Lat. misc. d. 66</note>
                <term ref="#subject_literature"/>
                <!--<note type="subject">versus</note>-->
@@ -132989,10 +133002,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_14454">
                <title type="ms">rule for Augustinian canonesses</title>
-               <title type="uniform">Statutes for female religious following the rule of St Augustine [German]</title>
+               <title type="uniform">Statutes for female religious following the rule of St Augustine [Middle High German]</title>
                <title type="normalised">rule for augustinian canonesses [German]</title>
                <note type="language">German</note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <note type="shelfmark">MS. Germ. e. 5</note>
                <term ref="#subject_monasticism_and_religious_orders"/>
             </bibl>
@@ -133365,7 +133378,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_16011">
                <title type="uniform">Religious drama [Latin and German]</title>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <term ref="#subject_literature"/>
                <!--<note type="subject">drama</note>-->
             </bibl>
@@ -135696,7 +135709,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_16240"><!-- check: nb to add -->
                <title type="uniform">Glosses [German]</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="goh"/>
                <!--<note type="subject">commentarii</note>-->
                <term ref="#subject_grammar"/>
             </bibl>
@@ -136534,10 +136547,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_liturgy"/>
             </bibl>
             <bibl xml:id="work_16338">
-               <title type="uniform">Life of St. Katherine of Alexandria [German]</title>
+               <title type="uniform">Life of St. Katherine of Alexandria [Middle High German]</title>
                <title type="variant">life of st catherine of alexandria</title>
-               <note type="language">Latin</note>
-               <textLang mainLang="de"/>
+               <note type="language">Middle High German (northern central dialect)</note>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_hagiography"/>
             </bibl>
             <bibl xml:id="work_16339">
@@ -136791,8 +136804,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
             </bibl>
             <bibl xml:id="work_16375">
-               <title type="uniform">Schöffenspruch [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Schöffenspruch [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_law"/>
                <note type="links">
                   <list type="links">
@@ -136866,8 +136879,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_bible"/>
             </bibl>
             <bibl xml:id="work_16387">
-               <title type="uniform">Glossar Jd [Latin and German]</title>
-               <textLang mainLang="la" otherLangs="de"/>
+               <title type="uniform">Glossar Jd [Latin and Old High German]</title>
+               <textLang mainLang="la" otherLangs="goh"/>
                <term ref="#subject_grammar"/>
             </bibl>
             <bibl xml:id="work_16388">
@@ -136928,17 +136941,17 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                </note>
             </bibl>
             <bibl xml:id="work_16395">
-               <title type="uniform">Epistle and Gospel list [German]</title>
-               <title type="variant">comes</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Epistle and Gospel list [Middle High German]</title>
+               <title type="variant">comes</title><!--is this right?-->
+               <textLang mainLang="gmh"/>
                <term ref="#subject_bible"/>
                <term ref="#subject_liturgy"/>
             </bibl>
             <bibl xml:id="work_16396">
                <author key="person_2583890">Alexander, de Villa Dei (?)</author>
-               <title type="uniform">Summarium bibliae with commentary [German]</title>
+               <title type="uniform">Summarium bibliae with commentary [Middle High German]</title>
                <term ref="#subject_bible"/>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
                <bibl type="repertory"><ref target="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=1175">Stegmüller, <title>Bibl.</title> 1175</ref>-<ref target="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=1175">1182</ref></bibl>
                <bibl>Wilhelm Walther, <title>Die deutsche Bibelübersetzung des Mittelalters</title> (1889–1892), col. 309</bibl>
             </bibl>
@@ -137030,7 +137043,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_16407">
                <title type="uniform">Biblical and liturgical glossaries [Latin and German]</title>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="gmh"/>
                <term ref="#subject_liturgy"/>
                <term ref="#subject_bible"/>
                <term ref="#subject_grammar"/>
@@ -137044,8 +137057,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_hagiography"/>
             </bibl>
             <bibl xml:id="work_16409">
-               <title type="uniform">Mariensequenz aus Muri [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Mariensequenz aus Muri [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <title type="variant">Ave preclari maris stella</title>
                <bibl>Konrad Kunze in <title>Verfasserlexicon</title> VI.50–4</bibl>
                <term ref="#subject_liturgy"/>
@@ -137180,8 +137193,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_christian_literature"/>
             </bibl>
             <bibl xml:id="work_16426">
-               <title type="uniform">Großes Planetenbuch [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Großes Planetenbuch [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
                <note type="links">
                   <list type="links">
@@ -137194,63 +137207,63 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                </note>
             </bibl>
             <bibl xml:id="work_16427">
-               <title type="uniform">Ars geomantiae ‘Die zeugen vnd der richter’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Ars geomantiae ‘Die zeugen vnd der richter’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16428">
-               <title type="uniform">Ars geomantiae ‘Irdische Kunst’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Ars geomantiae ‘Irdische Kunst’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16429">
-               <title type="uniform">Compilatio geomantica ‘Wiltu wissen wan zwen rechten’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Compilatio geomantica ‘Wiltu wissen wan zwen rechten’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16430">
-               <title type="uniform">Ars geomantiae ‘Der richter Tristicia’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Ars geomantiae ‘Der richter Tristicia’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16431">
-               <title type="uniform"> Ars geomantiae ‘Almechtiger vnd ewiger got’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform"> Ars geomantiae ‘Almechtiger vnd ewiger got’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16432">
-               <title type="uniform"> Ars geomantiae ‘Diß heisset ein sicher eingang’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform"> Ars geomantiae ‘Diß heisset ein sicher eingang’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16433">
-               <title type="uniform">Ars geomantiae ‘Diß sind die vntterscheidungen der zwolff huser’ [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Ars geomantiae ‘Diß sind die vntterscheidungen der zwolff huser’ [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16434">
-               <title type="uniform">Recipes [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Recipes [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16435">
-               <title type="uniform">Lunary [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Lunary [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16436">
-               <title type="uniform">Text on the Zodiac [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Text on the Zodiac [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16437">
-               <title type="uniform">Prognostication (unidentified or unspecified texts) [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Prognostication (unidentified or unspecified texts) [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16438">
-               <title type="uniform">Büchsenmeisterbuch [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Büchsenmeisterbuch [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_16439">
@@ -137261,16 +137274,16 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <bibl type="repertory"><ref target="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHL&amp;number=5347"><title>BHL</title> 5347</ref></bibl>
             </bibl>
             <bibl corresp="#work_13934" xml:id="work_16440">
-               <title type="uniform">Prayerbook [German]</title>
+               <title type="uniform">Prayerbook [Middle High German]</title>
                <title type="variant">Gebetbuch</title>
                <title type="variant">Prayer book</title>
                <title type="variant">Liber precum</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh" otherLangs="de"/>
                <term ref="#subject_christian_literature"/>
             </bibl>
             <bibl xml:id="work_16441">
-               <title type="uniform">Creed [German]</title>
-               <textLang mainLang="de"/>
+               <title type="uniform">Creed [Middle High German]</title>
+               <textLang mainLang="gmh"/>
                <term ref="#subject_theology"/>
                <!--<note type="subject">credo</note>-->
             </bibl>
@@ -137323,7 +137336,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_16449">
                <title type="uniform">Südwestfälische Rezepte / Nederbergse geneeskundige [German]</title>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gml"/>
                <term ref="#subject_medicine"/>
             </bibl>
             <bibl xml:id="work_16451">
@@ -139080,9 +139093,9 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
             </bibl>
             <bibl xml:id="work_17120">
-               <title type="uniform">Charter [German]</title>
+               <title type="uniform">Charter [Middle High German]</title>
                <term ref="#subject_documents"/>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17121">
                <title type="uniform">Text on the vice of luxuria [Latin]</title>
@@ -139091,17 +139104,17 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
             </bibl>
             <bibl xml:id="work_17125">
-               <title type="uniform">Letter [German]</title>
+               <title type="uniform">Letter [Middle High German]</title>
                <term ref="#subject_documents"/>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17126">
-               <title type="uniform">Life of Peter Denrich [German]</title>
+               <title type="uniform">Life of Peter Denrich [Middle High German]</title>
                <term ref="#subject_history"/>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17127">
-               <title type="uniform">Weichbildchronik [German]</title>
+               <title type="uniform">Weichbildchronik [Middle High German]</title>
                <term ref="#subject_law"/>
                <term ref="#subject_history"/>
                <note type="links">
@@ -139110,10 +139123,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                      <item><ref target="https://www.geschichtsquellen.de/werk/4698"><title>Geschichtsquellen des deutschen Mittelalters</title></ref></item>
                   </list>
                </note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17128">
-               <title type="uniform">Weichbildrecht [German]</title>
+               <title type="uniform">Weichbildrecht [Middle High German]</title>
                <title type="variant">Magdeburger Schöffenrecht</title>
                <title type="variant"> Magdeburgisches Weichbild</title>
                <title type="variant">Magdeburger Rechtsbücher.</title>
@@ -139124,10 +139137,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                      <item><ref target="https://www.geschichtsquellen.de/werk/4698"><title>Geschichtsquellen des deutschen Mittelalters</title></ref></item>
                   </list>
                </note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17129">
-               <title type="uniform">Kulmer Handfeste [German]</title>
+               <title type="uniform">Kulmer Handfeste [Middle High German]</title>
                <title type="variant">Ius Culmense</title><title type="variant"> Privilegium Culmense</title><title type="variant">Przywilej chełmiński</title>
                <term ref="#subject_law"/>
                <note type="links">
@@ -139136,7 +139149,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                      <item><ref target="http://www.handschriftencensus.de/werke/1809"><title>Handschriftencensus</title></ref></item>
                   </list>
                </note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17130">
                <title type="uniform">Kulmer Handfeste [Latin]</title>
@@ -139151,14 +139164,14 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
             </bibl>
             <bibl xml:id="work_17131">
-               <title type="uniform">Judeneid [German]</title>
+               <title type="uniform">Judeneid [Middle High German]</title>
                <term ref="#subject_law"/>
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.handschriftencensus.de/werke/184"><title>Handschriftencensus</title></ref></item>
                   </list>
                </note>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17132">
                <title type="uniform">Commentary on Colossians</title>
@@ -139281,13 +139294,13 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Glossary to the Benedictine Rule [Latin and German]</title>
                <term ref="#subject_grammar"/>
                <term ref="#subject_theology"/>
-               <textLang mainLang="la" otherLangs="de"/>
+               <textLang mainLang="la" otherLangs="goh"/>
             </bibl>
             <bibl xml:id="work_17152">
-               <title type="uniform">Cartulary of the Carthusian convent in Erfurt [German]</title>
+               <title type="uniform">Cartulary of the Carthusian convent in Erfurt [Middle High German]</title>
                <term ref="#subject_documents"/>
                <term ref="#subject_monasticism_and_religious_orders"/>
-               <textLang mainLang="de"/>
+               <textLang mainLang="gmh"/>
             </bibl>
             <bibl xml:id="work_17153">
                <title type="uniform">De urinis [Latin]</title>

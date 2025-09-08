@@ -914,6 +914,13 @@
             </person>
             <!-- new -->
           
+            <person xml:id="person_120699895">
+               <persName source="LC" type="display">Leontius, Bishop of Neapolis, active 7th century</persName>
+            </person>
+            <person xml:id="person_263405623">
+               <persName source="LC" type="display">Faraǧ Ibn-Sālim, 13th century</persName>
+            </person>
+          
             <person xml:id="person_873414">
                <persName source="LC" type="display">Schönberg, Nicolaus von, 1472-1537</persName>
             </person>
@@ -226934,6 +226941,12 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName source="bodl" type="display">Tristrandus, 15th century</persName>
                <floruit notBefore="1400" notAfter="1500"/>
                <residence><country>Flanders</country></residence>
+               <sex>male</sex>
+            </person>
+            <person xml:id="person_5112">
+               <persName source="bodl" type="display">Worrall, Joshua, fl. 1715</persName>
+               <floruit notBefore="1710" notAfter="1720"/>
+               <residence><country>England</country></residence>
                <sex>male</sex>
             </person>
          </listPerson>
