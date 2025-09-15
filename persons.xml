@@ -24,6 +24,10 @@
                <resp from="2020">Compiler</resp>
                <persName>Andrew Dunning</persName>
             </respStmt>
+            <respStmt>
+               <resp when="2025">Compiler</resp>
+               <persName>Morgan Wilkinson</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -912,6 +916,560 @@
                   </list>
                </note>
             </person>
+            
+            <!-- from All Souls, Sept. 2025 -->
+             <person xml:id="person_19852471">
+               <persName source="LC" type="display">Bernold, of Constance, approximately 1054-1100</persName>
+               <death when="1100-09-16" source="LC"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/nr94041425"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/19852471"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/5815159478100927990006"> VIAF </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+
+            <person xml:id="person_224751247">
+               <death when="1796" source="LC"/>
+               <persName source="LC" type="display">Prince, Daniel, approximately 1711-1796</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n881409672"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/224751247"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q122835114"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+
+            <person xml:id="person_27096611">
+               <birth when="1860-01-12" source="Wikidata"/>
+               <death when="1946-06-23" source="Wikidata"/>
+               <persName source="LC" type="display">Oman, Charles, 1860-1946</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n80006323"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q29031"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/27096611"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College 1884-1946; All Souls Fellow Librarian 1888-1946.</note>
+            </person>
+
+            <person xml:id="person_67569125">
+               <death when="0757"/>
+               <persName type="display" source="LC">Æthelbald, King of Mercia, -757</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/67569125"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/311776179"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nb2014028076"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q272148"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+
+            <person xml:id="person_22136923">
+               <birth when="1420-08-24" source="Wikidata"/>
+               <death when="1475-05-03" source="Wikidata"/>
+               <persName source="LC" type="display">Eyb, Albrecht von, 1420-1475</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q77715"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n87102176"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://viaf.org/viaf/22136923"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+
+            <person xml:id="person_107639756">
+               <birth when="1727" source="Wikidata"/>
+               <death when="1800" source="Wikidata"/>
+               <persName source="LC" type="display">Lysons, Daniel, 1727-1800</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/107639756"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q18670963"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/nr93021823"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_72280327">
+               <birth when="1657-08-12" source="Wikidata" />
+               <death when="1732-06-27" source="Wikidata" />
+               <persName source="LC" type="display">Luttrell, Narcissus, 1657-1732</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/72280327"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n86016966"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q6965659"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_12656415">
+               <birth when="1602-12-18" source="LC" />
+               <death when="1650-04-18" source="LC" />
+               <persName source="LC" type="display">D'Ewes, Simonds, Sir, 1602-1650</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/12656415"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n84134389"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q1670759"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_22211436">
+               <floruit from="1977" />
+               <persName type="display" source="LC">Pickwoad, Nicholas</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/22211436"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n88200869"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q99521609"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_23238044">
+               <death when="1443-04-12" source="Wikidata" />
+               <persName type="display" source="LC">Chichele, Henry, 1362?-1443</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/23238044"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n84121355"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q2376957"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Founder of All Souls College.</note>
+            </person>
+            
+            <person xml:id="person_29887251">
+               <death when="1181-04-01" source="Wikidata" />
+               <persName source="LC" type="display">Guarna, Romualdo, active 12th century</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/29887251"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n2003048080"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q1095179"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_45547913">
+               <birth when="1879-11-05" source="Wikidata" />
+               <death when="1959-03-21" source="Wikidata" />
+               <persName source="LC" type="display">Craster, H. H. E. (Herbert Henry Edmund), 1879-1959</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/45547913"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q5339394"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n50066925"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College 1903-1959; All Souls Fellow Librarian 1947-1959.</note>
+            </person>
+            
+            <person xml:id="person_63539904">
+               <death when="0955-11-23" source="Wikidata" />
+               <persName source="LC" type="display">Eadred King of England, -955</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/63539904"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nb2008005990"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q191767"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_233272686">
+               <death when="1410" source="Wikidata" />
+               <persName type="display" source="ODNB">Rochford [Rochefort], Sir John (c. 1350–1410)</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/233272686"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q16846014"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/23920"><title>Oxford Dictionary of National Biography</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_83606235">
+               <persName type="display" source="VIAF">Bromley, Thomas, approximately 1530-1587</persName>
+               <death when="1587-04-11" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q7787928"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/83606235"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2009041204‏"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/3513"><title>Oxford Dictionary of National Biography</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_283498889">
+               <persName type="display" source="VIAF">Brockman, James, 1946-</persName>
+               <birth when="1946" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/283498889"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2010151974"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q98766627"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_36926399">
+               <persName type="display" source="LC">Odo, of Canterbury, -1200</persName>
+               <death when="1200" source="LC" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/36926399"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n84050947"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q7077888"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_5694451">
+               <persName type="display" source="LC">Napier, Arthur S. (Arthur Sampson), 1853-1916</persName>
+               <birth when="1853-08-30" source="Wikidata" />
+               <death when="1916-05-10" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://viaf.org/viaf/5694451"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n87891794.html"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q4799811"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_101146029508735821179">
+               <persName type="display" source="LC">Andreas, Calabrensis, active 1485-1492</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n2022005423"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/101146029508735821179"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q112414258"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_27296382">
+               <persName type="display" source="BNF">Massarelli, Angelo (1510-1566)</persName>
+               <birth when="1510" source="Wikidata"/>
+               <death when="1566-07-15" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/27296382"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q3617089"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://catalogue.bnf.fr/ark:/12148/cb14498801r">BNF</ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n88070793"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_22293463">
+               <persName type="display" source="LC">Torti, Battista, active 1481-1536</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/22293463"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q93387170"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nr96032812"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            
+            <person xml:id="person_27457407">
+               <persName type="display">Petrus de Rossiaco, active 12th century</persName>
+               <persName type="variant">Pierre de Roissy</persName>
+               <persName type="variant">Petrus de Roussiaco</persName>
+               <persName type="variant">Petrus Carnotensis</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/27457407"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://d-nb.info/gnd/10247785X">DNB</ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_71506439">
+               <persName type="display" source="LC">Duff, E. Gordon (Edward Gordon), 1863-1924</persName>
+               <birth when="1863-02-16" source="Wikidata"/>
+               <death when="1924-09-28" source="Wikidata"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q5343138"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/71506439"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50026938.html"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_315629381">
+               <persName type="display" source="VIAF">Wynne, Luttrell, c. 1739-1814, artist</persName>
+               <death when="1814-11-29" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/315629381"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q26821489"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College 1762-1785</note>
+            </person>
+            
+            <person xml:id="person_13476356">
+               <persName type="display" source="LC">Wynne, Edward, 1734-1784</persName>
+               <birth when="1734-02-25" source="Wikidata" />
+               <death when="1784-12-27" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/13476356"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q5346011"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n85252221.html"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_74637335">
+               <persName type="display" source="LC">Coxe, H.O. (Henry Octavius), 1811-1881</persName>
+               <birth when="1811-09-20" source="Wikidata"/>
+               <death when="1881-07-08" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/74637335"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q1239304"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/no94039950.html"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_44541522">
+               <persName type="display" source="VIAF">Cheke, John, 1514-1557</persName>
+               <birth when="1514-06-16" source="Wikidata" />
+               <death when="1557-09-13" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://viaf.org/viaf/44541522"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q1219653"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50082836.html"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+                     
+            <person xml:id="person_59865177">
+               <persName type="display" source="LC">Gude, Marquard, 1635-1689.</persName>
+               <birth when="1635-02-01" source="Wikidata" />
+               <death when="1689-11-26" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/59865177"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/89211698"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q98446"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n84160144.html"><title>LC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            
+            <person xml:id="person_91172189">
+               <persName type="display" source="LC">Mylles, Francis, -1618</persName>
+               <death when="1618" source="Wikidata"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q53646102"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/91172189"><title>VIAF</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/no2009111231.html"><title>LC</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.historyofparliamentonline.org/volume/1558-1603/member/mylles-francis-1618"><title>History of Parliament Online</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College 1557-1570</note>
+            </person>
+            
+            
             <!-- new -->
           
             <person xml:id="person_120699895">
@@ -224199,6 +224757,422 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
             <person xml:id="person_4510">
                <persName type="display" source="bodl">Stanley, John, of Hooton, Cheshire, -before 1469</persName>
             </person>
+            
+            
+            <!-- added from All Souls, Sept. 2025 -->
+             <person xml:id="person_4511">
+               <persName type="display">Pachet, Rose, active 1518-1557</persName>
+               <persName type="variant">Pagett, Rose</persName>
+               <persName type="variant">Paget, Rosse</persName>
+               <persName type="variant">Packett, Rosa</persName>
+               <persName type="variant">Pachett, Rose</persName>
+               <persName type="variant">Paget, Rose</persName>
+               <persName type="variant">Pagett, Roosa</persName>
+               <floruit from="1518" to="1557"/>
+               <note>
+                  <p>10th prioress of Syon Abbey (<bibl>Sargant, Michael G., <title>Walter Hilton's "Scale of Perfection": The London Manuscript Group Reconsidered</title>, Medium Ævum 52:2 (1983), p. 189</bibl>, citing <bibl>BL Add. MS. 22285</bibl>).</p>
+                  <p>Appears as <quote>Rosa Packett</quote> in a list of the sisters of Syon in September 1518 (<bibl>Aungier, <title>The history and antiquities of Syon monastery, the parish of Isleworth, and the chapelry of Hounslow</title>, 1840, p.82</bibl>), <quote>Rosse Paget</quote> at the time of its suppression in 1539 (<bibl>ibid., p.89</bibl>), and <quote>Rose Pachett, searcher</quote> (<bibl>ibid., p.97</bibl>) at its restoration in 1557.</p>
+               </note>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://birgitta.uib.no/s/birgitta/item/30"><title>Digital Birgitta</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4512">
+               <persName type="display">Joseph, of Arimathea, Saint, pseudo</persName>
+            </person>
+            
+            <person xml:id="person_4513">
+               <persName type="display">Sukar, Ro., active 1485</persName>
+               <floruit when="1485" />
+            </person>
+            
+            <person xml:id="person_4514">
+               <persName type="display">Mauestyer, Frauncis</persName>
+               <persName type="variant">Maneskyer</persName>
+               <floruit notBefore="1500" notAfter="1600" cert="low" />
+            </person>
+            
+            <person xml:id="person_4515">
+               <death when="0839" source="Wikidata" cert="unknown"/>
+               <floruit from="0827" to="0840" source="ODNB"/>
+               <persName type="display" source="Wikidata">Wiglaf of Mercia</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q518935"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/29375"><title>Oxford Dictionary of National Biography</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4516">
+               <persName type="display">Oscytel, archbishop of York, -971</persName>
+               <persName type="variant">Oskytel</persName>
+               <death when="0971" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q7106445"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/20897"><title>Oxford Dictionary of National Biography</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4517">
+               <persName type="display">Fregist, fl. 819</persName>
+               <floruit when="0819" />
+            </person>
+            
+            <person xml:id="person_4518">
+               <persName type="display">Ælfgar, fl. 825</persName>
+               <floruit when="0825" />
+            </person>
+            
+            <person xml:id="person_4519">
+               <persName type="display">Bakar, Edward</persName>
+               <floruit notBefore="1500" notAfter="1700" />
+            </person>
+            
+            <person xml:id="person_4520">
+               <persName type="display">ApHowell, fl. c. 1470</persName>
+               <floruit when="1470" />
+            </person>
+            
+            <person xml:id="person_4521">
+               <persName type="display">Denise le Breton</persName>
+               <floruit from="1292" to="1300" />
+            </person>
+            
+            <person xml:id="person_4522">
+               <persName type="display">Mandey, Robert</persName>
+               <persName type="variant">Manday, Robert</persName>
+               <floruit notBefore="1600" notAfter="1700" />
+            </person>
+            
+            <person xml:id="person_4523">
+               <persName type="display">[Scribe A]</persName>
+               <floruit notBefore="1100" notAfter="1300" />
+            </person>
+            
+            <person xml:id="person_4524">
+               <persName type="display" source="Wikidata">Winterborne, Thomas</persName>
+               <persName type="variant">Wynterburn, Thomas</persName>
+               <death when="1478-11-07" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/29773"><title>Oxford Dictionary of National Biography</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q18917588"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>                     
+               <note>Fellow of All Souls College from its foundation.</note>
+            </person>
+            
+            <person xml:id="person_4525">
+               <persName type="display">Honywood, Robert</persName>
+               <persName type="variant">Honeywood, Robert</persName>
+               <persName type="variant" source="Wikidata">Honiwood, Robert</persName>
+               <death when="1523-01-22" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q17309151"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College from 1487.</note>
+            </person>
+            
+            <person xml:id="person_4526">
+               <persName type="display">Stokes, John, -1503</persName>
+               <death when="1503" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q17425031"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College 1445-1451, and Warden 1466-1494.</note>
+            </person>
+            
+            <person xml:id="person_4527">
+               <persName type="display">Bernham, W. de, active mid-13th century</persName>
+               <floruit when="1250"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q21555611"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4528">
+               <persName type="display">Etheridge, Austin Francis Gray</persName>
+               <birth when="1839" />
+               <death when="1920" />
+               <note>Librarian at All Souls College 1867-1894, subsequently librarian at Lincoln's Inn.</note>
+            </person>
+            
+            <person xml:id="person_4529">
+               <persName type="display">I.O.R.</persName>
+               <floruit notBefore="1800" notAfter="1900" />
+            </person>
+            
+            <person xml:id="person_4530">
+               <persName type="display" source="Wikidata">Salley, Miles</persName>
+               <persName type="variant" source="ODNB">Sawley, Miles</persName>
+               <death notAfter="1517-01-07" notBefore="1516-11-29" source="ODNB" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q6851532"><title>Wikidata</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://doi.org/10.1093/odnb/9780198614128.013.112788"><title>Oxford Dictionary of National Biography</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4531">
+               <persName type="display">Bromley, George, approximately 1526-1589</persName>
+               <birth notBefore="1525" notAfter="1527" />
+               <death when="1589-03-02" source="Wikidata"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q5537280"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Father of the younger <persName key="person_4532">George Bromley</persName></note>
+            </person>
+            
+            <person xml:id="person_4532">
+               <persName type="display">Bromley, George, active 1626</persName>
+               <birth notBefore="1565" notAfter="1575" />
+               <death notBefore="1626-06" />
+               <note>3rd son of the elder <persName key="person_4531">George Bromley</persName>.</note>
+            </person>
+            
+            <person xml:id="person_4533">
+               <persName type="display">Hundleby, William</persName>
+               <persName type="variant">William of Hundleby</persName>
+               <floruit when="1303" />
+            </person>
+            
+            <person xml:id="person_4534">
+               <persName type="display">Doal</persName>
+               <floruit notBefore="1425" notAfter="1450" />
+            </person>
+            
+            <person xml:id="person_4535">
+               <persName type="display">Curteys, Thomas</persName>
+               <persName type="variant">Curtes, Thomas</persName>
+               <floruit from="1475" to="1493" source="BRUO" />
+               <note>Fellow of New College 1483-1493.</note>
+            </person>
+            
+            <person xml:id="person_4536">
+               <persName type="display">Pinart, Dominic, -1619</persName>
+               <persName type="variant">Pinart, Dominique</persName>
+               <death notAfter="1619-03-24" source="Gibson 1907"/>
+               <note>Oxford bookbinder.</note>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://ia601308.us.archive.org/20/items/abstractsfromwil00gibsuoft/abstractsfromwil00gibsuoft.pdf"><bibl>Gibson, Strickland. <title>Abstracts from Wills and Testamentary Documents of Binders, Printers, and Stationers of Oxford, from 1493 to 1638</title>, 1907, page 29</bibl></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4537">
+               <persName type="display">William of Velton</persName>
+               <persName type="variant">William of Wilton</persName>
+               <persName type="variant">William de Veltona</persName>
+               <floruit cert="low" when="1300" />
+               <note>Might potentially be identified with William of Melton (d. 1340)</note>
+            </person>
+            
+            <person xml:id="person_4538">
+               <persName type="display">Wenrich, W. de</persName>
+               <persName type="variant">Windrush, W. de</persName>
+               <floruit when="1300" cert="medium" />
+            </person>
+            
+            <person xml:id="person_4539">
+               <persName type="display">Penwortham, Henry, d.1438</persName>
+               <death when="1438" />
+               <note>Registrar and treasurer to Archbishop Henry Chichele</note>
+            </person>
+            
+            <person xml:id="person_4540">
+               <persName type="display">Bowen, Jenkyn, active 1610-1646</persName>
+               <floruit from="1610" to="1646" source="Alumni Oxonienses" />
+            </person>
+               
+            <person xml:id="person_4541">
+               <persName type="display">Thomas, of Elmham, 1364–1440?, pseudo</persName>
+               <floruit notBefore="1400" />
+            </person>
+            
+            <person xml:id="person_4542">
+               <persName type="display">Coke, Christopher, active 1498</persName>
+               <persName type="variant">Cooke, Christopher</persName>
+               <floruit when="1498" />
+            </person>
+            
+            <person xml:id="person_4543">
+               <persName type="display">Dobbes, John</persName>
+               <persName type="variant">Dobbys, John</persName>
+               <persName type="variant">Dobbs, John</persName>
+               <floruit from="1480" to="1498" source="BRUO"/>
+               <note>Fellow of New College 1488-1498.</note>
+            </person>
+            
+            <person xml:id="person_4544">
+               <persName type="display">Freman, Ralph, 1707-1772</persName>
+               <birth when="1707" source="Wikidata" />
+               <death when="1772" source="Wikidata" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q117395175"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <note>Fellow of All Souls College 1728-1743.</note>
+            </person>
+            
+            <person xml:id="person_4545">
+               <persName type="display">Goldwyn, William, died 1482</persName>
+               <persName type="variant">Goldwin, William</persName>
+               <death when="1482" />
+               <note>Fellow of All Souls College 1455-1466.</note>
+            </person>
+            
+            <person xml:id="person_4546">
+               <persName type="display">Polwhele, Philip</persName>
+               <birth when="1588" cert="low" source="FamilySearch" />
+               <death when="1663" cert="low" source="FamilySearch" />
+               <note>Brother of <ref target="#person_4550">Otho</ref></note>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://adupree.com/wp/g/getperson.php?personID=I425852"><title>adupree.com</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://ancestors.familysearch.org/en/M443-FRB/philip-polwhele-1588-1663"><title>FamilySearch</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4547">
+               <persName type="display">Young, John, active 1633</persName>
+               <floruit when="1633" />
+            </person>
+            
+            <person xml:id="person_4548">
+               <persName type="display">Rockland, William, active 1280-1312</persName>
+               <floruit from="1280" to="1312" />
+               <note>Prior of <orgName key="org_150107857">Bury St. Edmunds</orgName> 1287-1312</note>
+               <bibl>Thomson, Rodney M., <title>Obedientiaries of St. Edmund's Abbey</title>, in <title>Proceedings of the Suffolk Institute of Archaeology and History</title>, XXIV part 2 (1982)</bibl>
+            </person>
+            
+            <person xml:id="person_4549">
+               <persName type="display">John, of Batsford</persName>
+               <floruit notBefore="1243" notAfter="1424" />
+            </person>
+            
+            <person xml:id="person_4550">
+               <persName type="display">Polwhele, Otho</persName>
+               <birth when="1592" source="ACAD" />
+               <death when="1669" source="ACAD" />
+               <note>Brother of <ref target="#person_4546">Philip</ref></note>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://venn.lib.cam.ac.uk/Documents/acad/2018/search-2018.html"><title>ACAD</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://adupree.com/wp/g/getperson.php?personID=I425854"><title>adupree.com</title></ref>
+                     </item>
+                     <item>
+                        <ref target="https://ancestors.familysearch.org/en/M443-FTF/otho-polwhele-1592"><title>FamilySearch</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4551">
+               <persName type="display">Elveden, John, active 1417</persName>
+               <persName type="variant">Elueden, Jo.</persName>
+               <floruit when="1417" />
+            </person>
+            
+            <person xml:id="person_4552">
+               <persName type="display">Northew, Simon, d. 1429</persName>
+               <death when="1429" source="BHO" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.british-history.ac.uk/fasti-ecclesiae/1300-1541/vol7/pp54-60"><bibl><title>Canons of Chichester: (including names to whom no definite prebend can be assigned)</title>, in Fasti Ecclesiae Anglicanae 1300-1541: Volume 7, Chichester Diocese, ed. Joyce M Horn (London, 1964), British History Online</bibl></ref>
+                     </item>
+                     <item>
+                        <ref target="https://ora.ox.ac.uk/objects/uuid:c634eb66-b4f2-4ab7-bc45-25561662a115/files/m372ab1679d5d58aefc73659e0566eae6"><bibl>Cheung Salisbury, Matthew, <title>The secular liturgical office in late medieval England</title>, 2011</bibl></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_4553">
+               <persName type="display">Bernar, Adam, active fifteenth century</persName>
+               <floruit notAfter="1500" notBefore="1400"></floruit>
+            </person>
+            
+            <person xml:id="person_4554">
+               <persName type="display">Game, John, -1502</persName>
+               <persName type="variant">Godicham, John</persName>
+               <persName type="variant">Godeham, John</persName>
+               <persName type="variant">Gaham, John</persName>
+               <death when="1502" source="Watson" />
+               <note>Fellow of All Souls College 1488-1501.</note>
+            </person>
+            
+            <person xml:id="person_4555">
+               <persName type="display">Ingram, Joseph, approximately 1746-1807</persName>
+               <persName type="variant">Ingram, Josias</persName>
+               <birth when="1746" cert="low" />
+               <death when="1807" />
+               <note>Fellow of All Souls College 1767-1794.</note>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/wiki/Q122070649"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>  
+            
+            
             <person xml:id="person_4600">
                <persName source="bodl" type="display">White, John, of Southwick, Hants., –1567</persName>
                <death when="1567"/>

@@ -32341,6 +32341,11 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <term ref="#subject_hagiography"/>
                <bibl>PL 73. 337—84</bibl><bibl>BHL 4388</bibl>
             </bibl>
+            <bibl xml:id="work_7470">
+               <title type="uniform">Register of manorial records of St Paul's Cathedral, London [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_documents"/>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -139627,6 +139632,428 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                   </list>
                </note>
             </bibl>
+           
+           <!-- from All Souls, Sept 2025 -->
+               <bibl corresp="#work_3484" xml:id="work_5511">
+               <author key="person_54204136">Pelagius</author>
+               <author key="person_7386286">Augustine, Saint, Bishop of Hippo, pseudo</author>
+               <title type="uniform">Pelagius (Ps.-Augustine): Liber de uita christiana [Middle English]</title>
+               <title type="ms">Book of christen lijf</title>
+               <title type="variant">De vita christiana</title>
+               <textLang mainLang="enm" />
+               <note>Anonymous translation from <ref target="#work_3484">the Latin</ref></note>   
+               <term ref="#subject_christian_literature" />
+               <textLang mainLang="enm" />
+            </bibl>
+            
+            <bibl xml:id="work_5512">
+               <author key="person_2349">Alcuin, pseudo</author>
+               <author key="person_7386286">Augustine, Saint, Bishop of Hippo, pseudo</author>
+               <title type="uniform">Alcuin, pseudo (Ps.-Augustine): Dicta Albini [Middle English]</title>
+               <textLang mainLang="enm" />
+               <note>Anonymous translation from the Latin</note>
+            </bibl>
+            
+            <bibl corresp="#work_3485" xml:id="work_5513">
+               <author key="person_7386286">Augustine, Saint, Bishop of Hippo, pseudo</author>
+               <author key="person_51872904">Cyprian, Saint, Bishop of Carthage, pseudo</author>
+               <title type="uniform">Augustine, Saint, Bishop of Hippo, pseudo: De xii abusiuis saeculi [Middle English]</title>
+               <title type="variant">De xii abusionum gradibus</title>
+               <title type="ms">of þe xii abusiouns or mysuses.</title>
+               <textLang mainLang="enm" />
+               <note>Anonymous translation from <ref target="#work_3885">the Latin</ref>.</note>
+               <term ref="#subject_christian_literature" />
+            </bibl>
+            
+            <bibl corresp="#work_3459" xml:id="work_5514">
+               <author key="person_3268904">Paulinus, II, Saint, –802</author>
+               <author key="person_7386286">Augustine, Saint, Bishop of Hippo, pseudo</author>
+               <title type="uniform">Paulinus, II, Saint, –802 (Ps.-Augustine): Liber exhortationis siue De salutaribus documentis [Middle English]</title>
+               <textLang mainLang="enm" />
+               <note>Anonymous translation from <ref target="#work_3459">the Latin</ref></note>
+               <term ref="#subject_christian_literature" />
+            </bibl>
+            
+            <bibl xml:id="work_5517">
+               <author key="person_205295992">William, of Malmesbury, approximately 1090–1143</author>
+               <author key="person_4911634">Amalarius, Archbishop of Lyon, approximately 775–approximately 850</author>
+               <title type="uniform">William, of Malmesbury, approximately 1090–1143: Abbreviatio Amalarii de
+                  ecclesiasticis officiis [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_liturgy" />
+               <note>Abbreviation of Amalarius' <title key="work_450">Liber officialis</title></note>
+            </bibl>
+            
+            <bibl xml:id="work_5518">
+               <author key="person_2683">Drogo (? abbot of St John, Laon, d. 1137)</author>
+               <title type="uniform">Drogo (? abbot of St John, Laon, d. 1137): De divinis officiis [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_liturgy" />
+            </bibl>
+            
+            <bibl xml:id="work_5519">
+               <author key="person_19852471">Bernold, of Constance, approximately 1054-1100</author>
+               <title type="uniform">Bernold, of Constance, approximately 1054-1100: Micrologus de ecclesiasticis observationibus [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_liturgy" />
+            </bibl>
+            
+            <bibl xml:id="work_5526">
+               <author key="person_8870917">Hugh, of Saint-Cher, Cardinal, approximately 1200–1263</author>
+               <title type="uniform">Hugh, of Saint-Cher, Cardinal, approximately 1200–1263: Commentary on the Gospel of Luke [Latin]</title>
+               <title type="variant">Commentarius in evangelium S. Lucae</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_bible" />
+            </bibl>
+            
+            <bibl xml:id="work_5527">
+               <author key="person_8870917">Hugh, of Saint-Cher, Cardinal, approximately 1200–1263</author>
+               <title type="uniform">Hugh, of Saint-Cher, Cardinal, approximately 1200–1263: Commentary on the Gospel of John [Latin]</title>
+               <title type="variant">Commentarius in evangelium S. Johannis</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_bible" />
+            </bibl>
+            
+            <bibl xml:id="work_5528">
+               <author key="person_207783919">Roffredus, Beneventanus, approximately 1170-1243?</author>
+               <title type="uniform" source="viaf">Roffredus, Beneventanus, approximately 1170-1243?: De libellis et ordine iudiciorum [Latin]</title>
+               <title type="variant">Summa de ordine judiciorum</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_law"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://viaf.org/viaf/174716794"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+               
+               
+            <bibl xml:id="work_5530">
+               <title type="uniform">Odon, de Morimond, 1116–1161 (attrib.): In quinque libros Moysis [Latin]</title>
+               <author key="person_44658476">Odon, de Morimond, 1116–1161 (attrib.)</author>
+               <author key="person_36926399">Odo, of Canterbury, -1200 (attrib.)</author>
+               <textLang mainLang="la" />
+               <term ref="#subject_bible" />
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=ma_8431">Stegmüller, <title>Bibl.</title> 6124</ref></bibl>
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=ma_8432">Stegmüller, <title>Bibl.</title> 6125</ref></bibl>
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=ma_8433">Stegmüller, <title>Bibl.</title> 6126</ref></bibl>
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=ma_8434">Stegmüller, <title>Bibl.</title> 6127</ref></bibl>
+            </bibl>
+            
+            <bibl xml:id="work_5531">
+               <author xml:id="person_4533">Hundleby, William</author>
+               <title type="uniform">Hundleby, William: Account of the Agnagi Outrage [Latin]</title>
+               <title type="desc">Account by William Hundleby of an attack on <persName key="person_23416912">Pope Boniface VIII</persName> at Anagni in 1303.</title>
+               <textLang mainLang="la" />
+               <bibl type="edition">H. G. J. Beck, <title>'William Hundleby's Account of the Anagni Outrage', <title>Catholic Historical Review</title></title>, 32 (1947), pp. 190-220.</bibl>
+               <bibl type="edition">W. Holtzmann, <title>'Zum Attentat von Anagni', <title>Festschrift Albert Brackmann</title></title> (Weimar, 1931), pp. 492-507</bibl>
+            </bibl>
+            
+            <bibl xml:id="work_5532">
+               <author key="person_66542815">Reuchlin, Johannes, 1455-1522</author>
+               <title type="uniform">Reuchlin, Johannes, 1455-1522: Vocabularius breviloquus</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_grammar" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/180081784"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            
+            <bibl xml:id="work_5534">
+               <author key="person_100212355">Thomas, of Sutton, -approximately 1315</author>
+               <title type="uniform">Thomas, of Sutton, -approximately 1315: De concordantiis [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_theology" />
+               <bibl type="repertory">Stegmüller, Friedrich. <title>Repertorium commentariorum in Sententias Petri Lombardi</title>, 867.</bibl>
+               <bibl type="repertory">P. Glorieux, <title>La Faculté des arts et ses maîtres à Paris au xiiie siècle</title>, no. 453w</bibl>
+               <bibl type="repertory">P. Glorieux, <title>Répertoire des mâitres en théologie de Paris au xiiie siècle</title>, no. 14fa</bibl>             
+            </bibl>
+            
+            <bibl xml:id="work_5535">
+               <author key="person_4541">Thomas, of Elmham, 1364–1440?, pseudo</author>
+               <title key="work_5535" type="uniform">Thomas, of Elmham, 1364–1440?, pseudo: Vita Henrici Quinti [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_history"/>
+               <note>On authorship, see <bibl>A. Gransden, <title>Historical Writing in England, II: c. 1307 to the Early Sixteenth Century</title> (London, 1982), p. 195</bibl>.</note>
+            </bibl>
+                                  
+            <bibl xml:id="work_5536">
+               <author key="person_27457407">Petrus de Rossiaco, active 12th century</author>
+               <title type="uniform">Petrus de Rossiaco, active 12th century: Manuale de mysteriis ecclesiae [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_christian_literature" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/manuale-de-mysteriis-ecclesiae-petrus-carnotensis--title/22523"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>        
+            
+            <bibl xml:id="work_5537">
+               <author key="person_100177951">Gilbert, de La Porrée, Bishop, approximately 1075–1154</author>
+               <title type="uniform">Gilbert, de La Porrée, Bishop, approximately 1075–1154: Prologue to the Apocalypse [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_bible" />
+            </bibl>
+            
+            <bibl xml:id="work_5538">
+               <author key="person_27296382">Massarelli, Angelo (1510-1566)</author>
+               <title type="uniform" source="USTC">Massarelli, Angelo (1510-1566): Epistola monitoria angeli masarelli s.r.ap. Sedis notarii ad Jacobum schroppium abbatem maulbrunnensem, de synodo oecumenica ab ipso nuper ficta et scripta. [Latin]</title>
+               <date when="1582" />
+               <textLang mainLang="la" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.ustc.ac.uk/editions/651559"><title>USTC</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            
+            <bibl xml:id="work_5539">
+               <author key="person_3070">Pagham, John of, bishop of Worcester, –1157</author>
+               <title type="uniform">Pagham, John of, bishop of Worcester, –1157: Commentary on the pater noster [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_theology"/>
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=ma_16896">Stegmüller, <title>Bibl.</title> 4839,
+                  6</ref></bibl>
+            </bibl>
+            
+            <bibl xml:id="work_5540">
+               <author key="person_27079079">Capgrave, John, 1393–1464</author>
+               <title type="uniform">Capgrave, John, 1393–1464: De fidei symbolis [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_christian_literature"/>
+            </bibl>
+            
+            <bibl corresp="#work_11343" xml:id="work_5541">
+               <author key="person_88880190">Francesco Zabarella</author>
+               <title type="uniform">Francesco Zabarella: Lectura in constitutiones Clementinas [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_law" />
+               <bibl type="edition">Francesco Zabarella, <title>In constitutiones Clementinas</title>,
+                  pr. Rome, <date when="1477">1477</date></bibl>
+            </bibl>               
+            
+            <bibl corresp="#work_11343" xml:id="work_5542">
+               <author key="person_297721217">Chillenden, Thomas, –1411</author>
+               <title type="uniform">Chillenden, Thomas, –1411: Reportata in Clementinas [Latin]</title>
+               <title type="variant">Reportata on the Clementines</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_law" />
+            </bibl>            
+            
+            <bibl xml:id="work_5543">
+               <author key="person_297721217">Chillenden, Thomas, –1411</author>
+               <title type="uniform">Chillenden, Thomas, –1411: Reportorium quarti libri decretalium. [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_law" />
+            </bibl>
+            
+            <bibl xml:id="work_5545">
+               <author key="person_24637109">Beleth, Jean, -1182</author>
+               <title type="uniform">Beleth, Jean, -1182: Rationale divinorum officiorum [Latin]</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_liturgy" />
+               <bibl type="edition">ed. H. Douteil, CCCM 41 (Praefatio) and 41A (Textus)(Turnhout, 1976).</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/3450147270371135700008"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            
+            <bibl xml:id="work_5546">
+               <author key="person_9948377">Torquemada, Juan de, 1388–1468</author>
+               <title type="uniform">Torquemada, Juan de, 1388–1468: Expositio super toto Psalterio [Latin]</title>
+               <title type="variant">In psalterium</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition"><ref target="https://gallica.bnf.fr/ark:/12148/bpt6k8728686x/">Rome, 1470</ref></bibl>
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiShowLink.tcl?ma=7136">Stegmüller, <title>Bibl.</title>, 5003</ref></bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/180478984"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <term ref="#subject_bible" />
+            </bibl>
+            
+            <bibl xml:id="work_5547">
+               <author key="person_27158146">Tempier, Etienne, approximately 1210–1279</author>
+               <title type="uniform">Tempier, Etienne, approximately 1210–1279: Articuli condemnati anno 1277 [Latin]</title>
+               <textLang mainLang="la" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/208242510"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            
+            <bibl xml:id="work_5549">
+               <author key="person_74117553">Savonarola, Girolamo, 1452–1498</author>
+               <title type="uniform">Savonarola, Girolamo, 1452–1498: Exposition upon Psalm 51 [Middle English]</title>
+               <title type="variant" source="VIAF">Expositio super psalmo 'Miserere mei Deus'</title>
+               <title type="ms">An exposition after the maner of a contemplacyon vpon the lj. psalme called Miserere mei deus</title>
+               <textLang mainLang="enm" />
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/en/viaf/176876388"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+               <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=ma_5328">Stegmüller, <title>Bibl.</title> 3482</ref></bibl>
+            </bibl>
+            
+            <bibl xml:id="work_5550">
+               <author key="person_22136923">Eyb, Albrecht von, 1420-1475</author>
+               <title type="uniform">Eyb, Albrecht von, 1420-1475: Margarita Poetica</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_grammar"></term>
+               <note type="links">
+                  <list type="links">
+                     <item><ref target="https://viaf.org/en/viaf/186102457"><title>VIAF</title></ref></item>
+                  </list>
+               </note>
+            </bibl>
+            
+            <bibl xml:id="work_5551">
+               <author key="person_7524651">Aristotle</author>
+               <author key="person_2471391" role="trl">William, of Moerbeke, approximately 1215–1286</author>
+               <title type="uniform">Aristotle: De morte et vita (tr. William of Moerbeke (attrib.)) [Latin]</title>
+               <title type="variant">De vita et morte</title>
+               <textLang mainLang="la" />
+               <term ref="#subject_philosophy"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://viaf.org/viaf/182111437"><title>VIAF</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+                                    
+           
+           <bibl xml:id="work_5510">
+              <title type="uniform">Tract on the Assumption of the Blessed Virgin (tr. Ro. Sukar) [Middle English]</title>
+              <title type="ms">þe tretyse hough our glorious lady virgyn mary passed out of þis mortal lyfe. þat is to say out of þis wrecched world and was assumpt' unto þe blysse of heuen</title>
+              <author key="person_4513" role="trl">Sukar, Ro., active 1485</author>
+              <author key="person_4512" role="ant">Joseph, of Arimathea, Saint, pseudo</author>
+              <textLang mainLang="enm" />
+              <note>
+                    <p>The text is based on the <bibl>Ps.-Joseph of Arimathea, <title>Transitus beate virginis Mariae, Bibliotheca hagiographica Latina: Novum supplementum</title> (Brussels, 1986), no. 5348</bibl>, pr. by <bibl>C. Tischendorf, <title>Apocalypses Apocrypha</title> (Leipzig, 1886), 113-23</bibl> and by <bibl>A. de Santos Otero, <title>Los Evangelios apocrifos</title>, 2nd edn. (Madrid, 1962), 647-59.</bibl></p>
+                    <p>The order and proportions of our narrative closely follow those of the Latin text but the English is augmented by additional details and episodes.</p>
+                 </note>
+              <term ref="#subject_christian_literature" />
+           </bibl>
+              
+           <bibl xml:id="work_5515">
+              <title type="uniform" source="Kirchberger">The bread [Middle English]</title>
+              <bibl type="edition"><ref target="doi:10.1017/S0269359300034856">C. Kirchberger (ed.), <title>The Bread</title> (1951) Life of the Spirit, 6(66), p. 238.</ref></bibl>
+              <note>Title from Kirchberger's edition</note>
+              <textLang mainLang="enm" />
+              <bibl type="repertory"><title>The Index of Middle English Prose: Handlist vii. A Handlist of Manuscripts Containing Middle English Prose in Oxford College Libraries</title>, ed. S. J. Ogilvie-Thomson (Cambridge, 1991)</bibl>
+              <term ref="#subject_theology" />
+           </bibl>
+           
+           <bibl xml:id="work_5516">
+              <title type="uniform">Ordo officiorum qui agitur in ecclesia Romana [Latin]</title>
+              <textLang mainLang="la" />
+              <term ref="#subject_liturgy" />
+           </bibl>
+           
+           <bibl xml:id="work_5520">
+              <title type="uniform">Foundation charter of Æthelbald, king of Mercia, to Crowland Abbey [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
+           
+           <bibl xml:id="work_5521">
+              <title type="uniform">Confirmation and grant of privileges and of land by Wiglaf, king of Mercia, to Crowland Abbey [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
+           
+           <bibl xml:id="work_5522">
+              <title type="uniform">Confirmation of privileges and of land by Eadred, king of England, to Crowland Abbey, 948 [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
+           
+           <bibl xml:id="work_5523">
+              <title type="uniform">Grant of privileges and confirmation of lands by Edgar, king of England, to Crowland Abbey, 966 [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
+           
+           <bibl xml:id="work_5524">
+              <title type="uniform">Confirmation of lands and privileges by Dunstan, abp. of Canterbury, and Oscytel, abp. of York, to Crowland Abbey, 966 [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
+           
+           <bibl xml:id="work_5525">
+              <title type="uniform">Grant by Fregist of the manor of Langtoft to Crowland Abbey, 819 [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
+                   
+           <bibl xml:id="work_5529">
+              <title type="uniform">Narratio de passion justiciariorum [Latin]</title>
+              <title type="variant">The Passion of the Judges</title>
+              <textLang mainLang="la" />
+              <bibl type="edition">T. F. Tout and H. Johnstone,<title rend="italic"> State Trials of the Reign of Edward the First 1289-1293</title> Camden Society Third Series 9, 1906), pp. 5-9 <ref target="https://doi.org/10.1017/S2042171000003460">https://doi.org/10.1017/S2042171000003460</ref></bibl>
+              <bibl type="edition">P. Lehmann, <title rend="italic">Die Parodie im Mittelalter</title>, 2nd edn. (Stuttgart, 1963), pp. 199-202</bibl>
+              <term ref="#subject_law" />
+           </bibl>
+           
+           <bibl xml:id="work_5533">
+              <title type="uniform">Concordantia sancti Thomae [Latin]</title>
+              <textLang mainLang="la" />
+               <bibl type="repertory">Stegmüller, Friedrich. <title>Repertorium commentariorum in Sententias Petri Lombardi</title>, 877.I.</bibl>
+              <term ref="#subject_theology" />
+            </bibl>
+           
+           <bibl corresp="#work_11343" xml:id="work_5544">
+              <title type="uniform">Reportata in Clementinas [Latin]</title>
+              <title type="variant">Reportata on the Clementines</title>
+              <textLang mainLang="la" />
+              <term ref="#subject_law" />
+           </bibl>
+           
+           <bibl xml:id="work_5548">
+              <title type="uniform">O intemerata [Latin]</title>
+              <textLang mainLang="la" />
+              <term ref="#subject_christian_literature" />
+              <bibl><ref target="https://archive.org/details/auteursspirituel0000wilm/page/474/">A. Wilmart, <title>'La Prière <hi rend="italic">O intemerata</hi>'</title>, <title>Auteurs spirituels et textes devots du moyen age latin</title> (Paris, 1932), pp. 474-504.</ref></bibl>
+           </bibl>
+           
+           <bibl xml:id="work_5552">
+              <title type="uniform">Grant by Ælfgar of the manor of Baston to Crowland Abbey, 825 [Latin]</title> 
+              <note type="language">Latin</note>
+              <textLang mainLang="la"/>
+              <term ref="#subject_documents"/>
+           </bibl>
            
          </listBibl>
       </body>
