@@ -32346,6 +32346,12 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="la"/>
                <term ref="#subject_documents"/>
             </bibl>
+            <bibl xml:id="work_7471">
+               <title type="uniform">The Book of Destinary [Middle English]</title>
+               <title type="variant">Destinary of the Twelve Signs [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_science"/>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
