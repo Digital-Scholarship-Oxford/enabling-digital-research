@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="collections/authority-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://raw.githubusercontent.com/bodleian/medieval-mss/refs/heads/master/collections/authority-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <!-- to do: 
         check all have birth | death | floruit
         check notBefore lt notAfter
@@ -1472,6 +1472,21 @@
             
             <!-- new -->
           
+            <person xml:id="person_18580778">
+               <persName source="LC" type="display">Dyer, Edward, Sir, 1543-1607</persName>
+            </person>
+            <person xml:id="person_262121252">
+               <persName source="LC" type="display">Limbourg, Herman de, approximately 1385-approximately 1416</persName>
+            </person>
+            <person xml:id="person_100161934">
+               <persName source="LC" type="display">Limbourg, Pol de, approximately 1385-approximately 1416</persName>
+            </person>
+            <person xml:id="person_15843332">
+               <persName source="JPG" type="display">Mazarine Master, active c.1400-1415</persName>
+            </person>
+            <person xml:id="person_96175231">
+               <persName source="JPG" type="display">Master of Saint Jerome (French illuminator, active ca.1417-1425)</persName>
+            </person>
             <person xml:id="person_120699895">
                <persName source="LC" type="display">Leontius, Bishop of Neapolis, active 7th century</persName>
             </person>
@@ -227922,6 +227937,22 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <floruit notBefore="1710" notAfter="1720"/>
                <residence><country>England</country></residence>
                <sex>male</sex>
+            </person>
+            <person xml:id="person_5113">
+               <persName source="bodl" type="display">Arnoul de Quincampoix, fl. 1304-1321 </persName>
+               <floruit notBefore="1304" notAfter="1321"/>
+               <residence><country>France</country></residence>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/author/arnulfus-de-quiquenpoit-fl-1304-1321-m-1321-1326-author/222171"><title>Mirabile</title></ref>
+                     </item>
+                     <item>
+                        <ref target="http://jonas.irht.cnrs.fr/intervenant/2667"><title>JONAS</title></ref>
+                     </item>
+                  </list>
+               </note>
             </person>
          </listPerson>
       </body>

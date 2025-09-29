@@ -32352,6 +32352,85 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="enm"/>
                <term ref="#subject_science"/>
             </bibl>
+            <bibl xml:id="work_7472">
+               <author key="person_86920837">Grosseteste, Robert, 1175?–1253</author>
+               <title type="uniform">Grosseteste, Robert, 1175?–1253: De forma prima omnium [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_theology"/>
+            </bibl>
+            <bibl xml:id="work_7473">
+               <author key="person_86920837">Grosseteste, Robert, 1175?–1253</author>
+               <title type="uniform">Grosseteste, Robert, 1175?–1253: De intelligentiis [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_theology"/>
+            </bibl>
+            <bibl xml:id="work_7474">
+               <author key="person_311838882">Robert of Leicester, active 13th century</author>
+               <title type="uniform">Robert of Leicester, active 13th century: De compoto Hebraeorum [Latin]</title>
+               <textLang mainLang="la"/>
+               <note type="shelfmark">MS. Digby 212</note>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7475">
+               <author key="person_311838882">Robert of Leicester, active 13th century</author>
+               <title type="uniform">Robert of Leicester, active 13th century: De ratione temporum [Latin]</title>
+               <textLang mainLang="la"/>
+               <note type="shelfmark">MS. Digby 212</note>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7476">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <author role="translator" key="person_39358071">Petrus, de Abano, approximately 1250–approximately 1315</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: Liber introductorius in iudicia astrorum qui dicitur Principium
+                  sapientiae (tr. Peter of Abano) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7477">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <author role="translator" key="person_39358071">Petrus, de Abano, approximately 1250–approximately 1315</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: De rationibus (tr. Peter of Abano) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7478">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <author role="translator" key="person_39358071">Petrus, de Abano, approximately 1250–approximately 1315</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: De interrogationibus (tr. Peter of Abano) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7479">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: De electionibus (anon. tr., eTK 1378C) [Latin]</title>
+               <title type="normalised_ms">de electionibus</title>
+               <textLang mainLang="la"/>
+               <bibl>Lynn Thorndike, 'The Latin Translations of the Astrological Tracts of Abraham Avenezra', <title>Isis</title>, Vol. 35, No. 4 (Autumn, 1944), 293-302 (at 299)</bibl>
+               <term ref="#subject_science"/>
+               <!--<note type="subject">astrologia et astronomia</note>-->
+            </bibl>
+            <bibl xml:id="work_7480">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <author role="translator" key="person_39358071">Petrus, de Abano, approximately 1250–approximately 1315</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: Tractatus particulares (tr. Peter of Abano) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7481">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <author role="translator" key="person_22192561">Baten, Henri, 1246–1310</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: De mundo siue saeculo siue Tractatus de coniunctionibus et annorum
+                  reuolutionibus mundanorum (tr. Henri Bate) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7482">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <author role="translator" key="person_5113">Arnoul de Quincampoix, fl. 1304-1321</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: De interrogationibus (tr. Arnoul de Quincampoix) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -48394,9 +48473,8 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             </bibl>
             <bibl xml:id="work_4412">
                <!--original: Robert of Leicester (fl. 1294)-->
-               <author key="person_311838882">Robert de Leicester</author>
-               <title type="uniform">Robert de Leicester: Works [Latin]</title>
-               <title type="normalised_ms">works</title>
+               <author key="person_311838882">Robert of Leicester, active 13th century</author>
+               <title type="uniform">Robert of Leicester, active 13th century: De compoto Hebraeorum aptato ad kalendarium (1294) [Latin]</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Digby 212</note>
                <term ref="#subject_science"/>
@@ -72254,7 +72332,8 @@ Medieval Papacy -->
             <bibl xml:id="work_214">
                <!--original: Abraham ibn Ezra-->
                <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
-               <title type="uniform">Abraham ibn Ezra, 1092–1167: De electionibus [Latin]</title>
+               <author role="translator" key="person_39358071">Petrus, de Abano, approximately 1250–approximately 1315</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: De electionibus (anon. tr., eTK 1128F) [Latin]</title>
                <title type="normalised_ms">de electionibus</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Canon. Misc. 109</note>
