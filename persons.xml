@@ -227954,6 +227954,24 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   </list>
                </note>
             </person>
+            <person xml:id="person_5114">
+               <persName source="bodl" type="display">Colby, mr Robert, 15th century</persName>
+               <floruit notBefore="1400" notAfter="1500"/>
+               <residence><country>England</country></residence>
+               <sex>male</sex>
+            </person>
+            <person xml:id="person_5115">
+               <persName source="bodl" type="display">Thurlyth, Thomas, 15th century</persName>
+               <floruit notBefore="1400" notAfter="1500"/>
+               <residence><country>England</country></residence>
+               <sex>male</sex>
+            </person>
+            <person xml:id="person_5116">
+               <persName source="bodl" type="display">Rocheste (?), John, 15th century</persName>
+               <floruit notBefore="1400" notAfter="1500"/>
+               <residence><country>England</country></residence>
+               <sex>male</sex>
+            </person>
          </listPerson>
       </body>
    </text>

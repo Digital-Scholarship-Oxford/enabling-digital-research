@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="collections/authority-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--<?xml-model href="collections/authority-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -2124,7 +2124,7 @@
                <bibl type="edition">Ed. J. L. Heiberg and H. Menge (Leipzig, 1896).</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/1928/"><title>Pinakes</title></ref></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1928/"><title>Pinakes</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_science"/>
@@ -10871,6 +10871,15 @@
                <title type="uniform">Albinus (Alcinous): Epitome doctrinae Platonicae sive Διδασκαλικός [Greek]</title>
                <textLang mainLang="grc"/>
                <term ref="#subject_philosophy"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6217">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_6431">
                <author key="person_171058685">Ott von Echterdingen, Michael, 1479–1532</author>
@@ -23183,7 +23192,16 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <title type="normalised_ms">on the moving sphere</title>
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Savile 3</note>
-               <term ref="#subject_natural_history"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3990">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_1408">
                <!--original: Dionysius of Halicarnassus-->
@@ -25446,6 +25464,15 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="shelfmark">MS. Barocci 219</note>
                <note type="shelfmark">MS. Barocci 219</note>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2962">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4655">
                <!--original: Synesius-->
@@ -25826,6 +25853,16 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Barocci 144</note>
                <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/672">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               
             </bibl>
             <bibl xml:id="work_1849">
                <!--original: Gregory of Nyssa-->
@@ -25934,6 +25971,15 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Auct. T. 2. 16</note>
                <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4518">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_1854">
                <!--original: Gregory of Nyssa-->
@@ -28743,7 +28789,17 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <title type="normalised_ms">works</title>
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Laud Gr. 17</note>
-            <term ref="#subject_theology"/></bibl>
+            <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10800">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
             <bibl xml:id="work_4748">
                <!--original: Thierry of Saint-Trond (Ps.-Ovid)-->
                <author key="person_120906504">Theodoricus, Sancti Trudonis, 1066–1107</author>
@@ -39721,6 +39777,15 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="shelfmark">MS. D'Orville 109</note>
                <term ref="#subject_philosophy"/>
                <note>= Corpus Hermeticum, I</note>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11515">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4014">
                <!--original: Ps.-Hermes Trismegistus-->
@@ -41116,6 +41181,15 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="shelfmark">MS. Savile 3</note>
                <term ref="#subject_classical_literature"/>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2783">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4728">
                <!--original: Theodosius Tripolitanus-->
@@ -49398,6 +49472,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Canon. Gr. 104</note>
                <term ref="#subject_bible"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6439">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_3240">
                <!--original: Nicephorus Blemmydes-->
@@ -49425,6 +49508,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Laud Gr. 52</note>
                <term ref="#subject_natural_history"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6701">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_3238">
                <!--original: Nicephorus Blemmides-->
@@ -51872,6 +51964,15 @@ Medieval Papacy -->
                <note type="shelfmark">MS. Cromwell 2</note>
                <note type="shelfmark">MS. Barocci 12</note>
                <term ref="#subject_sermons"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12577">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_2921">
                <!--original: Laurence of Aquileia-->
@@ -53339,6 +53440,15 @@ Medieval Papacy -->
                <note type="shelfmark">MS. Laud Gr. 65</note>
                <note type="shelfmark">MS. Cromwell 13</note>
                <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4477">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_2820">
                <!--original: John of Damascus-->
@@ -53431,6 +53541,15 @@ Medieval Papacy -->
                <note type="shelfmark">MS. Auct. T. 5. 1</note>
                <note type="shelfmark">MS. Barocci 48</note>
                <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10619">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_2479">
                <!--original: Johannes Damascenus-->
@@ -54069,6 +54188,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Savile 3</note>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12691">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_1926">
                <!--original: Guillermo Pérez de la Calzada-->
@@ -54371,6 +54499,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Cromwell 10</note>
                <term ref="#subject_theology"></term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/656">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_3612">
                <!--original: Petrus de Argellata-->
@@ -55805,12 +55942,21 @@ Medieval Papacy -->
             <bibl xml:id="work_4145">
                <!--original: Ptolemy-->
                <author key="person_54152998">Ptolemy, active 2nd century</author>
-               <title type="uniform">Ptolemy, active 2nd century: Canon tables [Greek]</title>
+               <title type="uniform">Ptolemy, active 2nd century: Handy tables [Greek]</title>
                <title type="normalised_ms">canon tables</title>
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Auct. T. 4. 20</note>
                <term ref="#subject_classical_literature"/>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/969">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4147">
                <!--original: Ptolemy-->
@@ -56056,6 +56202,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Barocci 215</note>
                <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/368">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_3409">
                <!--original: Osbern of Gloucester-->
@@ -56876,6 +57031,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Auct. T. 3. 8</note>
                <term ref="#subject_music"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3240">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_1940">
                <!--original: H. Bryggemore-->
@@ -57914,6 +58078,15 @@ Medieval Papacy -->
                <note type="shelfmark">MS. Laud Gr. 37</note>
                <term ref="#subject_classical_literature"/>
                <term ref="#subject_theology"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12296">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_2008">
                <!--original: Hephaestion-->
@@ -62091,6 +62264,15 @@ Medieval Papacy -->
                <note type="shelfmark">MSS. Auct. T. 3. 20a-b</note>
                <note type="shelfmark">MS. Gr. class. c. 13</note>
                <term ref="#subject_philosophy"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7518">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
                <!--<note type="subject">commentarii</note>-->
             </bibl>
             <bibl xml:id="work_4565">
@@ -62669,6 +62851,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Auct. T. 1. 21</note>
                <term ref="#subject_politics_and_government"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12779">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4405">
                <!--original: Robert of Avesbury-->
@@ -64806,6 +64997,15 @@ Medieval Papacy -->
                <bibl type="repertory"><ref target="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&amp;number=6200"><title>CPG</title> 6200</ref></bibl>
                <note type="shelfmark">MS. Barocci 123</note>
                <term ref="#subject_bible"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11910">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <!--  <bibl xml:id="work_4691">
           <!-\-original: Theodoret of Cyrus-\->
@@ -68480,6 +68680,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Auct. T. 5. 26</note>
                <term ref="#subject_classical_literature"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1915">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4389">
                <!--original: Robert Grosseteste (?)-->
@@ -70307,13 +70516,22 @@ Medieval Papacy -->
             <bibl xml:id="work_4734">
                <!--original: Theon Alexandrinus-->
                <author key="person_88940669">Theon, of Alexandria, active 364</author>
-               <title type="uniform">Theon, of Alexandria, active 364: Edition of Ptolemy's 'Handy tables' [Greek]</title>
+               <title type="uniform">Theon, of Alexandria, active 364: Commentarium paruum on Ptolemy's 'Handy tables' [Greek]</title>
                <title type="normalised_ms">edition of ptolemy's 'handy tables'</title>
                <title type="normalised_ms">edition of ptolemy's 'handy tables'</title>
                <note type="shelfmark">MS. Savile 52</note>
                <note type="shelfmark">MS. Savile 4</note>
                <textLang mainLang="grc"/>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1484">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4735">
                <!--original: Theon of Alexandria-->
@@ -70322,6 +70540,7 @@ Medieval Papacy -->
                <title type="normalised_ms">works</title>
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Cromwell 12</note>
+               <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_916">
                <!--original: Basil of Caesarea-->
@@ -75799,6 +76018,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Canon. Gr. 83</note>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8258">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_2512">
                <!--original: Johannes Philoponus-->
@@ -75809,6 +76037,15 @@ Medieval Papacy -->
                <note type="shelfmark">MS. Savile 51</note>
                <note type="shelfmark">MS. Savile 52</note>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4323">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_2442">
                <!--original: Joannes Philoponus-->
@@ -76373,6 +76610,15 @@ Medieval Papacy -->
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Cromwell 12</note>
                <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/736">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_3161">
                <!--original: Maximus Planudes-->
@@ -101204,6 +101450,15 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="shelfmark">MS. Canon. Gr. 24</note>
                <note type="shelfmark">MS. Gr. liturg. e. 1</note>
                <term ref="#subject_liturgy"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7271">
+                           <title>Pinakes</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_12303">
                <title type="ms">Horologion, with supplementary liturgical texts.</title>
