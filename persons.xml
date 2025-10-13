@@ -209166,9 +209166,9 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   <forename>Nicholas</forename>
                   <surname>Bellew</surname>
                </persName>
-               <floruit notAfter="1500" notBefore="1400"/>
-               <persName type="display">Bellew, Nicholas, 15th cent. (?)</persName>
-               <!-- check -->
+               <floruit notAfter="1475" notBefore="1423"/>
+               <persName type="display">Bellew, Nicholas, fl. 1423–74</persName>
+               <bibl>Theresa O’Byrne, 'Bilingual, Bitextual Bellewe: A Case Study of Paleographical Code-Switching in Late Medieval English-Controlled Ireland', <title>Speculum</title> 99:3 (2024), 744-761</bibl>
             </person>
             <person xml:id="person_899">
                <persName type="crossref">
@@ -227970,6 +227970,44 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName source="bodl" type="display">Rocheste (?), John, 15th century</persName>
                <floruit notBefore="1400" notAfter="1500"/>
                <residence><country>England</country></residence>
+               <sex>male</sex>
+            </person>
+            <person xml:id="person_5117">
+               <persName source="bodl" type="display">Featherstone, Alexander, vicar of Wolverton and prebendary of Lichfield, -?1684</persName>
+               <persName source="bodl" type="variant">Fetherston, Alexander, -?1684</persName>
+               <death when="1684"/>
+               <residence><country>England</country></residence>
+               <sex>male</sex>
+               <bibl>Fasti Ecclesiae Anglicanae 1541-1857: Volume 10, Coventry and Lichfield Diocese, ed. Joyce M Horn (London, 2003), p. 28 </bibl>
+            </person>
+            <person xml:id="person_5118">
+               <persName source="bodl" type="display">Helperby, Agnes, 15th century (?)</persName>
+               <floruit notAfter="1500" notBefore="1400"/>
+               <residence><country>England</country></residence>
+               <sex>female</sex>
+            </person>
+            <person xml:id="person_5119">
+               <persName source="bodl" type="display">Stoughton, Elizabeth, 15th century (?)</persName>
+               <floruit notAfter="1500" notBefore="1400"/>
+               <residence><country>England</country></residence>
+               <sex>female</sex>
+            </person>
+            <person xml:id="person_5120">
+               <persName source="bodl" type="display">Flemmyn, John, 15th century</persName>
+               <persName source="bodl" type="variant">Fleming, John, 15th century</persName>
+               <floruit notAfter="1500" notBefore="1400"/>
+               <residence><country>Ireland</country></residence>
+               <sex>male</sex>
+            </person>
+            <person xml:id="person_5121">
+               <persName source="bodl" type="display">Maffei, family, of Volterra</persName>
+               <residence><country>Italy</country></residence>
+               <bibl>José Ruysschaert, 'Recherche des deux bibliothèques romaines Maffei des XVe et XVIe siècles', <title>La Bibliofilía</title>, 60 (1958), 306-355</bibl>
+            </person>
+            <person xml:id="person_5122">
+               <persName source="bodl" type="display">Germanico, Alessio, fl. 1433</persName>
+               <residence><country>Italy</country></residence>
+               <floruit when="1433"/>
                <sex>male</sex>
             </person>
          </listPerson>
