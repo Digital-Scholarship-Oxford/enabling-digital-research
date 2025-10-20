@@ -1472,8 +1472,20 @@
             
             <!-- new -->
           
+            <person xml:id="person_89709283">
+               <persName source="bodl" type="display">Nikolaos IV, Patriarch of Constantinople</persName>
+            </person>
+            <person xml:id="person_281628164">
+               <persName source="bodl" type="display">Hypsicles</persName>
+            </person>
+            <person xml:id="person_72184962">
+               <persName source="LC" type="display">Athenaeus Mechanicus, active 1st century BC</persName>
+            </person>
             <person xml:id="person_18580778">
                <persName source="LC" type="display">Dyer, Edward, Sir, 1543-1607</persName>
+            </person>
+            <person xml:id="person_314780621">
+               <persName source="LC" type="display">Limbourg, Jean de, approximately 1385-approximately 1416</persName>
             </person>
             <person xml:id="person_262121252">
                <persName source="LC" type="display">Limbourg, Herman de, approximately 1385-approximately 1416</persName>
@@ -228009,6 +228021,62 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <residence><country>Italy</country></residence>
                <floruit when="1433"/>
                <sex>male</sex>
+            </person>
+            <person xml:id="person_5123">
+               <persName source="bodl" type="display">Anastasius Rhapsaniotes, 18th century</persName>
+               <floruit notAfter="1800" notBefore="1700"/>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/auteur/id/2433"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_5124">
+               <persName source="bodl" type="display">Franciscus frater OP, fl. ?</persName>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/auteur/id/1112"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_5125">
+               <persName source="bodl" type="display">Germanus quidam, fl. ?</persName>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/auteur/id/1199"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_5126">
+               <persName source="bodl" type="display">Johannes Glycis musicus, fl. ?</persName>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/auteur/id/1210"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_5127">
+               <persName source="bodl" type="display">Zanates, fl. ?</persName>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://pinakes.irht.cnrs.fr/notices/auteur/id/2827"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
             </person>
          </listPerson>
       </body>

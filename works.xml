@@ -140394,7 +140394,2532 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
               <textLang mainLang="la"/>
               <term ref="#subject_documents"/>
            </bibl>
+           <!-- mlh -->
            
+           <!-- added from pinakes -->
+           <bibl xml:id="work_8002">
+      <author key="person_54284156">Albinus (Alcinous)</author>
+      <title type="uniform">Albinus (Alcinous): Introductio in Platonem [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8865">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8003">
+      <author key="person_63995257">Alexander, IV, Pope, –1261</author>
+      <title type="uniform">Alexander, IV, Pope, –1261: Constitutio Cypria [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1670">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8004">
+      <title type="uniform">De mysteriis alphabeti [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/18247">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8005">
+      <author key="person_5123">Anastasius Rhapsaniotes, 18th century</author>
+      <title type="uniform">Anastasius Rhapsaniotes, 18th century: Musica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9450">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8006">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De conceptione [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2275">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8007">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De crucifixione [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2356">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8008">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De hypapante [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2843">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8009">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De lunatico [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3090">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8010">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De natiuitate Domini [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3261">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8011">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De paralytico [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3452">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8012">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De Praedictione Domini Passionis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3577">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8013">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De praesentatione B.M.V. (CPG 8225) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3587">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8014">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De praesentatione B.M.V. (CPG 8223) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3589">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8015">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: De praesentatione B.M.V. (CPG 8228) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3591">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8016">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In dominicam Carnispriuii [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7720">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8017">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In Dominicam Filii Prodigae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7721">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8018">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In Dominicam Lacticinii [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7722">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8019">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In exaltationem S. Crucis I [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7862">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8020">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In exaltationem S. Crucis II [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7863">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8021">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In Publicanum Et Pharisaeum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8464">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8022">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: In ramos palmarum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8483">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8023">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: Laudatio Cosmae et Damiani [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8959">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8024">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: Laudatio S. Athanasii Alexandrini [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9022">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8025">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: Laudatio S. Crucis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9027">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8026">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: Laudatio S. Iohannis Theologi [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8997">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8027">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: Laudatio S. Iohannis Theologi [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9054">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8028">
+      <author key="person_10044124">Andrew, of Crete, Saint, approximately 660–740</author>
+      <title type="uniform">Andrew, of Crete, Saint, approximately 660–740: Laudatio S. Lucae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9055">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8029">
+      <title type="uniform">Ioseph et Aseneth (Confessio et Oratio Asenath [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/14707">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8030">
+      <author key="person_72187489">Apollonius, Dyscolus, active 2nd century</author>
+      <title type="uniform">Apollonius, Dyscolus, active 2nd century: De constructione [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2310">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8031">
+      <author key="person_79398695">Aristarchus, of Samos</author>
+      <title type="uniform">Aristarchus, of Samos: De magnitudinibus et distantiis solis et lunae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3101">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8033">
+      <title type="uniform">Astronomica quaedam [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11843">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8034">
+      <author key="person_105155222">Athanasius, Saint, Patriarch of Alexandria, –373</author>
+      <title type="uniform">Athanasius, Saint, Patriarch of Alexandria, –373: Commentarius de templo Athenarum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1525">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8035">
+      <author key="person_105155222">Athanasius, Saint, Patriarch of Alexandria, –373</author>
+      <title type="uniform">Athanasius, Saint, Patriarch of Alexandria, –373: Dialogi contra macedonianos I-II [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4484">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8036">
+      <author key="person_105155222">Athanasius, Saint, Patriarch of Alexandria, –373</author>
+      <title type="uniform">Athanasius, Saint, Patriarch of Alexandria, –373: Homilia in Assumptionem Domini [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6953">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8037">
+      <author key="person_72184962">Athenaeus Mechanicus, active 1st century BC</author>
+      <title type="uniform">Athenaeus Mechanicus, active 1st century BC: De machinis belli [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3097">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8038">
+      <author key="person_100218815">Autolycus</author>
+      <title type="uniform">Autolycus: De ortibus et occasibus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3401">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8040">
+      <author key="person_79416263">Barlaam Calabro, approximately 1290-1348</author>
+      <title type="uniform">Barlaam Calabro, approximately 1290-1348: Aduersus Latinos Opuscula 21 [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/362">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8041">
+      <author key="person_79416263">Barlaam Calabro, approximately 1290-1348</author>
+      <title type="uniform">Barlaam Calabro, approximately 1290-1348: Aduersos Latinos 7(XXI) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/448">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8042">
+      <author key="person_79416263">Barlaam Calabro, approximately 1290-1348</author>
+      <title type="uniform">Barlaam Calabro, approximately 1290-1348: In Canonem Apostolorum De Paschate [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7614">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8043">
+      <author key="person_79416263">Barlaam Calabro, approximately 1290-1348</author>
+      <title type="uniform">Barlaam Calabro, approximately 1290-1348: Logistica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9246">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8044">
+      <author key="person_79416263">Barlaam Calabro, approximately 1290-1348</author>
+      <title type="uniform">Barlaam Calabro, approximately 1290-1348: Refutatio In capp. addita Ptolemaei Harm. [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12012">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8045">
+      <author key="person_88967224">Basil, Saint, Bishop of Caesarea, approximately 329–379</author>
+      <title type="uniform">Basil, Saint, Bishop of Caesarea, approximately 329–379: Ad episcopum Optimum (Ep. 260) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/122">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8046">
+      <author key="person_88967224">Basil, Saint, Bishop of Caesarea, approximately 329–379</author>
+      <title type="uniform">Basil, Saint, Bishop of Caesarea, approximately 329–379: Ad monachum lapsum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/193">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8047">
+      <author key="person_88967224">Basil, Saint, Bishop of Caesarea, approximately 329–379</author>
+      <title type="uniform">Basil, Saint, Bishop of Caesarea, approximately 329–379: Ad uirginem lapsam (Ep. 46) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/270">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8048">
+      <author key="person_88967224">Basil, Saint, Bishop of Caesarea, approximately 329–379</author>
+      <title type="uniform">Basil, Saint, Bishop of Caesarea, approximately 329–379: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10623">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8049">
+      <author key="person_88967224">Basil, Saint, Bishop of Caesarea, approximately 329–379</author>
+      <title type="uniform">Basil, Saint, Bishop of Caesarea, approximately 329–379: Orationes (siue exorcismi [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11284">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8050">
+      <author key="person_212804391">Basil, Bishop of Seleucia</author>
+      <title type="uniform">Basil, Bishop of Seleucia: Hom. In S. Pascha [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7253">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8051">
+      <author key="person_362098">Biton Mechanicus, 3rd century BCE</author>
+      <title type="uniform">Biton Mechanicus, 3rd century BCE: De constructione bellicarum machinarum et catapultarum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2308">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8052">
+      <title type="uniform">Catena in Isaiam [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1230">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8053">
+      <author key="person_22517850">Chrysippus Hierosolymitanus, -479</author>
+      <title type="uniform">Chrysippus Hierosolymitanus, -479: Encomium in Iohannem Baptistam [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4774">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8055">
+      <author key="person_54152998">Ptolemy, active 2nd century</author>
+      <title type="uniform">Ptolemy, active 2nd century: Hypotheses [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7355">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8056">
+      <author key="person_54152998">Ptolemy, active 2nd century</author>
+      <title type="uniform">Ptolemy, active 2nd century: Phaseis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11456">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8057">
+      <author key="person_54152998">Ptolemy, active 2nd century</author>
+      <title type="uniform">Ptolemy, active 2nd century: Syntaxis mathematica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12764">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8058">
+      <author key="person_71438973">Chrysolōras, Dēmētrios</author>
+      <title type="uniform">Chrysolōras, Dēmētrios: De Unione Ecclesiae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4289">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8059">
+      <author key="person_71438973">Chrysolōras, Dēmētrios</author>
+      <title type="uniform">Chrysolōras, Dēmētrios: Refutatio Epistulae Missae Per Legatos Papae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12007">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8060">
+      <author key="person_71438973">Chrysolōras, Dēmētrios</author>
+      <title type="uniform">Chrysolōras, Dēmētrios: Tractatus Ex Libris Nili Contra Latinos [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/13071">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8061">
+      <author key="person_22939744">Demetrius Triclinius, approximately 1280 - approximately 1340</author>
+      <title type="uniform">Demetrius Triclinius, approximately 1280 - approximately 1340: De lunae schematismis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3089">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8062">
+      <author key="person_22939744">Demetrius Triclinius, approximately 1280 - approximately 1340</author>
+      <title type="uniform">Demetrius Triclinius, approximately 1280 - approximately 1340: De nigro in luna [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3286">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8063">
+      <author key="person_2604182">Diophantus, of Alexandria</author>
+      <title type="uniform">Diophantus, of Alexandria: Arithmetica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/732">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8064">
+      <author key="person_2604182">Diophantus, of Alexandria</author>
+      <title type="uniform">Diophantus, of Alexandria: De polygonis numeris [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3560">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8065">
+      <author key="person_13651211">Epiphanius, Saint, Bishop of Constantia in Cyprus, approximately 310–403</author>
+      <title type="uniform">Epiphanius, Saint, Bishop of Constantia in Cyprus, approximately 310–403: Homiliae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7223">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8067">
+      <author key="person_176184097">Euclid</author>
+      <title type="uniform">Euclid: Phaenomena [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11454">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8068">
+      <author key="person_10637157">Eudoxus, of Cnidus, approximately 400 B.C.-approximately 350 B.C.</author>
+      <title type="uniform">Eudoxus, of Cnidus, approximately 400 B.C.-approximately 350 B.C.: Fragmenta [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6511">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8069">
+      <author key="person_202843932">Eustathios, ho Rōmaios, active 11th century</author>
+      <title type="uniform">Eustathios, ho Rōmaios, active 11th century: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10903">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8070">
+      <title type="uniform">Exegetica varia [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/13125">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8071">
+      <author key="person_5124">Franciscus frater OP, fl. ?</author>
+      <title type="uniform">Franciscus frater OP, fl. ?: Quaesita ad Manuelem rhetorem [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11845">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8072">
+      <author key="person_44299175">Galen</author>
+      <title type="uniform">Galen: De dignotione ex insomniis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2465">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8073">
+      <author key="person_250472024">Geminus of Rhodes</author>
+      <title type="uniform">Geminus of Rhodes: Elementa astronomiae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4703">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8074">
+      <author key="person_316421957">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472</author>
+      <title type="uniform">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472: De processione Spiritus sancti tractatus II (1-4 [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3626">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8075">
+      <author key="person_316421957">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472</author>
+      <title type="uniform">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472: Dialogus II aduersus Latinos de processione Spiritus sancti [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4493">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8076">
+      <author key="person_316421957">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472</author>
+      <title type="uniform">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472: Responsio ad syllogismos Marci Ephesini de processione Spiritus sancti [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12062">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8077">
+      <author key="person_316421957">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472</author>
+      <title type="uniform">Gennadius, II, Patriarch of Constantinople, approximately 1405–approximately 1472: Responsio Scholarii ad Marcum Eugenicum morientem [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12103">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8078">
+      <author key="person_42144899026850291446">Codinus, George</author>
+      <title type="uniform">Codinus, George: Annorum et imperatorum Cpl series [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/587">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8079">
+      <author key="person_42144899026850291446">Codinus, George</author>
+      <title type="uniform">Codinus, George: De Patriarchis Cpl [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3498">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8080">
+      <author key="person_42144899026850291446">Codinus, George</author>
+      <title type="uniform">Codinus, George: De S. Sophia [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3815">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8081">
+      <author key="person_42144899026850291446">Codinus, George</author>
+      <title type="uniform">Codinus, George: Patria Cpl [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11420">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8082">
+      <author key="person_100222474">Gemistus Plethon, George, active 15th century</author>
+      <title type="uniform">Gemistus Plethon, George, active 15th century: Descriptio Thessaliae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4466">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8083">
+      <author key="person_100222474">Gemistus Plethon, George, active 15th century</author>
+      <title type="uniform">Gemistus Plethon, George, active 15th century: Excerpta ex Diodoro Siculo [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6340">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8084">
+      <author key="person_19477764">Germanos II, Patriarch of Constantinople, 1175?–1240</author>
+      <title type="uniform">Germanos II, Patriarch of Constantinople, 1175?–1240: Epistula ad Gregorium IX Papam [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5557">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8085">
+      <author key="person_19477764">Germanos II, Patriarch of Constantinople, 1175?–1240</author>
+      <title type="uniform">Germanos II, Patriarch of Constantinople, 1175?–1240: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9867">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8086">
+      <author key="person_19477764">Germanos II, Patriarch of Constantinople, 1175?–1240</author>
+      <title type="uniform">Germanos II, Patriarch of Constantinople, 1175?–1240: Responsio ad fratres minores a Gregorio missos [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12064">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8087">
+      <author key="person_5125">Germanus quidam, fl. ?</author>
+      <title type="uniform">Germanus quidam, fl. ?: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9915">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8088">
+      <author key="person_5126">Johannes Glycis musicus, fl. ?</author>
+      <title type="uniform">Johannes Glycis musicus, fl. ?: Opera liturgica et musica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10940">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8089">
+      <author key="person_108675755">Gregorius, Nazianzenus, 329–390</author>
+      <title type="uniform">Gregorius, Nazianzenus, 329–390: De fide orthodoxa contra Arianos [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2688">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8090">
+      <author key="person_108675755">Gregorius, Nazianzenus, 329–390</author>
+      <title type="uniform">Gregorius, Nazianzenus, 329–390: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9796">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8091">
+      <author key="person_103646160">Gregory, of Nyssa, Saint, approximately 335–approximately 394</author>
+      <title type="uniform">Gregory, of Nyssa, Saint, approximately 335–approximately 394: De mortuis non esse dolendum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3222">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8094">
+      <author key="person_122255386">Gregory Palamas, Saint, 1296–1359</author>
+      <title type="uniform">Gregory Palamas, Saint, 1296–1359: Contra Iohannem Beccum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1728">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8095">
+      <author key="person_122255386">Gregory Palamas, Saint, 1296–1359</author>
+      <title type="uniform">Gregory Palamas, Saint, 1296–1359: Epistula ad Acindynum I [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5228">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8096">
+      <author key="person_91013639">Gregory, IX, Pope, approximately 1170–1241</author>
+      <title type="uniform">Gregory, IX, Pope, approximately 1170–1241: Epistula Ad Germanum Ii Cpl [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5552">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8097">
+      <author key="person_88726043">Gregory, Thaumaturgus, Saint, approximately 213–approximately 270</author>
+      <title type="uniform">Gregory, Thaumaturgus, Saint, approximately 213–approximately 270: Disputatio de anima ad Tatianum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4583">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8098">
+      <title type="uniform">Metrophanes ep. CP. (S.), Vita in menologio imperiali [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/17104">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8100">
+      <author key="person_22953744">Hermeias, of Alexandria, active 5th century</author>
+      <title type="uniform">Hermeias, of Alexandria, active 5th century: In Platonis Phaedrum scholia [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8356">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8101">
+      <author key="person_21314508">Hesychius, of Alexandria, active 5th century</author>
+      <title type="uniform">Hesychius, of Alexandria, active 5th century: Ep Ad Eulogium [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4986">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8102">
+      <author key="person_287984736">Hippocrates, v460–v370</author>
+      <title type="uniform">Hippocrates, v460–v370: De insomniis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2964">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8103">
+      <author key="person_287984736">Hippocrates, v460–v370</author>
+      <title type="uniform">Hippocrates, v460–v370: Epistula ad Ptolemaeum regem de hominis fabrica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5163">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8104">
+      <author key="person_281628164">Hypsicles</author>
+      <title type="uniform">Hypsicles: Anaphoricus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/567">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8105">
+      <author key="person_267432724">Ignatius, Saint, Bishop of Antioch, -approximately 110</author>
+      <title type="uniform">Ignatius, Saint, Bishop of Antioch, -approximately 110: Epistulae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5996">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8106">
+      <author key="person_315938611">Bekkos, Johannes, Patriarch of Constantinople, approximately 1235-1297</author>
+      <title type="uniform">Bekkos, Johannes, Patriarch of Constantinople, approximately 1235-1297: Epigraphae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5439">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8107">
+      <author key="person_297475745">John Chrysostom, Saint, –407</author>
+      <title type="uniform">John Chrysostom, Saint, –407: De proditione Iudae, 1-2 [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/18511">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8108">
+      <author key="person_297475745">John Chrysostom, Saint, –407</author>
+      <title type="uniform">John Chrysostom, Saint, –407: De sancta Pentecoste homilia 2 [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/19467">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8109">
+      <author key="person_297475745">John Chrysostom, Saint, –407</author>
+      <title type="uniform">John Chrysostom, Saint, –407: Encomium in Beatam Mariam Virginem [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4752">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8110">
+      <author key="person_297475745">John Chrysostom, Saint, –407</author>
+      <title type="uniform">John Chrysostom, Saint, –407: Expositiones In Psalmos 4-12 [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6457">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8111">
+      <author key="person_297475745">John Chrysostom, Saint, –407</author>
+      <title type="uniform">John Chrysostom, Saint, –407: In Eliam prophetam sermo [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7784">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8112">
+      <author key="person_297475745">John Chrysostom, Saint, –407</author>
+      <title type="uniform">John Chrysostom, Saint, –407: Precationes [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11622">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8113">
+      <author key="person_7379151778233718130004">Koukouzeles, Joannes, 1280?-1360?</author>
+      <title type="uniform">Koukouzeles, Joannes, 1280?-1360?: Opera Musica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10956">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8114">
+      <author key="person_7379151778233718130004">Koukouzeles, Joannes, 1280?-1360?</author>
+      <title type="uniform">Koukouzeles, Joannes, 1280?-1360?: Opera Musica Descripta [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10969">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8115">
+      <author key="person_44435485">Johannes, Damascenus, 675–749</author>
+      <title type="uniform">Johannes, Damascenus, 675–749: Commentarius in magnum prophetam Eliam [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1542">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8118">
+      <author key="person_44435485">Johannes, Damascenus, 675–749</author>
+      <title type="uniform">Johannes, Damascenus, 675–749: Precationes uariae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11640">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8121">
+      <author key="person_2489">Joannes Phurnes, fl. 1110</author>
+      <title type="uniform">Joannes Phurnes, fl. 1110: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10109">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8122">
+      <author key="person_2489">Joannes Phurnes, fl. 1110</author>
+      <title type="uniform">Joannes Phurnes, fl. 1110: Oratio antirrhetica de processione Spiritus sancti [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/19802">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8123">
+      <author key="person_97934141">Pediasimus, Ioannes, 1282–1326</author>
+      <title type="uniform">Pediasimus, Ioannes, 1282–1326: Scholia in Aristotelis Analytica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12199">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8124">
+      <author key="person_5082">Iohannes Saita Cydoniates, 14th century</author>
+      <title type="uniform">Iohannes Saita Cydoniates, 14th century: De Sacramento Et Azymo Disputatio [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3842">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8125">
+      <author key="person_7742038">Isaac, Argyrus, –1373</author>
+      <title type="uniform">Isaac, Argyrus, –1373: De radice quadrato [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3739">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8126">
+      <author key="person_19690624">Johannitius, 809–873</author>
+      <title type="uniform">Johannitius, 809–873: Definitiones De Rebus Medicalibus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4404">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8128">
+      <author key="person_9873664">Leo, VI, Emperor of the East, 866–912</author>
+      <title type="uniform">Leo, VI, Emperor of the East, 866–912: Tacticae constitutiones [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12784">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8130">
+      <title type="uniform">Liturgiae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9228">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8131">
+      <title type="uniform">Synodicon de festo Orthodoxiae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12708">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8132">
+      <author key="person_44323191">Makarios, ho Makrēs, approximately 1383-1431</author>
+      <title type="uniform">Makarios, ho Makrēs, approximately 1383-1431: De processione Spiritus Sancti [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3643">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8133">
+      <author key="person_241773905">Manuel, Chrysaphes</author>
+      <title type="uniform">Manuel, Chrysaphes: Hymni [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7302">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8134">
+      <author key="person_49367775">Manuel de Corinthe, 1460?–1550?</author>
+      <title type="uniform">Manuel de Corinthe, 1460?–1550?: Ad Gerasimum hieropsaltem de processione Spiritus Sancti [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/137">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8136">
+      <author key="person_880152932535209830002">Marcellinus, rhetor, 5th/6th century</author>
+      <title type="uniform">Marcellinus, rhetor, 5th/6th century: Scholia in Hermogenis De statibus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12234">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8137">
+      <author key="person_89621835">Eugenikos, Markos, Saint, approximately 1392–1445?</author>
+      <title type="uniform">Eugenikos, Markos, Saint, approximately 1392–1445?: Confessio fidei [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1613">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8138">
+      <author key="person_89621835">Eugenikos, Markos, Saint, approximately 1392–1445?</author>
+      <title type="uniform">Eugenikos, Markos, Saint, approximately 1392–1445?: Epistula ad Georgium Methonensem [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5004">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8139">
+      <author key="person_89621835">Eugenikos, Markos, Saint, approximately 1392–1445?</author>
+      <title type="uniform">Eugenikos, Markos, Saint, approximately 1392–1445?: Epistula ad Georgium Scholarium [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5006">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8140">
+      <author key="person_89621835">Eugenikos, Markos, Saint, approximately 1392–1445?</author>
+      <title type="uniform">Eugenikos, Markos, Saint, approximately 1392–1445?: Marci Ephesii morientis oratio ad amicorum coetum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9273">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8141">
+      <author key="person_89621835">Eugenikos, Markos, Saint, approximately 1392–1445?</author>
+      <title type="uniform">Eugenikos, Markos, Saint, approximately 1392–1445?: Relatio de synodo Florentina [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12046">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8142">
+      <author key="person_69321335">Maximus Byzantius</author>
+      <title type="uniform">Maximus Byzantius: De insolubilibus obiectionibus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3324">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8144">
+      <author key="person_9857802">Planudes, Maximus, approximately 1260–approximately 1310</author>
+      <title type="uniform">Planudes, Maximus, approximately 1260–approximately 1310: Commentarius in Diophanti Arithmetica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1532">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8145">
+      <author key="person_47607458">Meletios, I, Patriarch of Alexandria, approximately 1551–1601</author>
+      <title type="uniform">Meletios, I, Patriarch of Alexandria, approximately 1551–1601: Epistulae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6071">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8146">
+      <author key="person_261331375">Nektarios, patriarch of Jerusalem, 1602-1676</author>
+      <title type="uniform">Nektarios, patriarch of Jerusalem, 1602-1676: Origo Et Causa Schism.inter Ecclesias [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11323">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8149">
+      <author key="person_32134390">Nicephorus, Blemmydes, 1197–1272</author>
+      <title type="uniform">Nicephorus, Blemmydes, 1197–1272: Historia terrae ad regem orthodoxum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6856">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8150">
+      <author key="person_64014428">Gregoras, Nicephorus, 1295–1359 or 1360</author>
+      <title type="uniform">Gregoras, Nicephorus, 1295–1359 or 1360: Scholia in Synesii de insomniis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/12290">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8151">
+      <author key="person_240167803121717771183">Nicetas Byzantius, 9th century</author>
+      <title type="uniform">Nicetas Byzantius, 9th century: Capita syllogistica XXIV de processione Sancti Spiritus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1032">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8152">
+      <author key="person_14618352">Nicetas of Paphlagonia, 9th–10th cent.</author>
+      <title type="uniform">Nicetas of Paphlagonia, 9th–10th cent.: Laudatio S. Bartholomaei ap. [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9025">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8153">
+      <author key="person_14618352">Nicetas of Paphlagonia, 9th–10th cent.</author>
+      <title type="uniform">Nicetas of Paphlagonia, 9th–10th cent.: Laudatio SS. Petri et Pauli app. [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9093">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8154">
+      <author key="person_5066">Nicetas patricius</author>
+      <title type="uniform">Nicetas patricius: Vita S. Andreae mon. Hierosolymitanus, ep. Cretensis [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/13348">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8155">
+      <author key="person_4984451">Cabasilas, Nicolaus, active 14th century</author>
+      <title type="uniform">Cabasilas, Nicolaus, active 14th century: De uita in Christo [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4258">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8156">
+      <author key="person_101343816">Malaxos, Nikolaos, 1500–1587</author>
+      <title type="uniform">Malaxos, Nikolaos, 1500–1587: Acoluthiae in uarios sanctos [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/36">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8157">
+      <author key="person_101343816">Malaxos, Nikolaos, 1500–1587</author>
+      <title type="uniform">Malaxos, Nikolaos, 1500–1587: Versus [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/13182">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8160">
+      <author key="person_17403574">Cabasilas, Nilus, approximately 1298–approximately 1363</author>
+      <title type="uniform">Cabasilas, Nilus, approximately 1298–approximately 1363: De dissidio Ecclesiarum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2476">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8161">
+      <author key="person_17403574">Cabasilas, Nilus, approximately 1298–approximately 1363</author>
+      <title type="uniform">Cabasilas, Nilus, approximately 1298–approximately 1363: De primatu papae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3599">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8163">
+      <author key="person_106969362">Olympiodorus, the Younger, of Alexandria, active 6th century</author>
+      <title type="uniform">Olympiodorus, the Younger, of Alexandria, active 6th century: In Philebum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8340">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8164">
+      <author key="person_106969362">Olympiodorus, the Younger, of Alexandria, active 6th century</author>
+      <title type="uniform">Olympiodorus, the Younger, of Alexandria, active 6th century: In Platonis Phaedonem commentarius [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8355">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8166">
+      <author key="person_95155322">Origen, of Alexandria, 185–254</author>
+      <title type="uniform">Origen, of Alexandria, 185–254: In Iohannem [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8109">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8167">
+      <author key="person_95155322">Origen, of Alexandria, 185–254</author>
+      <title type="uniform">Origen, of Alexandria, 185–254: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10382">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8168">
+      <author key="person_95155322">Origen, of Alexandria, 185–254</author>
+      <title type="uniform">Origen, of Alexandria, 185–254: Philocalia [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11464">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8170">
+      <author key="person_249775827">Petrus, Chrysolanus, -1117</author>
+      <title type="uniform">Petrus, Chrysolanus, -1117: Oratio ad imp. Alexium Comnenum de Spiritu Sancto [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4002">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8171">
+      <author key="person_48474369">Petros, ho Peloponnēsios, approximately 1730-approximately 1778</author>
+      <title type="uniform">Petros, ho Peloponnēsios, approximately 1730-approximately 1778: Cherubica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1261">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8172">
+      <author key="person_48474369">Petros, ho Peloponnēsios, approximately 1730-approximately 1778</author>
+      <title type="uniform">Petros, ho Peloponnēsios, approximately 1730-approximately 1778: Katabasia [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8918">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8173">
+      <author key="person_48474369">Petros, ho Peloponnēsios, approximately 1730-approximately 1778</author>
+      <title type="uniform">Petros, ho Peloponnēsios, approximately 1730-approximately 1778: Kekragaria [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8919">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8174">
+      <author key="person_48474369">Petros, ho Peloponnēsios, approximately 1730-approximately 1778</author>
+      <title type="uniform">Petros, ho Peloponnēsios, approximately 1730-approximately 1778: Koinonika [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8924">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8175">
+      <author key="person_48474369">Petros, ho Peloponnēsios, approximately 1730-approximately 1778</author>
+      <title type="uniform">Petros, ho Peloponnēsios, approximately 1730-approximately 1778: Musica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9449">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8176">
+      <author key="person_89016014">Philotheos, Kokkinos (–1379), Patriarch of Constantinople</author>
+      <title type="uniform">Philotheos, Kokkinos (–1379), Patriarch of Constantinople: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9701">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8177">
+      <author key="person_14775071">Photius, I, Saint, Patriarch of Constantinople, approximately 820–approximately 891</author>
+      <title type="uniform">Photius, I, Saint, Patriarch of Constantinople, approximately 820–approximately 891: Lexicon [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9127">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8178">
+      <author key="person_14775071">Photius, I, Saint, Patriarch of Constantinople, approximately 820–approximately 891</author>
+      <title type="uniform">Photius, I, Saint, Patriarch of Constantinople, approximately 820–approximately 891: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10017">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8179">
+      <author key="person_162237897">Pythagoras</author>
+      <title type="uniform">Pythagoras: Prognostica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/5647">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8180">
+      <author key="person_60320706">Sextus, Empiricus</author>
+      <title type="uniform">Sextus, Empiricus: Hypotyposes [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7362">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8181">
+      <author key="person_60320706">Sextus, Empiricus</author>
+      <title type="uniform">Sextus, Empiricus: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10013">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8182">
+      <author key="person_160788177">Iulius Africanus, Sextus, 160–240</author>
+      <title type="uniform">Iulius Africanus, Sextus, 160–240: Ars belli (Cesti VII) [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/735">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8184">
+      <author key="person_165545503">Solon, 0640?-0561 BCE</author>
+      <title type="uniform">Solon, 0640?-0561 BCE: Fragmenta [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/6538">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8185">
+      <author key="person_18021200">Sopatros, active 4th century</author>
+      <title type="uniform">Sopatros, active 4th century: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10348">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8186">
+      <author key="person_20473427">Sophronius, Saint, Patriarch of Jerusalem, approximately 560–approximately 638</author>
+      <title type="uniform">Sophronius, Saint, Patriarch of Jerusalem, approximately 560–approximately 638: Homilia in festum palmarum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7126">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8187">
+      <author key="person_273004808">Symeon, Metaphrastes, active 10th century</author>
+      <title type="uniform">Symeon, Metaphrastes, active 10th century: Liturgica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9235">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8188">
+      <author key="person_273004808">Symeon, Metaphrastes, active 10th century</author>
+      <title type="uniform">Symeon, Metaphrastes, active 10th century: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10239">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8189">
+      <author key="person_273004808">Symeon, Metaphrastes, active 10th century</author>
+      <title type="uniform">Symeon, Metaphrastes, active 10th century: Precationes [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11614">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8191">
+      <author key="person_250763486">Syrianus, 5th cent.</author>
+      <title type="uniform">Syrianus, 5th cent.: De Coniectura [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2295">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8192">
+      <author key="person_77111352">Theodoret, Bishop of Cyrrhus</author>
+      <title type="uniform">Theodoret, Bishop of Cyrrhus: Interpretatio In Baruch [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8792">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8193">
+      <author key="person_77111352">Theodoret, Bishop of Cyrrhus</author>
+      <title type="uniform">Theodoret, Bishop of Cyrrhus: Interpretatio In Ieremiam [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8812">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8194">
+      <author key="person_77111352">Theodoret, Bishop of Cyrrhus</author>
+      <title type="uniform">Theodoret, Bishop of Cyrrhus: Interpretatio In Lamentationes [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/8816">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8195">
+      <author key="person_77111352">Theodoret, Bishop of Cyrrhus</author>
+      <title type="uniform">Theodoret, Bishop of Cyrrhus: Quaestiones in Libros Regnorum &amp; Paralipomenon [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/11902">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8197">
+      <author key="person_100189101">Gazēs, Theodōros, approximately 1400–approximately 1475</author>
+      <title type="uniform">Gazēs, Theodōros, approximately 1400–approximately 1475: De origine Turcarum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/3393">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8198">
+      <author key="person_100189101">Gazēs, Theodōros, approximately 1400–approximately 1475</author>
+      <title type="uniform">Gazēs, Theodōros, approximately 1400–approximately 1475: Opera [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10046">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8199">
+      <author key="person_102320945">Metochites, Theodoros, 1270–1332</author>
+      <title type="uniform">Metochites, Theodoros, 1270–1332: Compendium astronomicum [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1578">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8200">
+      <author key="person_4998806">Theodore, Studites, Saint, 759–826</author>
+      <title type="uniform">Theodore, Studites, Saint, 759–826: Liturgica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9232">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8202">
+      <title type="uniform">De Christo [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/2230">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8203">
+      <author key="person_88940669">Theon, of Alexandria, active 364</author>
+      <title type="uniform">Theon, of Alexandria, active 364: Commentarium magnum in Ptolemaei canones [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1485">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8205">
+      <author key="person_56588190">Theon, of Smyrna</author>
+      <title type="uniform">Theon, of Smyrna: De utilitate mathematicae [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/4332">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8206">
+      <author key="person_5068">Theophanes I. Karykes, -?1597</author>
+      <title type="uniform">Theophanes I. Karykes, -?1597: Liturgica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9238">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8207">
+      <author key="person_5127">Zanates, fl. ?</author>
+      <title type="uniform">Zanates, fl. ?: Opera astronomica et geometrica [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/10912">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8208">
+      <title type="uniform">Iohannes Damascenus (S.), Commentarius de manu amputata [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/16663">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
+   <bibl xml:id="work_8209">
+      <title type="uniform">Moyses Aethiops (S.), Laudatio [Greek]</title>
+      <textLang mainLang="grc"/>
+      <note type="links">
+         <list type="links">
+            <item>
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/17164">
+                  <title>Pinakes</title>
+               </ref>
+            </item>
+         </list>
+      </note>
+   </bibl>
          </listBibl>
       </body>
    </text>

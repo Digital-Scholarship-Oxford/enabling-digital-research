@@ -1,12 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_384">
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_9798">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Ashmole 8</title>
+            <title>MS. Ashmole 14</title>
             <title type="collection">MSS. Ashmole</title>
             <respStmt>
                <resp>Summary description</resp>
-               <persName>Elizabeth Solopova</persName>
                <persName>Matthew Holford</persName>
             </respStmt>
          </titleStmt>
@@ -17,46 +16,41 @@
                <orgName type="institution">University of Oxford</orgName>
                <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
             </publisher>
-            <idno type="msID">MS_Ashmole_8</idno>
+            <idno type="msID">MS_Ashmole_14</idno>
             <idno type="collection">Ashmole</idno>
             <idno type="catalogue">Western</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Ashmole_8" xml:lang="en">
+            <msDesc xml:id="MS_Ashmole_14" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
                   <settlement>Oxford</settlement>
                   <institution>University of Oxford</institution>
                   <repository>Bodleian Library</repository>
-                  <idno type="shelfmark">MS. Ashmole 8</idno>
-                  <idno type="ieArk">ark:29072/x05m60qs788b</idno><idno type="crArk">ark:29072/x05h73pw94z4</idno><altIdentifier type="internal">
-                     <idno type="SCN">8465a</idno>
+                  <idno type="shelfmark">MS. Ashmole 14</idno>
+                  <idno type="ieArk">ark:29072/x0rn3011974k</idno><idno type="crArk">ark:29072/x0rr171x80fz</idno><altIdentifier type="internal">
+                     <idno type="SCN">7070 (?)</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem class="#computistica #prognostica" n="1" xml:id="MS_Ashmole_8-item1">
-                     <title key="work_10705" type="desc">Calendar with prognosticatory notes</title>
-                     <textLang mainLang="enm">Middle English</textLang>
-                  </msItem>
-                  <msItem n="2" xml:id="MS_Ashmole_8-item2">
-                     <title key="work_10389" type="desc">Astronomical table.</title>
+                  <msItem  n="1" xml:id="MS_Ashmole_8-item1">
+                     <title type="desc" key="work_14782">Statutes of the Order of the Garter, as ordained by Henry V</title>
+                     <note>English translation: draft (the fair copy is MS. Ash. Rolls 42)</note>
                      <textLang mainLang="enm">Middle English</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="perg">
-                        <support>parchment</support>
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>6 sheets, in folio</extent>
                      </supportDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote type="diagram">Astrological diagram.</decoNote>
-                  </decoDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian" notAfter="1310" notBefore="1300">14th century, early</origDate>
+                     <origDate calendar="Gregorian" notAfter="1525" notBefore="1500">16th century, early</origDate>
                      <origPlace>
                         <country key="place_7002445">English</country>
                      </origPlace>
@@ -67,22 +61,18 @@
                      <recordHist>
                         <source><ref target="https://medieval.bodleian.ox.ac.uk/about">Summary description</ref> abbreviated from the Quarto Catalogue (W. H. Black, <title>A descriptive, analytical, and critical catalogue of the manuscripts bequeathed unto the University of Oxford by Elias Ashmole Esq....</title>, Quarto Catalogues X, 1845). <listBibl>
                               <bibl facs="aeh0008.gif" type="QUARTO">Quarto Catalogue, col. 5</bibl>
-                              <bibl facs="aaq0520.gif" type="SC">Summary Catalogue, vol. 2, part 2, p. 1161</bibl>
+                              <bibl facs="aeh0009.gif" type="QUARTO">Quarto Catalogue, col. 6</bibl>
+                              <bibl facs="aaq0485.gif" type="SC">Summary Catalogue, vol. 2, part 2, p. 1126</bibl>
                            </listBibl>
                         </source>
                      </recordHist>
-                    <!-- <availability status="none">
-                        <p>This item will be on loan to the exhibition "Unfolding Time: The Medieval Pocket Calendar" (Lambeth Palace Library, Februrary - April 2025). It will not be orderable during that period or for a short time before and after.</p>
-                     </availability>-->
                   </adminInfo>
-                  <surrogates><bibl subtype="partial" type="digital-facsimile"><ref target="https://digital.bodleian.ox.ac.uk/objects/50d4436d-40cc-42be-9e18-667d40d0e184/"><title>Digital Bodleian</title></ref>
-                        <note>(2 images from 35mm slides)</note></bibl></surrogates>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2017-07-01">First online publication.</change>
+         <change when="2025-10">Record created.</change>
          <change when="2017-05-25"><persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/jamescummings/Bodleian-msDesc-ODD/blob/master/convertTolkien2Bodley.xsl">https://github.com/jamescummings/Bodleian-msDesc-ODD/blob/master/convertTolkien2Bodley.xsl</ref></change>
       </revisionDesc>
    </teiHeader>
