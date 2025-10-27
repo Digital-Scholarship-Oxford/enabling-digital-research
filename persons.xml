@@ -1472,6 +1472,9 @@
             
             <!-- new -->
           
+            <person xml:id="person_64354054">
+               <persName source="viaf" type="display">Finch, Heneage, first Earl of Nottingham, 1621-1682</persName>
+            </person>
             <person xml:id="person_89709283">
                <persName source="bodl" type="display">Nikolaos IV, Patriarch of Constantinople</persName>
             </person>
@@ -228077,6 +228080,18 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                      </item>
                   </list>
                </note>
+            </person>
+            <person xml:id="person_5128">
+               <persName source="bodl" type="display">Sywhat, Nicholas, of Norwich, 16th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1600" notBefore="1500"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5129">
+               <persName source="bodl" type="display">Stenham, Matthew, 17th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1700" notBefore="1600"></floruit>
+               <residence><country>England</country></residence>
             </person>
          </listPerson>
       </body>

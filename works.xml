@@ -32487,6 +32487,13 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="la"/>
                <term ref="#subject_science"/>
             </bibl>
+            <bibl xml:id="work_7483">
+               <title type="uniform">The Doom of Urines [Middle English]</title>
+               <title type="variant">The Dome of Urynes </title>
+               <bibl type="edition">EETS O.S. 354 (2019)</bibl>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_medicine"/>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -61591,8 +61598,7 @@ Medieval Papacy -->
             <bibl xml:id="work_189">
                <!--original: 'Macer'-->
                <author key="person_69037344">Macer, Floridus</author>
-               <!-- add John Lelamour: check -->
-               <title type="uniform">Macer, Floridus: De uiribus herbarum (tr. John Lelamour) [Middle English]</title>
+               <title type="uniform">Macer, Floridus: De uiribus herbarum [Middle English]</title>
                <title type="normalised_ms">de uiribus herbarum</title>
                <textLang mainLang="enm"/>
                <title type="normalised_ms">de virtutibus herbarum</title>
@@ -98719,7 +98725,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_11978">
                <title type="ms">Genealogy of the Kings of England from Egbert to Edward II</title>
-               <title type="uniform">Genealogy of the Kings of England from Egbert to Edward II [Anglo-Norman]</title>
+               <title type="uniform">Genealogy of the Kings of England from Ecgberht [Anglo-Norman]</title>
                <title type="normalised">genealogy of kings of england from egbert to edward ii [Anglo-Norman]</title>
                <note type="language">Anglo-Norman</note>
                <textLang mainLang="xno"/>
