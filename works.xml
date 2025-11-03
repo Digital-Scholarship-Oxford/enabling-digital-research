@@ -32494,6 +32494,14 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="enm"/>
                <term ref="#subject_medicine"/>
             </bibl>
+            <bibl xml:id="work_7484">
+               <author key="person_303414130">Hippocrates, pseudo</author>
+               <title type="uniform">Hippocrates, pseudo: Astrologia medicorum (tr.) [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_science"/>
+               <term ref="#subject_medicine"/>
+               <bibl>Irene Diego-Rodríguez, ‘The “Englishing” of the Pseudo-Hippocratic Zodiacal Lunary Contained in Oxford, Bodleian Library, Ashmole Ms 210 (Ff. 36v–42r)’, <title>Kwartalnik Neofilologiczny</title>, no. 3 (2021), pp. 334–50</bibl>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -47444,11 +47452,18 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <!--original: Ps.-Hippocrates-->
                <author key="person_303414130">Hippocrates, pseudo</author>
                <title type="uniform">Hippocrates, pseudo: Astrologia medicorum [Latin]</title>
-               <title type="normalised_ms">astrologia medicorum</title>
+               <title type="normalised_ms">astrologia hippocratis</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Digby 28</note>
                <note type="shelfmark">MS. Digby 29</note>
                <term ref="#subject_science"/>
+               <term ref="#subject_medicine"/>
+               <note>The different versions are not here currently distinguished. See Lynn Thorndike, ‘The three Latin translations of the Pseudo-Hippocratic Tract on astrological medicine’, <title>Janus</title> 46 (1960), 104–129, and Hippocrates Latinus VII (<title>Traditio</title> 33 (1977))</note>
+               <!-- other mss listed by Kibre are: Ashm. 345 f. 6r-12v; Ash? 393 f. 58r-59r; Laud 29, 167-173v (all anon tr.); As. 345 f. 31v-37, Laud 29 f. 167r-173v (tr. Moerbeke, but see above); Canon. Misc. 140r-144r (tr. peter of Abano); Canon Misc 517 f. 20r-21v (?extract, cf . Thorndike,
+'Notes on Some Less Familiar British
+Astronomical and Astrological Manuscripts, '
+Journal of the Warburg and Courtauld In
+stitutes 22 (1959) 167 ff; -->
             </bibl>
             <!--  <bibl xml:id="work_4017">
           <!-\-original: Ps.-Hippocrates-\->
