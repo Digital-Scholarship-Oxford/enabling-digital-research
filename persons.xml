@@ -228093,6 +228093,30 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <floruit notAfter="1700" notBefore="1600"></floruit>
                <residence><country>England</country></residence>
             </person>
+            <person xml:id="person_5130">
+               <persName source="bodl" type="display">Best, Thomas, 17th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1700" notBefore="1600"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5131">
+               <persName source="bodl" type="display">Jameson, Thomas, fl. 1697</persName>
+               <sex>male</sex>
+               <floruit notAfter="1710" notBefore="1690"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5132">
+               <persName source="bodl" type="display">Evan, Morgan, fl. 1716</persName>
+               <sex>male</sex>
+               <floruit notAfter="1725" notBefore="1705"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5133">
+               <persName source="bodl" type="display">Jenkin, John, fl. 1729</persName>
+               <sex>male</sex>
+               <floruit notAfter="1740" notBefore="1720"></floruit>
+               <residence><country>England</country></residence>
+            </person>
          </listPerson>
       </body>
    </text>
