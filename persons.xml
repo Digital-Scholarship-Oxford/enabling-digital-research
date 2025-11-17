@@ -228117,6 +228117,21 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <floruit notAfter="1740" notBefore="1720"></floruit>
                <residence><country>England</country></residence>
             </person>
+            <person xml:id="person_5134">
+               <persName source="bodl" type="display">Partes, Robert, OSB, monk of Reading, 12th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1200" notBefore="1100"></floruit>
+               <residence><country>England</country></residence>
+               <bibl>Sharpe, <title>Latin Writers</title>, s.n.</bibl>
+               <bibl>W. H. Cornog, 'The Poems of Robert Partes', <title>Speculum</title> 12 (1937), pp. 215-250</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://data.biblissima.fr/entity/Q14845"><title>Biblissima</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
          </listPerson>
       </body>
    </text>

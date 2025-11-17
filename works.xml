@@ -32502,6 +32502,16 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <term ref="#subject_medicine"/>
                <bibl>Irene Diego-Rodríguez, ‘The “Englishing” of the Pseudo-Hippocratic Zodiacal Lunary Contained in Oxford, Bodleian Library, Ashmole Ms 210 (Ff. 36v–42r)’, <title>Kwartalnik Neofilologiczny</title>, no. 3 (2021), pp. 334–50</bibl>
             </bibl>
+            <bibl xml:id="work_7485">
+               <title type="uniform">Ysengrimus [Latin]</title>
+               <title type="variant">Ysengrinus </title>
+               <textLang mainLang="la"/>
+               <term ref="#literature"/>
+               <bibl><title>Ysengrimus</title>, ed. E. Voigt (Halle a. S., 1884)</bibl>
+               <bibl><title>Ysengrimus. Text with
+                     translation, commentary and introduction</title>, ed. and trans. J. Mann (Leiden,
+                  1987)</bibl><bibl> <title>Ysengrimus</title>, ed. and trans. J. Mann (Cambridge, Massachusetts, London, 2013).</bibl>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
