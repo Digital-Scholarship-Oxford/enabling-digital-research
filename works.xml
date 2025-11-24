@@ -7024,8 +7024,8 @@
             </bibl>
             <bibl xml:id="work_6813">
                <!--original: Ps.-Melito of Sardis-->
-               <author key="person_38223273">Melito, pseudo</author>
-               <title type="uniform">Melito, pseudo: Passio Iohannis [Latin]</title>
+               <author key="person_38223273">Melito, Saint, Bishop of Sardis, pseudo</author>
+               <title type="uniform">Melito, Saint, Bishop of Sardis, pseudo: Passio Iohannis [Latin]</title>
                <textLang mainLang="la"/>
                <term ref="#subject_hagiography"/>
                <note type="links">
@@ -51150,8 +51150,8 @@ Medieval Papacy -->
             </bibl>
             <bibl xml:id="work_4071">
                <!--original: Ps.-Melito of Sardis-->
-               <author key="person_38223273">Melito, pseudo</author>
-               <title type="uniform">Melito, pseudo: Clavis sanctae scripturae [Latin]</title>
+               <author key="person_38223273">Melito, Saint, Bishop of Sardis, pseudo</author>
+               <title type="uniform">Melito, Saint, Bishop of Sardis, pseudo: Clavis sanctae scripturae [Latin]</title>
                <title type="normalised_ms">clavis sanctae scripturae</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. e Mus. 82</note>
@@ -93847,13 +93847,22 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_hagiography"/>
             </bibl>
             <bibl xml:id="work_11459">
-               <title type="ms">De transitu beatae Mariae uirginis</title>
-               <title type="uniform">De transitu beatae Mariae uirginis [Latin]</title>
+               <author key="person_38223273">Melito, Saint, Bishop of Sardis, pseudo</author>
+               <title type="uniform">Melito, Saint, Bishop of Sardis, pseudo: De transitu beatae Mariae uirginis [Latin]</title>
                <title type="normalised">de transitu beatae mariae uirginis [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Bodl. 157</note>
                <term ref="#subject_hagiography"/>
+               <bibl>BHL 5351-5352a</bibl>
+               <bibl type="repertory">(<ref target="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=164,5">Stegmüller, <title>Bibl.</title> 164,5</ref>)</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/liber-de-transitu-virginis-mariae-melito-sardianus-title/16774"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
                <!--<note type="subject">mariologica</note>-->
             </bibl>
             <bibl xml:id="work_11461">

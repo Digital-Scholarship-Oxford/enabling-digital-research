@@ -1472,6 +1472,9 @@
             
             <!-- new -->
           
+            <person xml:id="person_90003125">
+               <persName source="viaf" type="display">Ede, Charles (English antique dealer, 1921-2002)</persName>
+            </person>
             <person xml:id="person_64354054">
                <persName source="viaf" type="display">Finch, Heneage, first Earl of Nottingham, 1621-1682</persName>
             </person>
@@ -153925,7 +153928,7 @@
             <!-- 1838 -->
             <person xml:id="person_38223273">
                <!-- record originally created from https://viaf.org/viaf/38223273/viaf.xml at 2017-05-09 11:33:16.357807 -->
-               <persName source="bodl" subtype="forenameFirst" type="display">Melito, pseudo</persName>
+               <persName source="bodl" subtype="forenameFirst" type="display">Melito, Saint, Bishop of Sardis, pseudo</persName>
                <persName source="LC" subtype="forenameFirst" type="crossref">Pseudo-Melito</persName>
                <persName source="LC" subtype="surnameFirst" type="crossref">Méliton, Pseudo-</persName>
                <note type="links">
@@ -228131,6 +228134,10 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                      </item>
                   </list>
                </note>
+            </person>
+            <person xml:id="person_5135">
+               <persName source="bodl" type="display">Strichman, Larry</persName>
+               <sex>male</sex>
             </person>
          </listPerson>
       </body>
