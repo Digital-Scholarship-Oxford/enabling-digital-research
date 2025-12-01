@@ -32512,6 +32512,34 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                      translation, commentary and introduction</title>, ed. and trans. J. Mann (Leiden,
                   1987)</bibl><bibl> <title>Ysengrimus</title>, ed. and trans. J. Mann (Cambridge, Massachusetts, London, 2013).</bibl>
             </bibl>
+            <bibl xml:id="work_7486">
+               <author key="person_2478602">Lupus of Ferrières, approximately 805-approximately 862</author>
+               <title type="uniform">Lupus of Ferrières, approximately 805-approximately 862: De metris Boethii [Latin]</title>
+               <title type="variant">Lupus of Ferrières, approximately 805-approximately 862: De metris Boetii [Latin]</title>
+               <title type="variant">Lupus of Ferrières, approximately 805-approximately 862: De generibus metrorum in libro Boethii [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#classical_literature"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/de-generibus-metrorum-in-libro-boethii-lupus-ferra-title/4430"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            <bibl xml:id="work_7487">
+               <title type="uniform">Commentum Cornuti in Persium [Latin]</title>
+               <title type="variant">Commentary on Persius, Satires</title>
+               <textLang mainLang="la"/>
+               <term ref="#classical_literature"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/commentum-cornuti-title/172743"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399

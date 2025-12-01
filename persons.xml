@@ -1472,6 +1472,9 @@
             
             <!-- new -->
           
+            <person xml:id="person_2478602">
+               <persName source="viaf" type="display">Lupus of Ferrières, approximately 805-approximately 862</persName>
+            </person>
             <person xml:id="person_90003125">
                <persName source="viaf" type="display">Ede, Charles (English antique dealer, 1921-2002)</persName>
             </person>
