@@ -32540,6 +32540,15 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                   </list>
                </note>
             </bibl>
+            <bibl xml:id="work_7488">
+               <title type="uniform">The Book of Ipocras of Life and of Death [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#science"/>
+               <bibl>ed. <title>Medieval Lunar Astrology: A Collection of Representative Middle English Texts</title>, ed. Laurel Means (Lewiston etc., 1993), text L18 (pp. 245-250)</bibl>
+               <bibl>IPMEP 387.2</bibl>
+               <bibl><title>Manual of Writings in Middle English</title>, X, xxv, [116] (pp. 3623, 3779)</bibl>
+               <bibl>Irene Diego-Rodríguez, ‘The “Englishing” of the Pseudo-Hippocratic Zodiacal Lunary Contained in Oxford, Bodleian Library, Ashmole Ms 210 (Ff. 36v–42r)’, <title>Kwartalnik Neofilologiczny</title>, no. 3 (2021), pp. 334–50 at 338-9 lists 16 manuscipts, correcting the list in Manual, X, p. 3779. </bibl>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -63883,11 +63892,13 @@ Medieval Papacy -->
             <bibl xml:id="work_4512">
                <!--original: Serlo of Bayeux-->
                <author key="person_74208088">Serlo, Baiocensis, ca. 1050–1122</author>
-               <title type="uniform">Serlo, Baiocensis, ca. 1050–1122: Quae monachi quaerunt [Latin]</title>
+               <title type="uniform">Serlo, Baiocensis, ca. 1050–1122: Carmina [Latin]</title>
                <title type="normalised_ms">quae monachi quaerunt</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Auct. F. 2. 14</note>
                <term ref="#subject_monasticism_and_religious_orders"/>
+               <term ref="#subject_christian_literature"/>
+               <term ref="#subject_literature"/>
             </bibl>
             <bibl xml:id="work_4333">
                <!--original: Richard of Wallingford-->
@@ -115446,12 +115457,20 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_13839">
                <title type="ms">Poem in elegiacs</title>
-               <title type="uniform">Poem in elegiacs [Latin]</title>
-               <title type="normalised">poem in elegiacs [Latin]</title>
+               <title type="uniform">De malicia saeculi siue De peccato
+                  originali [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Auct. F. 4. 29</note>
                <term ref="#subject_literature"/>
+               <bibl>Edited with works of <persName role="aut" key="person_282035032">Hildebert, Archbishop of
+                     Tours</persName> in: B. Hauréau, <title>Les mélanges poétiques d'Hildebert de
+                        Lavardin</title> (Paris, 1882), p. 337.</bibl>
+               <bibl>WIC 19323.</bibl>
+               <bibl>Chevalier, <title>Rep. Hymn.</title>, vol. 4, no. 41266.</bibl>
+               <bibl>R. Newhauser, I. Bejczy, <title>A Supplement to Morton W. Bloomfield
+                     et al., 'Incipits of Latin Works on the Virtues and Vices,
+                     1100-1500 A.D.'</title> (Turnhout, 2008), no. 6025.</bibl>
                <!--<note type="subject">versus</note>-->
             </bibl>
             <bibl xml:id="work_13840">
