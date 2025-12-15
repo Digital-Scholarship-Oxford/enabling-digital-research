@@ -1472,6 +1472,12 @@
             
             <!-- new -->
           
+            <person xml:id="person_12317090">
+               <persName source="LC" type="display">Leo IX, Pope, 1002-1054</persName>
+            </person>
+            <person xml:id="person_34466242">
+               <persName source="LC" type="display">Urban II, Pope, approximately 1042-1099</persName>
+            </person>
             <person xml:id="person_2478602">
                <persName source="viaf" type="display">Lupus of Ferrières, approximately 805-approximately 862</persName>
             </person>
@@ -177229,10 +177235,10 @@
             <!-- 2331 -->
             <person xml:id="person_311431142">
                <!-- record originally created from https://viaf.org/viaf/311431142/viaf.xml at 2017-05-09 12:24:27.971854 -->
-               <persName source="BNF" subtype="unknownOrder" type="display">Jean de Blois, 12..–14..?, theologian</persName>
+               <persName source="BNF" subtype="unknownOrder" type="display">Jean de Blois, fl. 1386-1415, theologian</persName>
                <persName source="BNF" subtype="unknownOrder" type="crossref">Johannes de Blesis</persName>
-               <birth source="VIAF" when="1250">1250</birth>
-               <death source="VIAF" when="1450">1450</death>
+               <floruit notAfter="1415" notBefore="1373"/>
+               <bibl>Eelcko Ypma, 'Jean de Blois O.E.S.A. et ses ouvrages', <title>Augustiniana</title>, 12 (1962), 123-141</bibl>
                <note type="links">
                   <list type="links">
                      <item>
@@ -177243,6 +177249,11 @@
                      <item>
                         <ref target="https://viaf.org/viaf/311431142">
                            <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://jonas.irht.cnrs.fr/intervenant/3577">
+                           <title>JONAS</title>
                         </ref>
                      </item>
                      <!--No match found in ISNI for VIAF ID 311431142 on 2021-05-20-->

@@ -32549,6 +32549,20 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <bibl><title>Manual of Writings in Middle English</title>, X, xxv, [116] (pp. 3623, 3779)</bibl>
                <bibl>Irene Diego-Rodríguez, ‘The “Englishing” of the Pseudo-Hippocratic Zodiacal Lunary Contained in Oxford, Bodleian Library, Ashmole Ms 210 (Ff. 36v–42r)’, <title>Kwartalnik Neofilologiczny</title>, no. 3 (2021), pp. 334–50 at 338-9 lists 16 manuscipts, correcting the list in Manual, X, p. 3779. </bibl>
             </bibl>
+            <bibl xml:id="work_7489">
+               <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: Tsbulae Pisanae [Latin]</title>
+               <title type="normalised_ms">astronomical tables for Pisa</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <!--<note type="subject">astrologia et astronomia</note>-->
+            </bibl>
+            <bibl xml:id="work_7490">
+               <title type="uniform">Donation of Constantine [Latin]</title>
+               <title type="variant">Donatio Constantini [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_law"/>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -48575,12 +48589,19 @@ stitutes 22 (1959) 167 ff; -->
             </bibl>
             <bibl xml:id="work_2393">
                <!--original: Jehan de Blois-->
-               <author key="person_311431142">Jean de Blois, 12..–14..?, theologian</author>
-               <title type="uniform">Jean de Blois, 12..–14..?, theologian: Epitome of subjects of psalms and canticles [Latin]</title>
-               <title type="normalised_ms">epitome of subjects of psalms and canticles</title>
-               <textLang mainLang="la"/>
+               <author key="person_311431142">Jean de Blois, fl. 1386-1415, theologian</author>
+               <title type="uniform">Jean de Blois, fl. 1386-1415, theologian: Commentaire sur les Psaumes [Middle French]</title>
+               <title type="variant">Jean de Blois, fl. 1386-1415, theologian: Epitome of subjects of psalms and canticles [Middle French]</title>
+               <textLang mainLang="frm"/>
                <note type="shelfmark">MS. Rawl. D. 1228</note>
                <term ref="#subject_bible"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://jonas.irht.cnrs.fr/oeuvre/11356"><title>JONAS</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_4705">
                <!--original: Theodorus Kuropalates Smyrnaeus-->
