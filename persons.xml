@@ -173313,17 +173313,17 @@
             <!-- 2255 -->
             <person xml:id="person_30785585">
                <!-- record originally created from https://viaf.org/viaf/30785585/viaf.xml at 2017-05-09 12:20:53.658054 -->
-               <persName source="LC" subtype="forenameFirst" type="display">Humphrey, Duke of Gloucester, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Bonus, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Claudianus Dux, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Cloucestrensis, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Glocestriae Dux, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humfrey, Gloucester, Herzog, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humfridus, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humphrey, Gloucester, Duke, 1391–1447</persName>
-               <persName source="DNB" subtype="forenameFirst" type="variant">Humphrey, von Gloucester, 1391–1447, 1391–1447</persName>
-               <persName source="DNB" subtype="surnameFirst" type="crossref">Plantagenet, Humphrey, 1391–1447</persName>
-               <birth source="VIAF" when="1391">1391-10-03</birth>
+               <persName source="LC" subtype="forenameFirst" type="display">Humfrey, Duke of Gloucester, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Bonus, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Claudianus Dux, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Cloucestrensis, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humfredus, Glocestriae Dux, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humfrey, Gloucester, Herzog, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humfridus, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humphrey, Gloucester, Duke, 1390–1447</persName>
+               <persName source="DNB" subtype="forenameFirst" type="variant">Humphrey, von Gloucester, 1390–1447</persName>
+               <persName source="DNB" subtype="surnameFirst" type="crossref">Plantagenet, Humphrey, 1390–1447</persName>
+               <birth source="VIAF" when="1390">1390-10-03</birth>
                <death source="VIAF" when="1447">1447-02-23</death>
                <note type="links">
                   <list type="links">
