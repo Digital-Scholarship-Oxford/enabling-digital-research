@@ -32563,6 +32563,40 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="la"/>
                <term ref="#subject_law"/>
             </bibl>
+            <bibl xml:id="work_7491">
+               <author key="person_89657091">Bonaventure, Saint, Cardinal, approximately 1217–1274</author>
+               <title type="uniform">Bonaventure, Saint, Cardinal, approximately 1217–1274: Commentary on Ecclesiastes [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition"><title>Opera omnia</title> (Quaracchi), 6. 3—99</bibl>
+               <bibl  type="repertory"> Distelbrink 11</bibl><bibl  type="repertory"> Stegmüller <title>Bibl.</title> 1773.</bibl>
+               <term ref="#subject_bible"/>
+            </bibl>
+            <bibl xml:id="work_7492">
+               <title type="uniform">A Treatise of All Manner of Infirmities of Man's Body [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_medicine"/>
+               <bibl>Unpr.</bibl>
+            </bibl>
+            <bibl xml:id="work_7493">
+               <title type="uniform">The Governance of Signs [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_science"/>
+               <bibl>Unpr.</bibl>
+               <bibl>M. Teresa Tavormina, <title>Uroscopy in Middle English: A Guide to the Texts and Manuscripts</title>, Studies in medieval and renaissance history 3rd ser., 11 (2014), Appendix A.4 (p. 109)</bibl>
+            </bibl>
+            <bibl xml:id="work_7494">
+               <title type="uniform">The Four Elements [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_science"/>
+               <bibl>Unpr.</bibl>
+               <bibl>M. Teresa Tavormina, <title>Uroscopy in Middle English: A Guide to the Texts and Manuscripts</title>, Studies in medieval and renaissance history 3rd ser., 11 (2014), 8.2 (pp. 64-6)</bibl>
+            </bibl>
+            <bibl xml:id="work_7495">
+               <title type="uniform">Digestives Simple and Compound [Middle English]</title>
+               <textLang mainLang="enm"/>
+               <term ref="#subject_medicine"/>
+               <bibl>Unpr.</bibl>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -79625,6 +79659,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Bodl. 761</note>
                <term ref="#subject_medicine"/>
+               <bibl><title>Alphita</title>, ed. Alejandro García González (Florence, 2007)</bibl>
             </bibl>
             <bibl xml:id="work_10183">
                <title type="ms">Altercatio Adriani et Epicteti</title>
@@ -133169,9 +133204,9 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_law"/>
             </bibl>
             <bibl xml:id="work_15559">
-               <title type="uniform">Year Book 3 Edw II (1328–9, Eyre of Northampton) [Latin]</title>
+               <title type="uniform">Year Book 3 Edw II (1328–9, Eyre of Northampton) [Anglo-Norman]</title>
                <note type="language">Latin</note>
-               <textLang mainLang="la"/>
+               <textLang mainLang="xno"/>
                <note type="shelfmark">MS. Rawl. C. 187</note>
                <term ref="#subject_law"/>
             </bibl>
@@ -136943,6 +136978,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Homilies [Old English]</title>
                <textLang mainLang="ang"/>
                <term ref="#subject_sermons"/>
+               <note>This entry groups the anonymous Old English homilies. Individual homilies may be searched for using their Cameron numbers.</note>
             </bibl>
             <bibl xml:id="work_16330">
                <title type="uniform">Poenitentiale Oxoniense I [Latin]</title>

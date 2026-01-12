@@ -1471,7 +1471,19 @@
             
             
             <!-- new -->
-          
+            <person xml:id="person_71341310">
+               <persName source="ODNB" type="display">Aldred (fl. c. 970), provost of Chester-le-Street</persName>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/312"><title>Oxford DNB</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_120696480">
+               <persName source="LC" type="display">Clarke, Adam, approximately 1762-1832</persName>
+            </person>
             <person xml:id="person_12317090">
                <persName source="LC" type="display">Leo IX, Pope, 1002-1054</persName>
             </person>
@@ -228152,6 +228164,13 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
             <person xml:id="person_5135">
                <persName source="bodl" type="display">Strichman, Larry</persName>
                <sex>male</sex>
+            </person>
+            <person xml:id="person_5136">
+               <persName source="bodl" type="display">Saunders, Thomas, of the Inner Temple, fl. 1527-1565</persName>
+               <sex>male</sex>
+               <floruit notAfter="1527" notBefore="1565"></floruit>
+               <residence><country>England</country></residence>
+               <bibl> John Baker, <title>The Men of Court 1440 to 1550</title>, Selden Soc. suppl. ser. 18 (2012), II. 1364-5.</bibl>
             </person>
          </listPerson>
       </body>
