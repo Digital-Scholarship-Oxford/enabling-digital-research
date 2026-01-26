@@ -228172,6 +228172,31 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <residence><country>England</country></residence>
                <bibl> John Baker, <title>The Men of Court 1440 to 1550</title>, Selden Soc. suppl. ser. 18 (2012), II. 1364-5.</bibl>
             </person>
+            <person xml:id="person_5137">
+               <persName source="bodl" type="display">Grene, Bartholomew, 16th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1600" notBefore="1500"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5138">
+               <persName source="bodl" type="display">Cheyne, Edmund, 16th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1600" notBefore="1500"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5139">
+               <persName source="bodl" type="display">Bolte, John, 15th century (?)</persName>
+               <sex>male</sex>
+               <floruit notAfter="1500" notBefore="1400"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5140">
+               <persName source="bodl" type="display">Scalon, Thomas, fl. 1499-1555</persName>
+               <sex>male</sex>
+               <floruit notAfter="1555" notBefore="1499"></floruit>
+               <residence><country>England</country></residence>
+               <bibl>Frank F. Klaassen, <title>The Transformations of Magic : Illicit Learned Magic in the Later Middle Ages and Renaissance</title> (Pennsylvania State University Press, 2013), pp. 48-51</bibl>
+            </person>
          </listPerson>
       </body>
    </text>

@@ -32597,6 +32597,72 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <term ref="#subject_medicine"/>
                <bibl>Unpr.</bibl>
             </bibl>
+            <bibl xml:id="work_7496">
+               <author key="person_120688673">Bacon, Roger, 1214?–1294</author>
+               <title type="uniform">Bacon, Roger, 1214?–1294: De uniuersali regimine senum et seniorum [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition">pr. <title>OHI</title> 9 (1928), 90-95.</bibl>
+               <term ref="#subject_medicine"/>
+            </bibl>
+            <bibl xml:id="work_7497">
+               <author key="person_120688673">Bacon, Roger, 1214?–1294</author>
+               <title type="uniform">Bacon, Roger, 1214?–1294: De balneis senum et seniorum [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition">pr. <title>OHI</title> 9 (1928), 96-7.</bibl>
+               <term ref="#subject_medicine"/>
+            </bibl>
+            <bibl xml:id="work_7498">
+               <author key="person_120688673">Bacon, Roger, 1214?–1294</author>
+               <title type="uniform">Bacon, Roger, 1214?–1294: De compositione quarundam medicinarum in speciali quae iuuant sensum [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition">pr. <title>OHI</title> 9 (1928), 98-102.</bibl>
+               <term ref="#subject_medicine"/>
+            </bibl>
+            <bibl xml:id="work_7499">
+               <author key="person_120688673">Bacon, Roger, 1214?–1294</author>
+               <title type="uniform">Bacon, Roger, 1214?–1294: Antidotarius [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition">pr. <title>OHI</title> 9 (1928), 103-119.</bibl>
+               <term ref="#subject_medicine"/>
+            </bibl>
+            <bibl xml:id="work_7500">
+               <author key="person_120688673">Bacon, Roger, 1214?–1294</author>
+               <title type="uniform">Bacon, Roger, 1214?–1294: De conseruatione iuuentatis [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition">pr. <title>OHI</title> 9 (1928), 120-143.</bibl>
+               <term ref="#subject_medicine"/>
+            </bibl><!-- "cul" uses 7501-7515 -->
+            <bibl xml:id="work_7516">
+               <title type="uniform">Commentary on Roger Bacon, De graduatione medicinarum compositarum [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_medicine"/>
+            </bibl>
+            <bibl xml:id="work_7517">
+               <author key="person_120688673">Bacon, Roger, 1214?–1294</author>
+               <title type="uniform">Bacon, Roger, 1214?–1294: De erroribus medicorum [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl type="edition">pr. <title>OHI</title> 9 (1928), 150-180.</bibl>
+               <term ref="#subject_medicine"/>
+            </bibl>
+            <bibl xml:id="work_7518">
+               <author key="person_90634457">Kindī, -approximately 873</author>
+               <author key="person_84814786" role="translator">Gherardo, da Cremona, 1113 or 1114–1187</author>
+               <title type="uniform">Kindī, -approximately 873: De aspectibus (tr. Gerard of Cremona) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/de-aspectibus-alhazen-n-965-ca-m-1040-ca--title/4625"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            <bibl xml:id="work_7519">
+               <title type="uniform">Commentary on Anianus, Compotus [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -33496,6 +33562,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="la"/>
                <term ref="#subject_science"/>
                <term ref="#subject_classical_literature"/>
+               <note>The different translations (for which see, inter alia, M. Folkerts, <title>Euclid in Medieval Europe</title>, online edition) are not currently distinguished.</note>
                <!--<note type="subject">mathematica</note>-->
             </bibl>
             <bibl xml:id="work_1482">
@@ -79623,9 +79690,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_indexes"/>
             </bibl>
             <bibl xml:id="work_10179">
-               <title type="ms">Alphabetical list of medicinal plants with short descriptions.</title>
-               <title type="uniform">Alphabetical list of medicinal plants with short descriptions [Latin, Middle English, and Anglo-Norman]</title>
-               <title type="normalised">alphabetical list of medicinal plants with short descriptions [Latin, Middle English, and Anglo-Norman]</title>
+               <title type="variant">Synonyma herbarum et medicinarum</title>
+               <title type="uniform">Synonyma medicinalia [Latin, Middle English, and Anglo-Norman]</title>
                <note type="language">Latin, Middle English, Anglo-Norman</note>
                <textLang mainLang="la" otherLangs="enm xno"/>
                <note type="shelfmark">MS. Arch. Selden. B. 35</note>
@@ -81539,7 +81605,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_10389">
                <title type="ms">Astronomical table.</title>
-               <title type="uniform">Astronomical table [Middle English]</title>
+               <title type="uniform">Astronomical or astrological tables (unspecified or unidentified) [Middle English]</title>
                <title type="normalised">astronomical table [Middle English]</title>
                <term ref="#subject_science"/>
                <!--<note type="subject">astrologia et astronomia</note>-->
@@ -81549,7 +81615,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_10392">
                <title type="ms">Astronomical tables</title>
-               <title type="uniform">Astronomical tables [English and Latin]</title>
+               <title type="uniform">Astronomical or astrological tables (unspecified or unidentified) [Middle English and Latin]</title>
                <title type="normalised">astronomical tables [English and Latin]</title>
                <note type="language">English and Latin</note>
                <textLang mainLang="en" otherLangs="la"/>
@@ -81562,7 +81628,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="ms">Astronomical tables.</title>
                <term ref="#subject_science"/>
                <!--<note type="subject">astrologia et astronomia</note>-->
-               <title type="uniform">Astronomical tables [Greek]</title>
+               <title type="uniform">Astronomical or astrological tables (unspecified or unidentified) [Greek]</title>
                <title type="normalised">astronomical tables [Greek]</title>
                <note type="language">Greek</note>
                <textLang mainLang="grc"/>
@@ -81592,7 +81658,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             <bibl xml:id="work_10396">
                <title type="ms">Astronomical tables</title>
                <title type="ms">Astronomical tables.</title>
-               <title type="uniform">Astronomical tables [Latin]</title>
+               <title type="uniform">Astronomical or astrological tables (unspecified or unidentified)[Latin]</title>
                <title type="normalised">astronomical tables [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
@@ -81633,7 +81699,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_science"/>
                <!--<note type="subject">astrologia et astronomia</note>-->
             </bibl>
-            <bibl xml:id="work_10399">
+         <!--   <bibl xml:id="work_10399">
                <title type="ms">Astronomical tables and canons</title>
                <title type="uniform">Astronomical tables and canons [Latin]</title>
                <title type="normalised">astronomical tables and canons [Latin]</title>
@@ -81642,8 +81708,8 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="shelfmark">MS. Digby 114</note>
                <note type="shelfmark">MS. Digby 114</note>
                <term ref="#subject_science"/>
-               <!--<note type="subject">astrologia et astronomia</note>-->
-            </bibl>
+               <!-\-<note type="subject">astrologia et astronomia</note>-\->
+            </bibl>-->
           <!--  <bibl xml:id="work_10400">
                <title type="ms">Astronomical tables and diagrams.</title>
                <title type="uniform">Astronomical tables and diagrams [Latin]</title>
