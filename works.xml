@@ -169,7 +169,7 @@
                <textLang mainLang="la"/>
                <term ref="#subject_theology"/>
                <term ref="#subject_christian_literature"/>
-               <bibl type="edition"><ref target="https://www.dmgh.de/mgh_briefe_d_dt_kaiserzeit_4_1/">MGH Breife d. dt. Kaiserzeit 4.1-4</ref></bibl>
+               <bibl type="edition"><ref target="https://www.dmgh.de/mgh_briefe_d_dt_kaiserzeit_4_1">MGH Breife d. dt. Kaiserzeit 4.1-4</ref></bibl>
                <note>Ep. 92 (in part) = De Novissimis et Antichristo siue Epistola de die iudicii</note>
             </bibl>
             <bibl xml:id="work_7624">
@@ -2124,7 +2124,7 @@
                <bibl type="edition">Ed. J. L. Heiberg and H. Menge (Leipzig, 1896).</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1928/"><title>Pinakes</title></ref></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1928"><title>Pinakes</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_science"/>
@@ -2137,7 +2137,7 @@
                <bibl type="edition">Ed. M. Hayduck, <title>Commentaria in Aristotelem graeca</title> I (Berlin, 1891), pp. 722ff</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/382/"><title>Pinakes</title></ref></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/382"><title>Pinakes</title></ref></item>
                      <item><ref target="http://www.mirabileweb.it/title/adversus-mathematicos-sextus-empiricus-title/16908"><title>Mirabile</title></ref></item>
                      <item><ref target="http://viaf.org/viaf/375145857890023021036"><title>VIAF</title></ref></item>
                   </list>
@@ -2195,7 +2195,7 @@
                <bibl type="repertory">Aldama 246.</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/3935/"><title>Pinakes</title></ref></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/3935"><title>Pinakes</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_sermons"/>
@@ -5716,7 +5716,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-gratia-et-libero-arbitrio-guillelmus-alvernus-n-title/131177"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="https://viaf.org/viaf/175251153/"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/175251153"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5767,7 +5767,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/theoremata-de-esse-et-essentia-aegidius-romanus-n--title/21720"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="https://viaf.org/viaf/183328896/"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/183328896"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -5783,7 +5783,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-formatione-humani-corporis-in-utero-aegidius-ro-title/17785"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="https://viaf.org/viaf/180092691/"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/180092691"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5834,7 +5834,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-de-mensura-angelorum-aegidius-romanus--title/7127"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="https://viaf.org/viaf/178881051/"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178881051"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5850,7 +5850,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-de-resurrectione-mortuorum-aegidius-ro-title/11237"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="https://viaf.org/viaf/186156259/"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/186156259"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6383,7 +6383,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/author/stephanus-de-borbone-n-1185-1190-m-1260-1261-author/19326"><title>Mirabile</title></ref></item>
-                     <item><ref target="https://viaf.org/viaf/9882498/"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/9882498"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_sermons"/>
@@ -8930,7 +8930,7 @@
                         </ref>
                      </item>
                      <item>
-                        <ref target="https://viaf.org/viaf/181719874/">
+                        <ref target="https://viaf.org/viaf/181719874">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -8951,7 +8951,7 @@
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/viaf/183239638/">
+                        <ref target="https://viaf.org/viaf/183239638">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -8985,7 +8985,7 @@
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/viaf/292777910/">
+                        <ref target="https://viaf.org/viaf/292777910">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -9076,7 +9076,7 @@
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/viaf/292674671/">
+                        <ref target="https://viaf.org/viaf/292674671">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -13029,7 +13029,7 @@
                <title type="uniform">Dante Alighieri, 1265–1321: Monarchia [Latin]</title>
                <term ref="#subject_philosophy"/>
                <textLang mainLang="la"/>
-               <bibl type="edition">ed. <ref target="https://www.danteonline.it/monarchia/">Prue Shaw</ref> (2006, rev. 2009)</bibl>
+               <bibl type="edition">ed. <ref target="https://www.danteonline.it/monarchia">Prue Shaw</ref> (2006, rev. 2009)</bibl>
             </bibl>
             <bibl xml:id="work_6238">
                <author key="person_266285625">Anatolius, Saint, Bishop of Laodicea</author>
@@ -27669,7 +27669,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="shelfmark">MS. Barocci 135</note>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/8267/"><title>Pinakes</title></ref></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/8267"><title>Pinakes</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_sermons"/>
@@ -27699,7 +27699,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="shelfmark">MS. Barocci 135</note>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/8627/"><title>Pinakes</title></ref></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/8627"><title>Pinakes</title></ref></item>
                   </list>
                </note>
                <!-- check: orations also have titles (cf Pinakes) =  -->
@@ -32662,6 +32662,36 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <title type="uniform">Commentary on Anianus, Compotus [Latin]</title>
                <textLang mainLang="la"/>
                <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7520">
+               <author key="person_207783919">Roffredus, Beneventanus, approximately 1170–1243?</author>
+               <title type="uniform">Roffredus, Beneventanus, approximately 1170–1243? (?): Quaestiones sabbatinae [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_law"/>
+               <note>The attribution to Roffredus is queried in the <ref target="https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=c033">
+                  <title>Bio-Bibliographical Guide to Medieval and Early Modern Jurists</title>
+               </ref></note>
+            </bibl>
+            <bibl xml:id="work_7521">
+               <author key="person_306322530">Bartolomeo da Brescia, 1166–1250</author>
+               <title type="uniform">Bartolomeo da Brescia, 1166–1250: Quaestiones dominicales et veneriales [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_law"/>
+               <bibl>pr. Rouen, 1511</bibl>
+            </bibl>
+            <bibl xml:id="work_7522">
+               <author key="person_306322530">Bartolomeo da Brescia, 1166–1250</author>
+               <title type="uniform">Bartolomeo da Brescia, 1166–1250: Brocarda Damasi [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_law"/>
+               <bibl>pr. Lyon, 1519</bibl>
+            </bibl>
+            <bibl xml:id="work_7523">
+               <author key="person_306322530">Bartolomeo da Brescia, 1166–1250</author>
+               <title type="uniform">Bartolomeo da Brescia, 1166–1250: Glossa ordinaria in Decretum [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_law"/>
+               <bibl>pr. Venice, 1496, etc.</bibl>
             </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
@@ -38078,7 +38108,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="http://manuscripts.rg.mpg.de/item/17953/">
+                        <ref target="http://manuscripts.rg.mpg.de/item/17953">
                            <title>Manuscripta juridica</title>
                         </ref>
                      </item>
@@ -53355,7 +53385,7 @@ Medieval Papacy -->
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Bodl. 360</note>
                <term ref="#subject_medicine"/>
-               <bibl><ref target="https://cmg.bbaw.de/en/homepage/resources/bibliographies-to-hippocrates-and-to-galen-fichtner/">Corpus Galenicum. Verzeichnis der galenischen und pseudogalenischen Schriften (Version 2019/12)</ref>, no. 409</bibl>
+               <bibl><ref target="https://cmg.bbaw.de/en/homepage/resources/bibliographies-to-hippocrates-and-to-galen-fichtner">Corpus Galenicum. Verzeichnis der galenischen und pseudogalenischen Schriften (Version 2019/12)</ref>, no. 409</bibl>
             </bibl>
             <bibl xml:id="work_1621">
                <!--original: Galen-->
@@ -76502,20 +76532,20 @@ Medieval Papacy -->
             <bibl xml:id="work_710">
                <!--original: Arzachel-->
                <author key="person_98323479">Azarchel, –1100</author>
-               <title type="uniform">Azarchel, –1100: Astronomical tables [Latin]</title>
+               <title type="uniform">Azarchel, –1100: Lectiones tabularum secundum Arzachelis [Latin]</title>
                <title type="normalised_ms">astronomical tables</title>
                <title type="normalised_ms">astronomical tables, preceded by lections</title>
                <title type="normalised_ms">astronomical tables, preceded by english liturgical calendar</title>
-               <note type="shelfmark">MS. Savile 23</note>
+               <note type="shelfmark">MS. Savile 23</note><!-- text to be checked -->
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Savile 22</note>
-               <!-- identity of this text unclear and should be checked, ?= next -->
+               <bibl>Carmody p. 161 (<ref target="https://hdl.handle.net/2027/mdp.39015008519228?urlappend=%3Bseq=175%3Bownerid=13510798884854112-199">31.1.d</ref>)</bibl>
                <term ref="#subject_science"/>
             </bibl>
             <bibl xml:id="work_711">
                <!--original: Arzachel-->
                <author key="person_98323479">Azarchel, –1100</author>
-               <title type="uniform">Azarchel, –1100: Canones ad tabulas toletanas [Latin]</title>
+               <title type="uniform">Azarchel, –1100: Canones ad tabulas Toletanas [Latin]</title>
                <title type="normalised_ms">canones ad tabulas toletanas</title>
                <title type="normalised_ms">canones</title>
                <title type="normalised_ms">canons</title>
@@ -76529,17 +76559,20 @@ Medieval Papacy -->
                <note type="shelfmark">MS. Digby 193</note>
                <note type="shelfmark">MS. Digby 20</note>
                <textLang mainLang="la"/>
+               <bibl>pr. Nürnberg 1534</bibl><bibl> ed. F. S. Pedersen, <title>The Toledan Tables</title> (Copenhagen 2002), 2. 331—499</bibl>
+               <bibl> Carmody, 157—60</bibl><bibl>Thorndike/Kibre 1268, 1306, 1708</bibl>
+               <note> Pedersen judges that the medieval ascriptions to Arzachel and Gerard are not reliable. </note>
                <term ref="#subject_science"/>
             </bibl>
-            <bibl xml:id="work_712">
-               <!--original: Arzachel-->
+        <!--    <bibl xml:id="work_712" = 710>
+               <!-\-original: Arzachel-\->
                <author key="person_98323479">Azarchel, –1100</author>
                <title type="uniform">Azarchel, –1100: Lectiones tabularum [Latin]</title>
                <title type="normalised_ms">lectiones tabularum</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Digby 20</note>
                <term ref="#subject_science"/>
-            </bibl>
+            </bibl>-->
             <bibl xml:id="work_713">
                <author key="person_314797824" role="translator">Profatius Judæus, approximately 1236–</author>
                <author key="person_4998"  role="translator">Johannes Brixiensis, fl. 1263</author>
@@ -121900,7 +121933,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <!--<note type="subject">auctoritates</note>-->
                <bibl type="repertory"><ref target="http://data.cerl.org/istc/ir00318600">ISTC: ir00318600</ref></bibl>
                <bibl><title>Rosaio della vita: trattato morale attribuito a Matteo de' Corsini e composto nel MCCCLXXIII</title> (Florence, 1845)</bibl>
-               <note>On the attribution to Corsini cf. Anna Benvenuti Papi in <ref target="http://www.treccani.it/enciclopedia/matteo-corsini_(Dizionario-Biografico)/"><title>Dizionario Biografico degli Italiani</title></ref> XXIX (1983)</note>
+               <note>On the attribution to Corsini cf. Anna Benvenuti Papi in <ref target="http://www.treccani.it/enciclopedia/matteo-corsini_(Dizionario-Biografico)"><title>Dizionario Biografico degli Italiani</title></ref> XXIX (1983)</note>
             </bibl>
             <bibl xml:id="work_14451">
                <title type="ms">Royal ordinance relating to a law suit regarding farms (stathmoi)</title>
@@ -126704,7 +126737,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://celt.ucc.ie//published/T100001A/">
+                        <ref target="https://celt.ucc.ie//published/T100001A">
                            <title>CELT: Corpus of Electronic Texts</title>
                         </ref>
                      </item>
@@ -134740,7 +134773,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <bibl type="repertory"><ref target="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&amp;number=1318y"><title>BHG</title> 1318y</ref></bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9494/"><title>Pinakes</title></ref><!-- for 'narrationes animae utiles' in general, several different BHG refs --></item>
+                     <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/9494"><title>Pinakes</title></ref><!-- for 'narrationes animae utiles' in general, several different BHG refs --></item>
                   </list>
                </note>
             </bibl>
@@ -140428,7 +140461,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <title type="uniform">Torquemada, Juan de, 1388–1468: Expositio super toto Psalterio [Latin]</title>
                <title type="variant">In psalterium</title>
                <textLang mainLang="la"/>
-               <bibl type="edition"><ref target="https://gallica.bnf.fr/ark:/12148/bpt6k8728686x/">Rome, 1470</ref></bibl>
+               <bibl type="edition"><ref target="https://gallica.bnf.fr/ark:/12148/bpt6k8728686x">Rome, 1470</ref></bibl>
                <bibl type="repertory"><ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiShowLink.tcl?ma=7136">Stegmüller, <title>Bibl.</title>, 5003</ref></bibl>
                <note type="links">
                   <list type="links">
@@ -140595,7 +140628,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
               <title type="uniform">O intemerata [Latin]</title>
               <textLang mainLang="la" />
               <term ref="#subject_christian_literature" />
-              <bibl><ref target="https://archive.org/details/auteursspirituel0000wilm/page/474/">A. Wilmart, <title>'La Prière <hi rend="italic">O intemerata</hi>'</title>, <title>Auteurs spirituels et textes devots du moyen age latin</title> (Paris, 1932), pp. 474-504.</ref></bibl>
+              <bibl><ref target="https://archive.org/details/auteursspirituel0000wilm/page/474">A. Wilmart, <title>'La Prière <hi rend="italic">O intemerata</hi>'</title>, <title>Auteurs spirituels et textes devots du moyen age latin</title> (Paris, 1932), pp. 474-504.</ref></bibl>
            </bibl>
            
            <bibl xml:id="work_5552">

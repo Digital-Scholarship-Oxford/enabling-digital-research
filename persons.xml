@@ -1471,6 +1471,9 @@
             
             
             <!-- new -->
+            <person xml:id="person_375154441719135460001">
+               <persName source="LC" type="display">Bransby, James Hews, 1783-1847</persName>
+            </person>
             <person xml:id="person_71341310">
                <persName source="ODNB" type="display">Aldred (fl. c. 970), provost of Chester-le-Street</persName>
                <note type="links">
@@ -104494,6 +104497,8 @@
                <persName source="DNB" subtype="forenameFirst" type="variant">Odofredus, Bononiensis, 1170–1243</persName>
                <persName source="DNB" subtype="forenameFirst" type="variant">Roffredus, Beneventanus, 1170–1243</persName>
                <persName source="DNB" subtype="forenameFirst" type="variant">Roffredus, de Epiphaniis, 1170–1243</persName>
+               <persName  type="variant">Roffredus Epiphanii</persName>
+               <persName  type="variant">Roffredus Epiphanius</persName>
                <birth source="VIAF" when="1170">1170</birth>
                <death source="VIAF" when="1243">1243</death>
                <note type="links">
@@ -104536,6 +104541,11 @@
                      <item source="#VL1">
                         <ref target="https://d-nb.info/gnd/1089821220">
                            <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=c033">
+                           <title>Bio-Bibliographical Guide to Medieval and Early Modern Jurists</title>
                         </ref>
                      </item>
                   </list>
@@ -113218,6 +113228,11 @@
                      <item source="#VL1">
                         <ref target="http://www.isni.org/isni/0000000456058340">
                            <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=a050">
+                           <title>Bio-Bibliographical Guide to Medieval and Early Modern Jurists</title>
                         </ref>
                      </item>
                   </list>
@@ -223122,7 +223137,11 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
             </person>
             <person xml:id="person_4154">
                <persName source="bodl" type="display">Manbe, John, monk of Durham, -after 1494</persName>
-               <death notBefore="1494"/>
+               <persName source="bodl" type="variant">Manby, John, OSB, monk of Durham, fl. 1463-1495</persName>
+               <sex>male</sex>
+               <floruit notAfter="1495" notBefore="1463"></floruit>
+               <residence><country>England</country></residence>
+               <bibl>MLGB, suppl. (1987), pp. 93-4. </bibl>
                <bibl>Emden, <title>BRUO</title>, 1212–13.</bibl>
                <bibl>Thomson, <title>Lincoln</title>, p. 200 and pl. 34.</bibl>
             </person>
@@ -228196,6 +228215,82 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <floruit notAfter="1555" notBefore="1499"></floruit>
                <residence><country>England</country></residence>
                <bibl>Frank F. Klaassen, <title>The Transformations of Magic : Illicit Learned Magic in the Later Middle Ages and Renaissance</title> (Pennsylvania State University Press, 2013), pp. 48-51</bibl>
+            </person>
+            <!-- mlh -->
+            <person xml:id="person_5141">
+               <persName source="bodl" type="display">Bracke, John, 16th or 17th century</persName>
+               <sex>male</sex>
+               <floruit notAfter="1700" notBefore="1500"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5142">
+               <persName source="bodl" type="display">Bourne, J. G., 19th century (?)</persName>
+               <sex>unknown</sex>
+               <floruit notAfter="1900" notBefore="1800"></floruit>
+               <residence><country>England</country></residence>
+            </person>
+            <person xml:id="person_5143">
+               <persName source="bodl" type="display">Ashton, Robert, 16th or 17th century</persName>
+               <persName source="bodl" type="variant">Robert Ashton</persName>
+               <floruit notBefore="1575" notAfter="1625"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5144">
+               <persName source="bodl" type="display">Lambert, Josias, of Carlton in Craven, Yorkshire, gent., 16th or 17th century</persName>
+               <persName source="bodl" type="variant">Josias Lambert of Carton (=Carlton?) in Craven in the
+                  countye of Yorke gentleman</persName>
+               <floruit notBefore="1575" notAfter="1625"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5145">
+               <persName source="bodl" type="display">Deane, William of Haworth, Yorkshire, 16th or 17th century</persName>
+               <persName source="bodl" type="variant">William Dean of Hawaorthe</persName>
+               <floruit notBefore="1575" notAfter="1625"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5146">
+               <persName source="bodl" type="display">Ellys, Thomas, 16th or 17th century</persName>
+               <persName source="bodl" type="variant">Thomas Ellis</persName>
+               <floruit notBefore="1575" notAfter="1625"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5147">
+               <persName source="bodl" type="display">Deane, Robert, of Haworth, Yorkshire, clothier, 16th or 17th century</persName>
+               <persName source="bodl" type="variant">Robert Dean of Haworthe in the countie of Yorke Clotheyer</persName>
+               <floruit notBefore="1575" notAfter="1625"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5148">
+               <persName source="bodl" type="display">Nero, Piero del, -1598</persName>
+               <death when="1598"/>
+               <sex>male</sex>
+               <residence>
+                  <country>Italy</country>
+               </residence>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://it.wikipedia.org/wiki/Piero_del_Nero">
+                           <title>Wikipedia</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </person>
          </listPerson>
       </body>
