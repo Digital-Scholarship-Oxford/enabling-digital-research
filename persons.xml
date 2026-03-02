@@ -1471,6 +1471,21 @@
             
             
             <!-- new -->
+            <person xml:id="person_33095778">
+               <persName source="bodl" type="display">De Marinis, Tammaro, 1878-1969</persName>
+            </person>
+            <person xml:id="person_38156331">
+               <persName source="bodl" type="display">Feltrinelli, Giannalisa, 1903-1981</persName>
+            </person>
+            <person xml:id="person_12280611">
+               <persName source="LC" type="display">Giovanni, d'Aragona, Cardinal, 1456-1485</persName>
+            </person>
+            <person xml:id="person_90497252">
+               <persName source="LC" type="display">Capel, Algernon, Earl of Essex, 1670-1710</persName>
+            </person>
+            <person xml:id="person_309671366">
+               <persName source="LC" type="display">Towneley, Christopher, 1604-1674</persName>
+            </person>
             <person xml:id="person_375154441719135460001">
                <persName source="LC" type="display">Bransby, James Hews, 1783-1847</persName>
             </person>
@@ -228291,6 +228306,48 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                      </item>
                   </list>
                </note>
+            </person>
+            <person xml:id="person_5149">
+               <persName source="bodl" type="display">Forde, Oliver, 15th or 16th century</persName>
+               <persName source="bodl" type="variant">Ford, Oliver, 15th or 16th century</persName>
+               <floruit notAfter="1550" notBefore="1450"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5150">
+               <persName source="bodl" type="display">Powell, Francis Sharp, 1827-1911</persName>
+               <birth when="1827"/>
+               <death when="1911"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q7526723"><title>Wikidata</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_5151">
+               <persName source="bodl" type="display">Bellingham, James, of Levens Hall, -1641</persName>
+               <death when="1641"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+               <!-- https://landedfamilies.blogspot.com/2023/05/546-bellingham-of-levens-and-castle.html -->
+            </person>
+            <person xml:id="person_5152">
+               <persName source="bodl" type="display">Knox, David George, -1810</persName>
+               <death when="1810"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence><!-- there is said to be an obituary in Gentleman's Magazine -->
             </person>
          </listPerson>
       </body>

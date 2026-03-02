@@ -32693,6 +32693,13 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <term ref="#subject_law"/>
                <bibl>pr. Venice, 1496, etc.</bibl>
             </bibl>
+            <bibl xml:id="work_7524">
+               <author key="person_90634457">Kindī, -approximately 873</author>
+               <title type="uniform">Kindī, -approximately 873: De planetis sub radiis [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <bibl>Carmody, pp. 81-2</bibl>
+            </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
