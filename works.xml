@@ -333,7 +333,7 @@
                <textLang mainLang="la"/>
                <note type="links">
                   <list>
-                     <item><ref target="https://www.wikidata.org/wiki/Q56171833"><title>Wikidata</title></ref></item>
+                     <item><ref target="https://www.wikidata.org/entity/Q56171833"><title>Wikidata</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_natural_history"/>
@@ -544,12 +544,12 @@
                <note type="links">
                   <list>
                      <item>
-                        <ref target="http://viaf.org/viaf/220775385">
+                        <ref target="https://viaf.org/viaf/220775385">
                            <title>VIAF</title>
                         </ref>
                      </item>
                      <item>
-                        <ref target="https://www.wikidata.org/wiki/Q1233598">
+                        <ref target="https://www.wikidata.org/entity/Q1233598">
                            <title>Wikidata</title>
                         </ref>
                      </item>
@@ -563,7 +563,7 @@
                <term ref="#subject_classical_literature"/>
                <note type="links">
                   <list>
-                     <item><ref target="http://viaf.org/viaf/186370969/#Te%CC%81rence._|_Heauton_timorumenos"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/186370969/"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -574,7 +574,7 @@
                <term ref="#subject_classical_literature"/>
                <note type="links">
                   <list>
-                     <item><ref target="http://viaf.org/viaf/220873274/#Te%CC%81rence._|_Adelphi"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/220873274/"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -609,7 +609,7 @@
                         </ref>
                      </item>
                      <item>
-                        <ref target="http://viaf.org/viaf/2888150085874815060008">
+                        <ref target="https://viaf.org/viaf/2888150085874815060008">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -785,7 +785,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-fide-contra-manichaeos-evodius-uzaliensis-episc-title/203294"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/182997308"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182997308"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -803,7 +803,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-sobrietate-et-castitate-augustinus-aurelius-pse-title/31752"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/221822496"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/221822496"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -930,7 +930,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-quattuor-gradibus-violentae-caritatis-richardus-title/2674"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/1049145857885823020666"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/1049145857885823020666"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -969,8 +969,8 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententiae-septem-sapientium-hildebertus-cenomanen-title/3413"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/9081156497259117740004"><title>VIAF</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/182159617"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/9081156497259117740004"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182159617"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1239,7 +1239,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentum-in-boethii-philosophiae-consolationem-gu-title/13809"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/178074140"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178074140"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1324,7 +1324,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-libero-arbitrio-robertus-grosseteste-n-ante-117-title/10532"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/3443151656234208400007"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/3443151656234208400007"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1352,7 +1352,7 @@
 			   <term ref="#subject_medicine"/>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/200806719"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/200806719"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1376,7 +1376,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quid-pro-quo-title/170396"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/316789422"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/316789422"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1439,7 +1439,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/expositio-super-antidotarium-nicolai-iohannes-de-s-title/3033"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/5387150470096104330006"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/5387150470096104330006"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1526,7 +1526,7 @@
                <bibl type="repertory"><ref target="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=158,1">Stegmüller, <title>Bibl.</title>, 158,1</ref></bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/181738305"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/181738305"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <textLang mainLang="la"/>
@@ -1605,7 +1605,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/ars-grammatica-petrus-pisanus-diaconus-n-744-ca-m--title/5461"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/6291155566442113380003"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/6291155566442113380003"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_grammar"/>
@@ -1638,7 +1638,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/ars-medendi-copho-salernitanus-saec-xi-xii-title/27187"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/4853150032995011180009"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/4853150032995011180009"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1673,7 +1673,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.handschriftencensus.de/werke/97"><title>Handschriftencensus</title></ref></item>
-                     <item><ref target=" http://viaf.org/viaf/178625399"><title>VIAF</title></ref></item>
+                     <item><ref target=" https://viaf.org/viaf/178625399"><title>VIAF</title></ref></item>
                      <item><ref target="https://www.geschichtsquellen.de/werk/2242"><title>Geschichtsquellen des deutschen Mittelalters</title></ref></item>
                   </list>
                </note>
@@ -1755,7 +1755,7 @@
                <textLang mainLang="gmh"/>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/3146522249532391208"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/3146522249532391208"><title>VIAF</title></ref></item>
                      <item><ref target="http://www.geschichtsquellen.de/werk/3849"><title>Geschichtsquellen des deutschen Mittelalters</title></ref></item>
                   </list>
                </note>
@@ -1940,7 +1940,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-aspectibus-alhazen-n-965-ca-m-1040-ca--title/4625"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/182307853"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182307853"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1957,10 +1957,10 @@
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-magnum-in-physicam-aristotelis-averro-title/5482"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/231838405"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/231838405"><title>VIAF</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/201121498"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/201121498"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -1974,7 +1974,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-eruditione-praedicatorum-humbertus-de-romanis-n-title/3781"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/188735513"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/188735513"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -2001,7 +2001,7 @@
                <textLang mainLang="la"/>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/174351966"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/174351966"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -2139,7 +2139,7 @@
                   <list type="links">
                      <item><ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/382"><title>Pinakes</title></ref></item>
                      <item><ref target="http://www.mirabileweb.it/title/adversus-mathematicos-sextus-empiricus-title/16908"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/375145857890023021036"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/375145857890023021036"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2257,7 +2257,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-super-librum-de-generatione-et-corruptio-title/4034"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/176943993"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/176943993"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2286,7 +2286,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-super-libros-physicorum-aegidius-romanus-title/14926"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/182114521"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182114521"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2311,7 +2311,7 @@
                <bibl type="edition">Ed. W. Klotz (2nd edn., Leipzig, 1957).</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/173989826"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/173989826"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_classical_literature"/>
@@ -2328,8 +2328,8 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sermones-nicolaus-claraevallensis-monachus-n-saec--title/171"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/6146285376015370691"><title>VIAF</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/20146285386215370192"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/6146285376015370691"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/20146285386215370192"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_sermons"/>
@@ -2343,7 +2343,7 @@
                <bibl type="edition"><title>Die Briefe Heinrichs IV</title>, ed. C. Erdmann, <title>M.G.H. Deutsches Mittelalter</title> 1 (1937).</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/181768021"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/181768021"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_literature"/>
@@ -2358,7 +2358,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentaria-in-ciceronis-topica-boethius-n-480-ca--title/9683"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/177545378"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/177545378"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2460,26 +2460,11 @@
                   <note type="links">
                      <list type="links">
                         <item><ref target="http://www.mirabileweb.it/title/categoriae-aristoteles-title/16476"><title>Mirabile</title></ref></item>
-                        <item><ref target="http://viaf.org/viaf/186512058"><title>VIAF</title></ref></item>
+                        <item><ref target="https://viaf.org/viaf/186512058"><title>VIAF</title></ref></item>
                      </list>
                   </note>
                </bibl>-->
-            <bibl corresp="#work_642" xml:id="work_7276">
-               <author key="person_100188011">Kilwardby, Robert, –1279</author>
-               <title type="uniform">Kilwardby, Robert, –1279: Commentary on Aristotle's Analytica priora [Latin]</title>
-               <textLang mainLang="la"/>
-               <bibl type="edition">Pr. Venice 1499, 1516 / repr. Frankfurt, 1968; </bibl>
-               <bibl type="repertory">Lohr, pp. 111–12.</bibl>
-               <bibl type="repertory">Glorieux, <title>Arts</title> 411h.</bibl>
-               <bibl type="repertory">Sharpe, <title>Handlist</title>, p. 561.</bibl>
-               <note type="links">
-                  <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/title/notulae-libri-priorum-aristotelis-robertus-kilward-title/121488"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/113145663060505070366"><title>VIAF</title></ref></item>
-                  </list>
-               </note>
-               <term ref="#subject_philosophy"/>
-            </bibl>
+            <!-- work_7276 merged into work_7246 -->
             <bibl corresp="#work_675" xml:id="work_7277">
                <author key="person_100187638">Giles, of Rome, Archbishop of Bourges, approximately 1243–1316</author>
                <title type="uniform">Giles, of Rome, Archbishop of Bourges, approximately 1243–1316: Commentary on Aristotle's Sophistici elenchi [Latin]</title>
@@ -2492,7 +2477,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-in-sophisticos-elenchos-aegidius-roma-title/19480"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/1150746793816300486"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/1150746793816300486"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2509,7 +2494,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-in-libros-metaphysicorum-iohannes-duns-title/4182"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/185718131"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/185718131"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2523,7 +2508,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/author/iohannes-de-sicca-villa-fl-1245-1276-m-1295-ca--author/19178"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/312469497"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/312469497"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2624,7 +2609,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-super-libros-metaphysicae-petrus-de-al-title/4102"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/177268391"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/177268391"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2639,7 +2624,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-in-tertium-de-anima-sigerus-de-brabant-title/21374"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/4300149489156093810006"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/4300149489156093810006"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2707,7 +2692,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-longitudine-et-brevitate-vitae-aristoteles-title/16493"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/217030350"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/217030350"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2740,7 +2725,7 @@
                <note>A collection comprising Aristotle's (1) De sensu et sensato, (2) De memoria et reminiscentia, (3) De somno et uigilia, (4) De insomniis, (5) De diuinatione per somnum, (6) De longitudine et breuitate uitae, (7a) De iuventute et senectute, (7b) De uita et morte and (8) De respiratione</note>. <bibl>B. Bydén (2018) Introduction: The Study and Reception of Aristotle’s <title>Parva naturalia</title>. In: Bydén B., Radovic F. (eds) <title>The Parva naturalia in Greek, Arabic and Latin Aristotelianism. Studies in the History of Philosophy of Mind</title>, vol 17. Springer, Cham <ref target="https://doi.org/10.1007/978-3-319-26904-7_1">https://doi.org/10.1007/978-3-319-26904-7_1</ref></bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/176190632"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/176190632"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2755,7 +2740,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/expositio-in-libros-physicorum-guillelmus-de-ockha-title/6322"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/178638803"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178638803"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2787,7 +2772,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-in-viii-libros-physicorum-robertus-gr-title/10536"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/292938727"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/292938727"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2814,7 +2799,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/liber-pauperum-vacarius-magister-n-1120-ca-m-post--title/27897"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/208720940"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/208720940"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_law"/>
@@ -2843,7 +2828,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-super-librum-topicorum-boethius-de-dac-title/21966"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/2853153289931932770005"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/2853153289931932770005"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -2888,8 +2873,8 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/ovidius-moralisatus-petrus-berchorius-n-saec-xiii--title/223"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/316309286"><title>VIAF</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/827145857889423020112"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/316309286"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/827145857889423020112"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_classical_literature"/>
@@ -2903,7 +2888,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/genealogiae-deorum-gentilium-iohannes-boccaccius-n-title/851"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/199733971"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/199733971"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_literature"/>
@@ -3033,7 +3018,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/tractatus-et-quaestiones-in-averrois-librum-de-sub-title/197431"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/184144218"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/184144218"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_natural_history"/>
@@ -3049,7 +3034,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/expositio-in-octo-libros-physicorum-thomas-de-aqui-title/5105"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/271414300"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/271414300"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3081,7 +3066,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/expositio-libri-posteriorum-thomas-de-aquino-n-122-title/7747"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/185543135"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/185543135"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3114,7 +3099,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/summa-logicae-et-philosophiae-naturalis-iohannes-d-title/21438"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/182117308"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182117308"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3137,14 +3122,16 @@
             <bibl corresp="#work_642" xml:id="work_7246">
                <author key="person_100188011">Kilwardby, Robert, –1279</author>
                <title type="uniform">Kilwardby, Robert, –1279: Commentary on Aristotle's Analytica prior [Latin]</title>
-               <title type="variant"> Notulae libri Priorum Aristotelis</title>
+               <title type="variant">Notulae libri Priorum Aristotelis</title>
                <textLang mainLang="la"/>
-               <bibl type="edition">Pr. (as Giles of Rome) Venice 1499, 1516. </bibl>
+               <bibl type="edition">Pr. (as Giles of Rome) Venice 1499, 1516; repr. Frankfurt, 1968.</bibl>
                <bibl type="repertory">Lohr, pp. 111–12.</bibl>
+               <bibl type="repertory">Glorieux, <title>Arts</title> 411h.</bibl>
+               <bibl type="repertory">Sharpe, <title>Handlist</title>, p. 561.</bibl>
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/notulae-libri-priorum-aristotelis-robertus-kilward-title/121488"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/113145663060505070366"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/113145663060505070366"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3164,7 +3151,7 @@
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/in-aristotelis-meteorologica-commentaria-alexander-title/33207"><title>Mirabile</title></ref></item>
                      <item><ref target="http://www.mirabileweb.it/title/in-aristotelis-meteorologica-commentaria-guillelmu-title/33204"/>Mirabile</item>
-                     <item><ref target="http://viaf.org/viaf/216871418"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/216871418"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3212,7 +3199,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-magnum-in-de-anima-aristotelis-averro-title/5626"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/181377027"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/181377027"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3268,7 +3255,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-quattuor-coaequaevis-albertus-magnus-n-1200-ca--title/5261"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/7823150749025316420005"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/7823150749025316420005"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3282,7 +3269,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-theologicae-albertus-magnus-n-1200-ca--title/4157"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/206866693"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/206866693"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3297,7 +3284,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-homine-albertus-magnus-n-1200-ca-m-15-11-1280-title/5260"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/175554269"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/175554269"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3312,7 +3299,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-bono-albertus-magnus-n-1200-ca-m-15-11-1280-title/7059"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/174127135"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/174127135"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3335,7 +3322,7 @@
                         <item><ref target="http://www.mirabileweb.it/title/expositio-librorum-physicorum-galterius-burlaeus-n-title/10597"><title>Mirablie</title></ref></item>
                      </list>-->
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/175329585"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/175329585"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3351,7 +3338,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/physica-albertus-magnus-n-1200-ca-m-15-11-1280-title/3450"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/176944172"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/176944172"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3367,7 +3354,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-caelo-et-mundo-albertus-magnus-n-1200-ca-m-15-1-title/3451"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/305857295"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/305857295"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3383,7 +3370,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-natura-loci-albertus-magnus-n-1200-ca-m-15-11-1-title/7773"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/176643198"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/176643198"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3414,7 +3401,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-anima-albertus-magnus-n-1200-ca-m-15-11-1280-title/2700"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/184223186"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/184223186"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3430,7 +3417,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-memoria-et-reminiscentia-albertus-magnus-n-1200-title/2701"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/5476156762953741300002"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/5476156762953741300002"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3491,7 +3478,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/meteora-albertus-magnus-n-1200-ca-m-15-11-1280-title/3453"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/185027382"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/185027382"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3525,7 +3512,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-animalibus-albertus-magnus-n-1200-ca-m-15-11-12-title/4761"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/192606220"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/192606220"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3673,8 +3660,8 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-libri-politicorum-thomas-de-aquino-n-122-title/5699"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/185350171"><title>VIAF</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/316951048"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/185350171"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/316951048"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3689,7 +3676,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-in-aristotelis-librum-politicorum-pet-title/10609"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/175648413"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/175648413"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3705,7 +3692,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/expositio-in-libros-de-coelo-et-mundo-thomas-de-aq-title/5106"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/306110409"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/306110409"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3737,8 +3724,8 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/expositio-in-librum-primum-de-generatione-et-corru-title/10055"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/180195040"><title>VIAF</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/306134954"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/180195040"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/306134954"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3800,7 +3787,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-super-librum-de-motibus-animalium-petrus-title/19869"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/179287341"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/179287341"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3814,7 +3801,7 @@
                <bibl type="repertory">Glorieux, <title>Théol.</title> 210o; Lohr, p. 341.</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/179691523"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/179691523"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3829,7 +3816,7 @@
                <bibl type="repertory">Lohr, p. 341.</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/180496755"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/180496755"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3843,7 +3830,7 @@
                <bibl type="repertory">Lohr, pp. 341–2.</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/180092689"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/180092689"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3860,7 +3847,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-libri-de-sensu-et-sensato-thomas-de-aqui-title/8802"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/283147270447435700006"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/283147270447435700006"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3875,7 +3862,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-sensu-et-sensato-aristoteles-title/16487"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/181509368"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/181509368"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3892,7 +3879,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-libri-de-memoria-et-reminiscentia-thomas-title/8801"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/5097152139991411100007"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/5097152139991411100007"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3906,7 +3893,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-memoria-et-reminiscentia-aristoteles-title/16486"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/217030345"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/217030345"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3922,7 +3909,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sententia-libri-de-anima-thomas-de-aquino-n-1224-1-title/4165"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/292404971"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/292404971"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -3939,7 +3926,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quaestio-disputata-de-unione-verbi-incarnati-thoma-title/5152"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/10145910968427060021"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/10145910968427060021"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -4047,7 +4034,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/naturales-quaestiones-seneca-philosophus-title/16633"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/182223660"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182223660"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4065,7 +4052,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/scriptum-aureum-super-metaphysicam-aristotelis-ant-title/4187"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/180572136"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/180572136"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -4198,7 +4185,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-in-libros-elenchorum-iohannes-duns-sco-title/4041"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/3206156497247217740000"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/3206156497247217740000"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -4211,7 +4198,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-operationibus-occultis-naturae-thomas-de-aquino-title/120568"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/3310149489150593810002"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/3310149489150593810002"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_natural_history"/>
@@ -4226,7 +4213,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quomodo-substantiae-in-eo-quod-sint-bonae-sint-boe-title/5761"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/292884710"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/292884710"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -4316,7 +4303,7 @@
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/compendium-de-regimine-acutorum-bernardus-de-gordo-title/17545"><title>Mirabile</title></ref></item>
                      <item><ref target="http://www.mirabileweb.it/title/de-regimine-acutorum-morborum-bernardus-de-gordoni-title/17552"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/178890003"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178890003"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4385,7 +4372,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/aphorismi-de-gradibus-arnaldus-de-villanova-n-1240-title/32063"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/178078470"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178078470"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4445,7 +4432,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-considerationibus-operis-medicinae-arnaldus-de--title/19119"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/184949194"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/184949194"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4473,7 +4460,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/epistola-de-secretis-operibus-artis-et-naturae-et--title/1154"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/33151002093730280001"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/33151002093730280001"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -4533,7 +4520,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-cura-equorum-seu-de-hippiatria-iordanus-ruffus--title/1346"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/249805898"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/249805898"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4616,7 +4603,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/sermo-angelicus-birgitta-suecica-n-1303-ca-m-23-7--title/6536"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/310500395"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/310500395"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4629,7 +4616,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/quattuor-orationes-birgitta-suecica-n-1303-ca-m-23-title/23918"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/1063152140019511100005"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/1063152140019511100005"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4701,7 +4688,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-accidenti-et-morbo-galenus-title/20498"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/292484075"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/292484075"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4734,7 +4721,7 @@
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/liber-regiminis-vel-de-virtutibus-cibariorum-galen-title/20457"><title>Mirabile</title></ref></item>
                      <item><ref target="http://www.mirabileweb.it/title/liber-regiminis-vel-de-virtutibus-cibariorum-accur-title/599"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/204610039"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/204610039"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -4766,7 +4753,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/meteorologica-aristoteles-title/21300"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/186897812"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/186897812"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -5175,7 +5162,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-in-isaiam-haimo-autissiodorensis-mona-title/4261"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/313290980"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/313290980"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_bible"/>
@@ -5202,7 +5189,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-deo-socratis-apuleius-title/18045"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/300501051"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/300501051"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_classical_literature"/>
@@ -5335,7 +5322,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/in-lucam-homiliae-xxxix-origenes-alexandrinus-title/182872"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/181149841952102840955"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/181149841952102840955"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_sermons"/>
@@ -5364,7 +5351,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-septem-sigillis-ioachim-de-flore-n-1135-ca-m-30-title/4907"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/219201145"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/219201145"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -5426,7 +5413,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/postillae-super-baruch-guillelmus-de-lexovio-op-fl-title/15408"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/464145858094323022264"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/464145858094323022264"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_bible"/>
@@ -5492,7 +5479,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/libellus-retractationis-in-actus-apostolorum-beda--title/8553"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/292782434"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/292782434"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_bible"/>
@@ -5563,7 +5550,7 @@
                <bibl type="edition">Ed. G. Brugnoli &amp; F. Stok, <title>Vitae Vergilianae antiquae</title> (Rome, 1997).</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/193054810"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/193054810"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_classical_literature"/>
@@ -5578,7 +5565,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/summa-de-potestate-ecclesiastica-augustinus-de-anc-title/5625"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/180901980"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/180901980"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5594,7 +5581,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-potestate-papae-hervaeus-natalis-n-1250-1260-m--title/10952"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/231145858284023022706"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/231145858284023022706"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_politics_and_government"/>
@@ -5698,7 +5685,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-de-modis-distinctionis-sive-distinctio-title/130859"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/309526060"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/309526060"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -5733,7 +5720,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-sacramento-altaris-guillelmus-de-ockham-n-1285--title/8605"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/178613635"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178613635"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_liturgy"/>
@@ -5751,7 +5738,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-de-esse-et-essentia-aegidius-romanus-n-title/15728"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/310535743"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/310535743"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5880,7 +5867,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quodlibeta-i-xv-gaufridus-de-fontibus-canr-n-1250--title/6137"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/183336844"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/183336844"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5926,7 +5913,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quaestiones-xlv-disputatae-richardus-de-mediavilla-title/123646"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/299122140"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/299122140"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -5995,7 +5982,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/collationes-in-symbolum-apostolorum-thomas-de-aqui-title/3963"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/10145910978727060271"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/10145910978727060271"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6047,7 +6034,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/commentarium-in-quattuor-libros-sententiarum-rober-title/6261"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/201888692"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/201888692"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6079,7 +6066,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/summa-simon-tornacensis-n-1130-ca-m-1201-ca--title/19115"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/207951066"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/207951066"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6153,7 +6140,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-natura-relationis-robertus-kilwardby-n-1215-ca--title/195810"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/182518245"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182518245"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -6231,7 +6218,7 @@
                <bibl type="edition">Ed. P. O. Keicher, <title>BGPTM</title> 7 (1909), pp. 95–221</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://viaf.org/viaf/190460621"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/1481159474204827661451"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -6243,8 +6230,7 @@
                <note>unpr.</note>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/author/raymundus-lullus-n-1232-1233-m-1315-1316-author/19208"><title>Mirabile</title></ref></item>
-                     <item><ref target="https://viaf.org/viaf/120696927"><title>VIAF</title></ref></item>
+                     <item><ref target="https://www.mirabileweb.it/title/liber-de-lumine-raymundus-lullus-n-1232-1233-m-131-title/18120"><title>Mirabile</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_science"/>
@@ -6268,8 +6254,8 @@
                <bibl type="edition">Ed. I. Salzinger, <title>Beati Raymundi Lulli ... Opera</title> (Mainz, 1721–9), IV, pp. 1–26</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/author/raymundus-lullus-n-1232-1233-m-1315-1316-author/19208"><title>Mirabile</title></ref></item>
-                     <item><ref target="https://viaf.org/viaf/120696927"><title>VIAF</title></ref></item>
+                     <item><ref target="https://www.mirabileweb.it/title/disputatio-fidei-et-intellectus-raymundus-lullus-n-title/12086"><title>Mirabile</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/309856501"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -6309,8 +6295,8 @@
                <bibl type="repertory">Glorieux, <title>Théol.</title> 344h</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/author/iohannes-duns-scotus-n-1265-1266-ca-m-8-11-1308-author/19190"><title>Mirabile</title></ref></item>
-                     <item><ref target="https://viaf.org/viaf/120697851"><title>VIAF</title></ref></item>
+                     <item><ref target="https://www.mirabileweb.it/title/de-primo-principio-iohannes-duns-scotus-n-1265-126-title/4186"><title>Mirabile</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/185335649"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6323,8 +6309,8 @@
                <bibl type="repertory">Glorieux, <title>Théol.</title> 344u1</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/author/iohannes-duns-scotus-n-1265-1266-ca-m-8-11-1308-author/19190"><title>Mirabile</title></ref></item>
-                     <item><ref target="https://viaf.org/viaf/120697851"><title>VIAF</title></ref></item>
+                     <item><ref target="https://www.mirabileweb.it/title/collationes-parisienses-iohannes-duns-scotus-n-126-title/4046"><title>Mirabile</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/174846832"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6336,8 +6322,8 @@
                <bibl type="repertory">Glorieux, <title>Théol.</title> 344u2</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/author/iohannes-duns-scotus-n-1265-1266-ca-m-8-11-1308-author/19190"><title>Mirabile</title></ref></item>
-                     <item><ref target="https://viaf.org/viaf/120697851"><title>VIAF</title></ref></item>
+                     <item><ref target="https://www.mirabileweb.it/title/collationes-oxonienses-iohannes-duns-scotus-n-1265-title/4045"><title>Mirabile</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/9313149198352074940008"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6351,7 +6337,7 @@
                <bibl type="repertory">Sharpe, <title>Handlist</title>, pp. 510–11</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://www.mirabileweb.it/author/richardus-snettisham-m-1416-author/42140"><title>Mirabile</title></ref></item>
+                     <item><ref target="https://www.mirabileweb.it/title/abbreviatio-roberti-cowton-commentarius-super-lombard-sententias-latin/42140"><title>Mirabile</title></ref></item>
                      <item><ref target="https://viaf.org/viaf/12048501"><title>VIAF</title></ref></item>
                   </list>
                </note>
@@ -6495,7 +6481,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quodlibeta-vii-guillelmus-de-ockham-n-1285-1290-m--title/6307"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/183470422"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/183470422"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -6512,7 +6498,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/quodlibeta-henricus-de-gandavo-m-29-6-1293-title/4137"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/239727638"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/239727638"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6529,7 +6515,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/summa-quaestionum-ordinariarum-henricus-de-gandavo-title/5276"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/178303438"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/178303438"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -6545,7 +6531,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/de-eruditione-filiorum-nobilium-vincentius-bellova-title/4611"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/198061247"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/198061247"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_politics_and_government"/>
@@ -6565,7 +6551,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/liber-consolatorius-ad-ludovicum-regem-de-morte-fi-title/22101"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/182929991"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/182929991"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -6581,7 +6567,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/epistolae-petrus-blesensis-n-1135-ca-m-post-1212-title/2726"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/183021138"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/183021138"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_christian_literature"/>
@@ -6624,7 +6610,7 @@
                      <item><ref target="http://www.mirabileweb.it/title/opus-quaestionum-ac-determinationum-super-libros-s-title/6327"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/184144032"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/184144032"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -8781,7 +8767,7 @@
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="http://viaf.org/viaf/911160728517710380009">
+                        <ref target="https://viaf.org/viaf/911160728517710380009">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -10937,7 +10923,7 @@
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/categoriae-aristoteles-title/16476"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/186512058"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/186512058"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_philosophy"/>
@@ -20849,7 +20835,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="links">
                   <list type="links">
                      <item><ref target="http://www.mirabileweb.it/title/de-pollutione-nocturna-et-praeparatione-ad-missam--title/3907"><title>Mirabile</title></ref></item>
-                     <item><ref target="http://viaf.org/viaf/186644183"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/186644183"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <term ref="#subject_theology"/>
@@ -32699,6 +32685,26 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="la"/>
                <term ref="#subject_science"/>
                <bibl>Carmody, pp. 81-2</bibl>
+            </bibl>
+            <bibl xml:id="work_7525">
+               <author key="person_68939042">Wyclif, Johannes, 1324–1384</author>
+               <title type="uniform">Wyclif, Johannes, 1324–1384: De simonia [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl>ed. S. Herzberg-Fränkel and. M. H. Dziewicki, Wyclif Society, 1898</bibl>
+               <term ref="#subject_theology"/>
+            </bibl>
+            <bibl xml:id="work_7526">
+               <title type="uniform">Picatrix [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl>ed. D. Pingree, 1986</bibl>
+               <term ref="#subject_magic"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/picatrix-title/173044"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <!-- create entry for rental? -->
             <!-- MLH 
@@ -57161,7 +57167,7 @@ Medieval Papacy -->
                      <item><ref target="http://www.mirabileweb.it/title/belial-iacobus-de-theramo-n-1349-m-12-5-1417-title/714"><title>Mirabile</title></ref></item>
                   </list>
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/175667580"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/175667580"><title>VIAF</title></ref></item>
                   </list>
                </note>
                <note type="shelfmark">MS. Ashmole 754</note>
@@ -137623,7 +137629,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                         </ref>
                      </item>
                      <item>
-                        <ref target="http://viaf.org/viaf/1323145857122722922430">
+                        <ref target="https://viaf.org/viaf/1323145857122722922430">
                            <title>VIAF</title>
                         </ref>
                      </item>
@@ -139387,7 +139393,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <bibl type="edition">Ed. H. Diels and W. Kranz, <title>Die Fragmente der Vorsokratiker</title>, ed. 6 (Berlin, 1952 and subsequently reprinted), vol. II, pp. 405–16.</bibl>
                <note type="links">
                   <list type="links">
-                     <item><ref target="http://viaf.org/viaf/203307801"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/203307801"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -140223,7 +140229,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                </note>
             </bibl>
            
-           <!-- from All Souls, Sept 2025 -->
+           <!-- All Souls 5510-5558 -->
                <bibl corresp="#work_3484" xml:id="work_5511">
                <author key="person_54204136">Pelagius</author>
                <author key="person_7386286">Augustine, Saint, Bishop of Hippo, pseudo</author>
@@ -140313,7 +140319,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="http://viaf.org/viaf/174716794"><title>VIAF</title></ref>
+                        <ref target="https://viaf.org/viaf/174716794"><title>VIAF</title></ref>
                      </item>
                   </list>
                </note>
@@ -140349,7 +140355,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/en/viaf/180081784"><title>VIAF</title></ref>
+                        <ref target="https://viaf.org/viaf/180081784"><title>VIAF</title></ref>
                      </item>
                   </list>
                </note>
@@ -140473,7 +140479,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/en/viaf/180478984"><title>VIAF</title></ref>
+                        <ref target="https://viaf.org/viaf/180478984"><title>VIAF</title></ref>
                      </item>
                   </list>
                </note>
@@ -140487,7 +140493,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/en/viaf/208242510"><title>VIAF</title></ref>
+                        <ref target="https://viaf.org/viaf/208242510"><title>VIAF</title></ref>
                      </item>
                   </list>
                </note>
@@ -140502,7 +140508,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://viaf.org/en/viaf/176876388"><title>VIAF</title></ref>
+                        <ref target="https://viaf.org/viaf/176876388"><title>VIAF</title></ref>
                      </item>
                   </list>
                </note>
@@ -140516,7 +140522,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_grammar"></term>
                <note type="links">
                   <list type="links">
-                     <item><ref target="https://viaf.org/en/viaf/186102457"><title>VIAF</title></ref></item>
+                     <item><ref target="https://viaf.org/viaf/186102457"><title>VIAF</title></ref></item>
                   </list>
                </note>
             </bibl>
@@ -140531,7 +140537,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="http://viaf.org/viaf/182111437"><title>VIAF</title></ref>
+                        <ref target="https://viaf.org/viaf/182111437"><title>VIAF</title></ref>
                      </item>
                   </list>
                </note>
@@ -140644,9 +140650,10 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
               <textLang mainLang="la"/>
               <term ref="#subject_documents"/>
            </bibl>
-           <!-- mlh -->
-           
-           <!-- added from pinakes -->
+           <!-- ANJD: 6856-6899 -->
+           <!-- PT: 6900-6999 -->
+           <!-- MLH: 7485- -->
+           <!-- Pinakes: 8000- -->
            <bibl xml:id="work_8002">
       <author key="person_54284156">Albinus (Alcinous)</author>
       <title type="uniform">Albinus (Alcinous): Introductio in Platonem [Greek]</title>
