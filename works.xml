@@ -127,6 +127,29 @@
    <text>
       <body>
          <listBibl type="authors">
+            <bibl xml:id="work_6856">
+               <author key="person_71420958">Neckam, Alexander, 1157–1217</author>
+               <title type="uniform" source="Wikidata">Neckam, Alexander, 1157–1217: Tractatus super parabolas Salomonis [Latin]</title>
+               <title type="variant" source="Wikidata" xml:lang="en">Treatise on the parables of Solomon</title>
+               <textLang mainLang="la"/>
+               <incipit source="Wikidata" xml:lang="la">Meditatio humana nunc in ipsum hominem reflectitur</incipit>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=1164">
+                           <title>Repertorium Biblicum Medii Aevi</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q138546734">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <term ref="#subject_bible"/>
+               <term ref="#subject_theology"/>
+            </bibl>
             <bibl xml:id="work_7631">
                <author key="person_47555113">Walahfrid Strabo, 807?–849</author>
                <title type="uniform">Walahfrid Strabo, 807?–849: Homilia in initium evangelii s. Matthaei [Latin]</title>
@@ -10726,7 +10749,7 @@
             <bibl xml:id="work_6446">
                <author key="person_108159964">Plato</author>
                <author key="person_95283478" role="translator">Bruni, Leonardo, 1369–1444</author>
-               <title type="uniform">Plato: Apology (tr. Leonardo Bruni) [Greek]</title>
+               <title type="uniform">Plato: Apology (tr. Leonardo Bruni) [Latin]</title>
                <title type="variant">apologia socratis</title>
                <textLang mainLang="la"/>
                <note type="links">
@@ -20911,7 +20934,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             <bibl xml:id="work_2197">
                <!--original: Innocent IV-->
                <author key="person_100162520">Innocent, IV, Pope, approximately 1200–1254</author>
-               <title type="uniform">Innocent, IV, Pope, approximately 1200–1254: In 5 libros decretalium [Latin]</title>
+               <title type="uniform">Innocent, IV, Pope, approximately 1200–1254: Apparatus in quique libros Decretalium [Latin]</title>
                <title type="normalised_ms">in 5 libros decretalium</title>
                <title type="normalised_ms">commentary on decretals</title>
                <title type="normalised_ms">apparatus on the decretals</title>
@@ -20920,8 +20943,17 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="shelfmark">MS. Lat. misc. a. 3</note>
                <textLang mainLang="la"/>
                <term ref="#subject_law"/>
+               <bibl>pr. Strassburg 1478 (Goff I95), &amp;c.</bibl>
+               <bibl>Schulte, 2. 91–4.</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/apparatus-in-quinque-libros-decretalium-innocentiu-title/2623"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
-            <bibl xml:id="work_2198">
+               <bibl xml:id="work_2198">
                <!--original: Innocent IV-->
                <author key="person_16017787">Innocent, III, Pope, 1160 or 1161–1216</author>
                <author key="person_100162520">Innocent, IV, Pope, approximately 1200–1254</author>
@@ -22291,6 +22323,13 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Canon. Misc. 419</note>
                <term ref="#subject_law"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/practica-aurea-iohannes-petrus-de-ferrariis-n-1364-title/19545"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_687">
                <!--original: Arnold of Villanova-->
@@ -32706,6 +32745,32 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                   </list>
                </note>
             </bibl>
+            <bibl xml:id="work_7527">
+               <title type="uniform">Almagesti minor [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://ptolemaeus.badw.de/work/5">Ptolomaeus Arabus et Latinus C.1.4</ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            <bibl xml:id="work_7528">
+               <author key="person_31816106">Ptolemy, pseudo</author>
+               <title type="uniform">Ptolemy, pseudo: Iudicia [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_classical_literature"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://ptolemaeus.badw.de/work/63"><title>Ptolemaeus Arabus et Latinus (Work B 3)</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl> 
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -77984,6 +78049,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_classical_literature"/>
                <!--<note type="subject">letters</note>-->
             </bibl>
+               
          </listBibl>
          <listBibl type="anonymous">
             <!-- astronomical / astrological -->

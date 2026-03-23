@@ -116423,13 +116423,13 @@
             <!-- 1033 -->
             <person xml:id="person_100189252">
                <!-- record originally created from https://viaf.org/viaf/100189252/viaf.xml at 2017-05-09 10:48:44.284586 -->
-               <persName source="BNF" subtype="unknownOrder" type="display">Ferrari, Giovanni Pietro</persName>
+               <persName source="BNF" subtype="unknownOrder" type="display">Ferrari, Giovanni Pietro, 1364-1421</persName>
                <persName source="BNF" subtype="unknownOrder" type="variant">Ferrariis, Joannes Petrus de</persName>
                <persName source="BNF" subtype="unknownOrder" type="variant">Ferrariis, Johannes Petrus de</persName>
                <persName source="BNF" subtype="unknownOrder" type="variant">Ferrarius, Johannes Pietrus</persName>
                <persName source="BNF" subtype="unknownOrder" type="variant">Ferrari, Giampietro</persName>
-               <birth source="VIAF" when="1450">1450</birth>
-               <death source="VIAF" when="1416">1416</death>
+               <birth source="mirabile" when="1364">1364</birth>
+               <death source="mirabile" when="1421">1421</death>
                <note type="links">
                   <list type="links">
                      <item>
@@ -116442,6 +116442,9 @@
                            <title>VIAF</title>
                         </ref>
                      </item>
+                           <item>
+                              <ref target="https://www.mirabileweb.it/title/practica-aurea-iohannes-petrus-de-ferrariis-n-1364-title/19545"><title>Mirabile</title></ref>
+                           </item>
                      <!--No match found in ISNI for VIAF ID 100189252 on 2021-05-20-->
                   </list>
                </note>
@@ -225857,10 +225860,39 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                </note>
             </person>
             <person xml:id="person_4803">
-               <persName type="display" source="bodl">Carne, Edward, -1561</persName>
-               <death when="1561"/>
+               <persName source="Wikidata" subtype="surnameFirst" type="display">Carne, Sir Edward, 1496?–1561</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Sir Edward Carne</persName>
+               <persName source="Wikidata" type="variant" xml:lang="cy">Edward Carne</persName>
+               <persName source="Wikidata" type="variant" xml:lang="cy">Syr Edward Carne</persName>
+               <birth cert="medium" source="Wikidata" when="1496"/>
+               <death source="Wikidata" when="1561-01-19"/>
+               <sex source="Wikidata">male</sex>
+               <education><orgName key="org_142129514" source="Wikidata">Oxford University</orgName></education>
+               <nationality key="place_7002445" source="Wikidata">England</nationality>
+               <occupation source="Wikidata" xml:lang="en">politician</occupation>
+               <occupation source="Wikidata" xml:lang="en">diplomat</occupation>
                <note type="links">
                   <list type="links">
+                     <item>
+                        <ref target="https://biography.wales/article/s-CARN-EDW-1500">
+                           <title>Dictionary of Welsh Biography</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.historyofparliamentonline.org/volume/1509-1558%2Fmember%2Fcarne-sir-edward-149596-1561">
+                           <title>History of Parliament</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.oxforddnb.com/view/article/4712">
+                           <title>Oxford Dictionary of National Biography</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://prabook.com/web/person-view.html?profileId=1893778">
+                           <title>Prabook</title>
+                        </ref>
+                     </item>
                      <item>
                         <ref target="https://www.wikidata.org/entity/Q7526531">
                            <title>Wikidata</title>
@@ -225873,11 +225905,27 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName type="display" source="bodl">Carne, James, 17th century</persName>
             </person>
             <person xml:id="person_4805">
-               <persName type="display" source="bodl">Price, Gregory, 1535–1600</persName>
-               <birth when="1535-08-06"/>
-               <death when="1600-03-19"/>
+               <persName source="Wikidata" subtype="surnameFirst" type="display">Price, Gregory, 1535–1600</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Gregory Price</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ru">Грегори Прайса</persName>
+               <persName source="Wikidata" type="variant" xml:lang="bn">গ্রেগরি প্রাইস</persName>
+               <birth source="Wikidata" when="1535-08-06"/>
+               <death source="Wikidata" when="1600-03-19"/>
+               <sex source="Wikidata">male</sex>
+               <nationality key="place_7002445" source="Wikidata">England</nationality>
+               <occupation source="Wikidata" xml:lang="en">politician</occupation>
                <note type="links">
                   <list type="links">
+                     <item>
+                        <ref target="http://www.historyofparliamentonline.org/volume/1509-1558%2Fmember%2Fprice-gregory-1535-1600">
+                           <title>History of Parliament</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.historyofparliamentonline.org/volume/1558-1603%2Fmember%2Fprice-gregory-1535-1600">
+                           <title>History of Parliament</title>
+                        </ref>
+                     </item>
                      <item>
                         <ref target="https://www.wikidata.org/entity/Q24239036">
                            <title>Wikidata</title>
@@ -225951,9 +225999,80 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName type="display" source="bodl">Edward Etterick, fellow of New College, matriculated 1714</persName>
             </person>
             <person xml:id="person_4815">
-               <persName type="display" source="bodl">Andrew Cook, –1633</persName>
+               <persName source="Wikidata" subtype="surnameFirst" type="display">Cook, Andrew, –1633</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Andrew Cook</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Andrew Cooke</persName>
+               <death source="Wikidata" when="1633"/>
+               <sex source="Wikidata">male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q117352696">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </person>
-            
+            <person xml:id="person_4816">
+               <persName source="Wikidata" subtype="surnameFirst" type="display">Brito, Geoffrey, fl. 1210s–1240s</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Geoffrey Brito</persName>
+               <persName source="Wikidata" type="variant" xml:lang="la">Galfridus Britonus</persName>
+               <floruit cert="low" from="1210" to="1249"/>
+               <sex source="Wikidata">male</sex>
+               <affiliation type="religiousOrder"><orgName key="org_124074257" source="Wikidata">Canons Regular of Saint Augustine</orgName></affiliation>
+               <affiliation type="workPlace"><orgName key="org_211447911" source="Wikidata">Cirencester, Gloucestershire, Augustinian abbey of St Mary the Virgin</orgName></affiliation>
+               <education><orgName key="org_125441856" source="Wikidata">Dunstable, Bedfordshire, Augustinian priory of St Peter</orgName></education>
+               <nationality key="place_7002445" source="Wikidata">England</nationality>
+               <occupation source="Wikidata" xml:lang="en">writer</occupation>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://arlima.net/no/6328">
+                           <title>ARLIMA</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.mirabileweb.it/author/-/255331">
+                           <title>Mirabile</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q123182967">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_4817">
+               <persName source="Wikidata" type="display">Walter of Mileto, fl. 1170s–1210s</persName>
+               <persName source="Wikidata" type="variant" xml:lang="la">Walter de Melida</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Walter of Melida</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Walter of Melide</persName>
+               <floruit cert="low" from="1170" to="1219"/>
+               <sex source="Wikidata">male</sex>
+               <affiliation type="religiousOrder"><orgName key="org_124074257" source="Wikidata">Canons Regular of Saint Augustine</orgName></affiliation>
+               <affiliation type="workPlace"><orgName key="org_211447911" source="Wikidata">Cirencester, Gloucestershire, Augustinian abbey of St Mary the Virgin</orgName></affiliation>
+               <nationality key="place_7002445" source="Wikidata">England</nationality>
+               <nationality key="place_7594681" source="Wikidata">Kingdom of Sicily</nationality>
+               <occupation source="Wikidata" xml:lang="en">scribe</occupation>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.oxforddnb.com/view/article/111226">
+                           <title>Oxford Dictionary of National Biography</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q60800793">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+
             <!-- MLH 4850 - -->
             <person xml:id="person_4850">
                <persName type="display" source="bodl">Morice, Philipe, 16th century</persName>
@@ -228043,6 +228162,16 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <residence>
                   <country>England</country>
                </residence><!-- there is said to be an obituary in Gentleman's Magazine -->
+            </person>
+            <person xml:id="person_5153">
+               <persName source="bodl" type="display">Lloyd, Hugh, vicar of Mold, 1688-1749</persName>
+               <death when="1749"/>
+               <birth when="1688"/>
+               <sex>male</sex>
+               <residence>
+                  <country>Wales</country>
+               </residence>
+               <bibl>Rosa Baker, 'The Family of Richard Wilson, R.A. and its Welsh Connections', <title><ref target="https://journals.library.wales/view/1218518/1219892">Flintshire Historical Society Journal</ref></title> 35 (1999), 85-113 at 88-89</bibl>
             </person>
          </listPerson>
       </body>
