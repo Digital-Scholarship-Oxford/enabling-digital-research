@@ -1719,7 +1719,7 @@
                <author key="person_22933358">Jacobus, de Clusa, 1381?–1465</author>
                <title type="uniform">Jacobus, de Clusa, 1381?–1465: Liber Quaestionum de diversis materiis [Latin]</title>
                <textLang mainLang="la"/>
-               <note>Includes works that have been edited individually: <title>De esu carnium</title> (inc. <hi rend="italic">Quoniam scimus</hi>), <title>De temptatione et consolacione religiosorum</title> (inc. <hi rend="italic">Cum igitur mentis nostre intencio</hi>); <title>De indulgentiis</title> (inc. <hi rend="italic">Circa questionem tredecimam</hi>)</note>
+               <note>Includes works that have been edited individually: <title>De esu carnium</title> (inc. <q>Quoniam scimus</q>), <title>De temptatione et consolacione religiosorum</title> (inc. <q>Cum igitur mentis nostre intencio</q>); <title>De indulgentiis</title> (inc. <hi rend="italic">Circa questionem tredecimam</hi>)</note>
                <!--CHK                <bibl type="edition">C. W. F. Walch, <title>Monimenta medii aevi theologica</title>, 2/2, (Gottingae 1764), pp. 163–270. (Reprint: Ridgewood, N.J 1966), pp. 423–450.</bibl>
                   <bibl>D. Mertens, <title>Iacobus Carthusiensis: Untersuchungen zur Rezeption der Werke des Kartäusers Jakob von Paradies: (1381–1465)</title>. Veröffentlichungen des Max-Planck-Instituts für Geschichte. Studien zur Germania sacra 13 (Göttingen 1976) p. 31. </bibl>
 <!-\-chk!-\->              <bibl>L. Meier, <title>Die Werke des Erfurter Kartäusers Jakob von Jüterbog</title>. Beiträge zur Geschichte der Philologische und Theologische des Mittelalters 37/5. (Münster 1955) p. 14. </bibl>-->
@@ -6079,7 +6079,7 @@
                <author key="person_281658741">Simon, of Tournai, active 12th century</author>
                <title type="uniform">Simon, of Tournai, active 12th century: Summa (Institutiones in sacram paginam) [Latin]</title>
                <textLang mainLang="la"/>
-               <bibl type="edition">Extracts ed. M. Schmaus, <title>RTAM</title>4 (1932), 59–72, 187–98, 294–307, M.-T. d’Alverny, <title>Alain de Lille. Textes inédits</title> (Paris, 1965), pp. 305–12, W. Knoch, <title>Die Einsetzung der Sakramente durch Christus. Eine Untersuchung zur Sakramententheologie der Frühscholastik von Anselm von Laon bis zu Wilhelm von Auxerre</title> (<title>BGPTM</title>, Neue Folge, 24: Münster, 1983), pp. 298–303; R. Heinzmann, <title>Die ‘Institutiones in Sacram Paginam’ des Simon von Tournai: Einleitung und Quaestionenverzeichnis</title> (Munich, 1967), gives a complete list of <hi rend="italic">quaestiones</hi>; the prol. ed. C. Marmo in <title>CIMA</title> 67 (1997), 93–103.</bibl>
+               <bibl type="edition">Extracts ed. M. Schmaus, <title>RTAM</title>4 (1932), 59–72, 187–98, 294–307, M.-T. d’Alverny, <title>Alain de Lille. Textes inédits</title> (Paris, 1965), pp. 305–12, W. Knoch, <title>Die Einsetzung der Sakramente durch Christus. Eine Untersuchung zur Sakramententheologie der Frühscholastik von Anselm von Laon bis zu Wilhelm von Auxerre</title> (<title>BGPTM</title>, Neue Folge, 24: Münster, 1983), pp. 298–303; R. Heinzmann, <title>Die ‘Institutiones in Sacram Paginam’ des Simon von Tournai: Einleitung und Quaestionenverzeichnis</title> (Munich, 1967), gives a complete list of <foreign>quaestiones</foreign>; the prol. ed. C. Marmo in <title>CIMA</title> 67 (1997), 93–103.</bibl>
                <bibl type="repertory">Glorieux, <title>Théol.</title> 101a; 1768.</bibl>
                <bibl type="repertory"><ref target="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=1768">Stegmüller, <title>Bibl.</title> 1768</ref></bibl>
                <bibl type="repertory">Stegmüller, <title>Sent.</title> 818</bibl>
@@ -32576,7 +32576,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             </bibl>
             <bibl xml:id="work_7489">
                <author key="person_90633023">Abraham ibn Ezra, 1092–1167</author>
-               <title type="uniform">Abraham ibn Ezra, 1092–1167: Tsbulae Pisanae [Latin]</title>
+               <title type="uniform">Abraham ibn Ezra, 1092–1167: Tabulae Pisanae [Latin]</title>
                <title type="normalised_ms">astronomical tables for Pisa</title>
                <textLang mainLang="la"/>
                <term ref="#subject_science"/>
@@ -48415,6 +48415,10 @@ stitutes 22 (1959) 167 ff; -->
                <note type="shelfmark">MS. Rawl. C. 61</note>
                <note type="shelfmark">MS. e Mus. 177</note>
                <term ref="#subject_theology"/>
+               <bibl>pr. [Cologne c. 1470] (GW 4055)</bibl><bibl>ed. C.W.Marx in Jnl Med. Latin
+                  4 (1994) 118–29</bibl><bibl> H. Barré in Revue d’ascétique et de mystique 28 (1952) 245–66. </bibl><note>The
+                  text is a widely circulating extract from Oglerio of Locedio’s <title>De laudibus sanctae
+                  Dei genitricis</title> (ed. J. B. Adriani (Turin 1893)).</note>
             </bibl>
             <bibl xml:id="work_3941">
                <!--original: Ps.-Bernard-->
@@ -52497,12 +52501,31 @@ Medieval Papacy -->
             <bibl xml:id="work_5038">
                <!--original: William de Montibus-->
                <author key="person_4136834">William, de Montibus, approximately 1140–1213</author>
-               <title type="uniform">William, de Montibus, approximately 1140–1213: De errorum eliminatione [Latin]</title>
-               <title type="normalised_ms">de errorum eliminatione</title>
+               <title source="Wikidata" type="uniform">William, de Montibus, approximately 1140–1213: Errorum eliminatio [Latin]</title>
+               <title source="Wikidata" type="variant" xml:lang="la">De errorum eliminatione</title>
+               <title source="Wikidata" type="variant" xml:lang="en">The elimination of errors</title>
                <textLang mainLang="la"/>
-               <note type="shelfmark">MS. Laud Misc. 345</note>
-               <term ref="#subject_theology"/>
-               <term ref="#subject_conduct"/>
+               <incipit source="Wikidata" xml:lang="la">Ad eliminandum quorundam errores de hiis que in ecclesia leguntur et cantantur</incipit>
+               <term ref="#subject_liturgy"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/-/190475">
+                           <title>Mirabile</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=detail&amp;idx=16267&amp;tlnr=2999%2C3">
+                           <title>Repertorium Biblicum Medii Aevi</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q138779966">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_5039">
                <!--original: William de Montibus-->
@@ -56207,16 +56230,50 @@ Medieval Papacy -->
                <textLang mainLang="la"/>
                <term ref="#subject_classical_literature"/>
             </bibl>
-            <bibl xml:id="work_3435">
-               <!--original: Palladius-->
+            <bibl corresp="#work_3434" xml:id="work_3435">
                <author key="person_54143112">Palladius, Rutilius Taurus Aemilianus, 4th cent.</author>
-               <title type="uniform">Palladius, Rutilius Taurus Aemilianus, 4th cent.: De re rustica [Middle English]</title>
-               <title type="normalised_ms">de re rustica</title>
+               <title source="Wikidata" type="uniform">Palladius, Rutilius Taurus Aemilianus, 4th cent.: Opus agriculturae [Middle English]</title>
+               <title type="variant" xml:lang="enm">On husbondrie</title>
+               <title type="variant" xml:lang="la">De precepis rei rustice</title>
+               <title type="variant" xml:lang="la">De re rustica</title>
+               <title type="variant" xml:lang="la">De agricultura</title>
+               <note>Translation of <title key="work_3434">Opus agriculturae</title>.</note>
                <textLang mainLang="enm"/>
-               <title type="normalised_ms">de agricultura</title>
-               <note type="shelfmark">MS. Add. A. 369</note>
-               <note type="shelfmark">MS. Duke Humfrey d. 2</note>
                <term ref="#subject_classical_literature"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://arlima.net/no/7109">
+                           <title>ARLIMA</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.dimev.net/record.php?recID=1071">
+                           <title>Digital Index of Middle English Verse</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n87891797">
+                           <title>Library of Congress</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.dimev.net/Results.php?nimev=654">
+                           <title>New Index of Middle English Verse</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/175845272">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q117264202">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_3436">
                <!--original: Palladius-->
@@ -76067,12 +76124,26 @@ Medieval Papacy -->
             </bibl>
             <bibl xml:id="work_1085">
                <!--original: Bethem-->
-               <author key="person_97655156">Albategni, 858–929</author>
-               <title type="uniform">Albategni, 858–929: Centiloquium [Latin]</title>
+               <author key="person_5154">Bethem, fl. ?</author>
+               <title type="uniform">Bethem, fl. ?: Centiloquium (tr.) [Latin]</title>
                <title type="normalised_ms">centiloquium</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Ashmole 357</note>
                <term ref="#subject_science"/>
+               <note>"Apparently identical with the <title>De
+                  consuetudinibus</title> of Abraham ibn Ezra (ca. 1090-1167) and often occurs in
+                  manuscripts together with other astrological texts of Abraham ibn Ezra translated
+                  from a French version by Peter of Abano (1257-ca. 1315)" (David Juste)</note>
+               <bibl> L. Thorndike, ‘The Latin Translations of the Astrological Tracts of
+                  Abraham Avenezra’, Isis, 35, 1944, pp. 293-302 (p. 299)</bibl>
+               <bibl>Carmody, pp. 74-75</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/centiloquium-bethen-title/175334"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_316">
                <!--original: Albategni-->
@@ -78049,7 +78120,6 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <term ref="#subject_classical_literature"/>
                <!--<note type="subject">letters</note>-->
             </bibl>
-               
          </listBibl>
          <listBibl type="anonymous">
             <!-- astronomical / astrological -->
@@ -140707,7 +140777,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
               <title type="uniform">O intemerata [Latin]</title>
               <textLang mainLang="la" />
               <term ref="#subject_christian_literature" />
-              <bibl><ref target="https://archive.org/details/auteursspirituel0000wilm/page/474">A. Wilmart, <title>'La Prière <hi rend="italic">O intemerata</hi>'</title>, <title>Auteurs spirituels et textes devots du moyen age latin</title> (Paris, 1932), pp. 474-504.</ref></bibl>
+              <bibl><ref target="https://archive.org/details/auteursspirituel0000wilm/page/474">A. Wilmart, <title>'La Prière <foreign>O intemerata</foreign>'</title>, <title>Auteurs spirituels et textes devots du moyen age latin</title> (Paris, 1932), pp. 474-504.</ref></bibl>
            </bibl>
            
            <bibl xml:id="work_5552">

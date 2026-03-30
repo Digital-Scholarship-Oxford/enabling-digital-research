@@ -202055,6 +202055,155 @@
                <persName type="display" source="viaf">Hesso Argentinensis (twelfth century)</persName>
                <floruit notAfter="1200"/>
             </person>
+            <person xml:id="person_100899421">
+               <persName source="Wikidata" type="display">Gaius Valerius Flaccus, 0045?–0095?</persName>
+               <persName source="Wikidata" type="variant" xml:lang="pt">Caio Valério Flaco</persName>
+               <persName source="Wikidata" type="variant" xml:lang="sk">Valerius Flaccus</persName>
+               <persName source="Wikidata" type="variant" xml:lang="pl">Waleriusz Flakkus</persName>
+               <persName source="Wikidata" type="variant" xml:lang="eu">Gaio Valerio Flako</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ext">Valériu Fracu</persName>
+               <persName source="Wikidata" type="variant" xml:lang="fr">Caius Valerius Flaccus</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ru">Гай Валерий Флакк</persName>
+               <persName source="Wikidata" type="variant" xml:lang="hy">Վալերիուս Փլակկուս</persName>
+               <persName source="Wikidata" type="variant" xml:lang="es">Valerio Flaco</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ca">Gai Valeri Flac</persName>
+               <persName source="Wikidata" type="variant" xml:lang="uk">Гай Валерій Флакк</persName>
+               <persName source="Wikidata" type="variant" xml:lang="it">Gaio Valerio Flacco</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ja">ガイウス・ウァレリウス・フラックス</persName>
+               <persName source="Wikidata" type="variant" xml:lang="fa">گایوس والریوس فلاکوس</persName>
+               <persName source="Wikidata" type="variant" xml:lang="bg">Гай Валерий Флак</persName>
+               <persName source="Wikidata" type="variant" xml:lang="sh">Gaj Valerije Flak</persName>
+               <persName source="Wikidata" type="variant" xml:lang="zh">瓦莱里乌斯·弗拉库斯</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ast">Cayu Valeriu Flacu</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ko">가이우스 발레리우스 플라쿠스</persName>
+               <persName source="Wikidata" type="variant" xml:lang="eo">Gajo Valerio Flako</persName>
+               <persName source="Wikidata" type="variant" xml:lang="he">גאיוס ולריוס פלאקוס</persName>
+               <persName source="Wikidata" type="variant" xml:lang="fur">Valeri Flac</persName>
+               <persName source="Wikidata" type="variant" xml:lang="arz">جايوس فاليريوس فلاكوس</persName>
+               <persName source="Wikidata" type="variant" xml:lang="el">Βαλέριος Φλάκκος</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ka">ვალერიუს ფლაკუსი</persName>
+               <persName source="Wikidata" type="variant" xml:lang="az">Qay Valeri Flakk (şair)</persName>
+               <persName source="Wikidata" type="variant" xml:lang="pl">Waleriusz Flaccus</persName>
+               <birth cert="medium" source="Wikidata" when="0045"/>
+               <death cert="medium" source="Wikidata" when="0095"/>
+               <sex source="Wikidata">male</sex>
+               <nationality key="place_7594740" source="Wikidata">Ancient Rome</nationality>
+               <occupation source="Wikidata" xml:lang="en">poet</occupation>
+               <occupation source="Wikidata" xml:lang="en">writer</occupation>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://catalogue.bnf.fr/ark:/12148/cb12043060v">
+                           <title>Bibliothèque nationale de France</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.deutsche-biographie.de/118625950.html">
+                           <title>Deutsche Biographie (GND)</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://d-nb.info/gnd/118625950">
+                           <title>Deutsche Nationalbibliothek</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://id.worldcat.org/fast/1855410">
+                           <title>FAST</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000120967401">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n84216357">
+                           <title>Library of Congress</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.idref.fr/028635175">
+                           <title>SUDOC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.treccani.it/enciclopedia/valerio-flacco">
+                           <title>Treccani</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/100899421">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/624144647701557890926">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q316090">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_103093678">
+               <persName source="Wikidata" subtype="surnameFirst" type="display">Price, John, 1735–1813</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">John Price</persName>
+               <persName source="Wikidata" type="variant" xml:lang="ja">ジョン・プライス (司書)</persName>
+               <persName source="Wikidata" type="variant" xml:lang="sq">A. John Price</persName>
+               <persName source="Wikidata" type="variant" xml:lang="bn">জন প্রাইস</persName>
+               <birth source="Wikidata" when="1735"/>
+               <death source="Wikidata" when="1813-08-12"/>
+               <sex source="Wikidata">male</sex>
+               <education><orgName key="org_122611272" source="Wikidata">Oxford, Jesus College</orgName></education>
+               <nationality key="place_7008591" source="Wikidata">United Kingdom</nationality>
+               <nationality key="place_2634895" source="Wikidata">Wales</nationality>
+               <occupation source="Wikidata" xml:lang="en">librarian</occupation>
+               <occupation source="Wikidata" xml:lang="en">Anglican priest</occupation>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://biography.wales/article/s-PRIC-JOH-1734">
+                           <title>Dictionary of Welsh Biography</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000072876627">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2009191224">
+                           <title>Library of Congress</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://openlibrary.org/works/OL5723918A?mode=all">
+                           <title>Open Library</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.oxforddnb.com/view/article/22757">
+                           <title>Oxford Dictionary of National Biography</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/103093678">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q6253407">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
             <person xml:id="person_248969186">
                <persName type="display" source="sjc">Garnerius ‘Gregorianus’ of St Victor, -1170</persName>
                <death when="1170"/>
@@ -225889,11 +226038,6 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                         </ref>
                      </item>
                      <item>
-                        <ref target="https://prabook.com/web/person-view.html?profileId=1893778">
-                           <title>Prabook</title>
-                        </ref>
-                     </item>
-                     <item>
                         <ref target="https://www.wikidata.org/entity/Q7526531">
                            <title>Wikidata</title>
                         </ref>
@@ -226072,6 +226216,36 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   </list>
                </note>
             </person>
+            <person xml:id="person_4818">
+               <persName source="Wikidata" subtype="surnameFirst" type="display">Ekins, Frederick, 1766–1842</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Frederick Ekins</persName>
+               <persName source="Wikidata" type="variant" xml:lang="en">Reverend Frederick Ekins</persName>
+               <birth source="Wikidata" when="1766-12-25"/>
+               <death source="Wikidata" when="1842-03-29"/>
+               <sex source="Wikidata">male</sex>
+               <education><orgName key="org_130118418" source="Wikidata">Oxford, New College</orgName></education>
+               <nationality key="place_7008591" source="Wikidata">United Kingdom</nationality>
+               <occupation source="Wikidata" xml:lang="en">rector</occupation>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.wikidata.org/entity/Q96807055">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_4819">
+               <persName type="display" source="bodl">Campion, Lucas, 16th century</persName>
+               <floruit notBefore="1500" notAfter="1600"/>
+               <sex>male</sex>
+            </person>
+            <person xml:id="person_4820">
+               <persName type="display" source="bodl">Bennett, Mr, 18th century</persName>
+               <floruit notBefore="1700" notAfter="1800"/>
+               <sex>male</sex>
+            </person>
 
             <!-- MLH 4850 - -->
             <person xml:id="person_4850">
@@ -226093,7 +226267,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <sex>male</sex>
             </person>
             <person xml:id="person_4853">
-               <persName source="bodl" type="display">Bery, William 16th century</persName>
+               <persName source="bodl" type="display">Bery, William, 16th century</persName>
                <persName source="bodl" type="variant">Wyllyam Bery</persName>
                <floruit notBefore="1500" notAfter="1600"/>
                <sex>male</sex>
@@ -228173,6 +228347,59 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                </residence>
                <bibl>Rosa Baker, 'The Family of Richard Wilson, R.A. and its Welsh Connections', <title><ref target="https://journals.library.wales/view/1218518/1219892">Flintshire Historical Society Journal</ref></title> 35 (1999), 85-113 at 88-89</bibl>
             </person>
+            <person xml:id="person_5154">
+               <persName source="bodl" type="display">Bethem, fl. ?</persName>
+               <persName source="bodl" type="variant">Bethen, fl. ?</persName>
+               <bibl>Carmody, pp. 74-5</bibl>
+            </person>
+            <person xml:id="person_5155">
+               <persName source="bodl" type="display">Wormesley, Roger, 15th century</persName>
+               <floruit notAfter="1500" notBefore="1400"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5156">
+               <persName source="bodl" type="display">S..., Roger, 16th century</persName>
+               <floruit notAfter="1600" notBefore="1500"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5157">
+               <persName source="bodl" type="display">Blumston, Robert, priest, 15th century</persName>
+               <floruit notAfter="1500" notBefore="1400"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5158">
+               <persName source="bodl" type="display">Depyng, Johannes de, 14th century</persName>
+               <floruit notAfter="1400" notBefore="1300"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5159">
+               <persName source="bodl" type="display">Cook, mr John, of Tickhill, 16th century</persName>
+               <persName source="bodl" type="variant">Johannis Cook de Tekhyll</persName>
+               <floruit notAfter="1600" notBefore="1500"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            
+            
+            <!-- 
+             <provenance> A nearly erased inscription on fol. 120 reads 'D ... ... ... de s . . ber ... y . . de seynt Martyn deschaumps' (15th cent.), possibly 'Donum ... Seber presbyteri' of st. Martin in the Fields, London.</provenance><provenance>'Thys bok belongyth to <persName role="fmo">Robert Blumston prest</persName>' (15th cent.). </provenance><provenance>The name of '<persName role="sgn"></persName>' occurs on fol. 119v in reversed writing, 14th (?) cent.</provenance><provenance> 'Ex donacione <persName role="fmo">magistri Johannis Cook de Tekhyll</persName>' 16th cent., cf. 'Johannis Cooke' fol. 2v.
+                  </provenance>
+            -->
+            
          </listPerson>
       </body>
    </text>
