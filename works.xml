@@ -32766,7 +32766,21 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <note type="links">
                   <list type="links">
                      <item>
-                        <ref target="https://ptolemaeus.badw.de/work/63"><title>Ptolemaeus Arabus et Latinus (Work B 3)</title></ref>
+                        <ref target="https://ptolemaeus.badw.de/work/63"><title>Ptolemaeus Arabus et Latinus (Work B 3)</title></ref>                        
+                     </item>
+                  </list>
+               </note>
+            </bibl> 
+            <bibl xml:id="work_7529">
+               <author key="person_250563750">Gossuin de Metz, active 1245</author>
+               <title type="uniform">Gossuin de Metz, active 1245: L'image du monde [Old French]</title>
+               <textLang mainLang="fro"/>
+               <term ref="#subject_natural_history"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://jonas.irht.cnrs.fr/oeuvre/3739"><title>JONAS</title></ref>
                      </item>
                   </list>
                </note>

@@ -1471,6 +1471,10 @@
             
             
             <!-- new -->
+            <person xml:id="person_250563750">
+               <persName source="bodl" type="display">Gossuin de Metz, active 1245</persName>
+               <persName source="LC" type="variant">Gautier, of Metz, active 1245</persName>
+            </person>
             <person xml:id="person_33095778">
                <persName source="bodl" type="display">De Marinis, Tammaro, 1878-1969</persName>
             </person>
@@ -228393,12 +228397,43 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   <country>England</country>
                </residence>
             </person>
+            <person xml:id="person_5160">
+               <persName source="bodl" type="display">Wycham, John, 15th century</persName>
+               <floruit notAfter="1500" notBefore="1400"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5161">
+               <persName source="bodl" type="display">Bisshop, William, 17th century</persName>
+               <persName source="bodl" type="variant">Bishop, William, 17th century</persName>
+               <floruit notAfter="1700" notBefore="1600"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5162">
+               <persName source="bodl" type="display">Bisshop, Barnabas, 17th century</persName>
+               <persName source="bodl" type="variant">Bishop, Barnabas, 17th century</persName>
+               <floruit notAfter="1700" notBefore="1600"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5163">
+               <persName source="bodl" type="display">Allen, George, minor canon of Hereford, -1616</persName>
+               <death when="1616"></death>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+               <bibl>F. Havergal, <title>Fasti Herefordenses</title> (1869), p. 96</bibl>
+               <bibl>CCED 168607</bibl>
+            </person>
             
-            
-            <!-- 
-             <provenance> A nearly erased inscription on fol. 120 reads 'D ... ... ... de s . . ber ... y . . de seynt Martyn deschaumps' (15th cent.), possibly 'Donum ... Seber presbyteri' of st. Martin in the Fields, London.</provenance><provenance>'Thys bok belongyth to <persName role="fmo">Robert Blumston prest</persName>' (15th cent.). </provenance><provenance>The name of '<persName role="sgn"></persName>' occurs on fol. 119v in reversed writing, 14th (?) cent.</provenance><provenance> 'Ex donacione <persName role="fmo">magistri Johannis Cook de Tekhyll</persName>' 16th cent., cf. 'Johannis Cooke' fol. 2v.
-                  </provenance>
-            -->
             
          </listPerson>
       </body>
