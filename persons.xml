@@ -1471,6 +1471,16 @@
             
             
             <!-- new -->
+           
+            <person xml:id="person_88669043">
+               <persName source="LC" type="display">Clinton, Edward Fiennes de, Earl of Lincoln, 1512-1585</persName>
+            </person>
+            <person xml:id="person_309730095">
+               <persName source="LC" type="display">Ibn-al-Muthannâ Ibn-ʿAbd-al-Karîm, Aḥmad </persName>
+            </person>
+            <person xml:id="person_39582006">
+               <persName source="LC" type="display">Bonatti, Guido, active 13th century</persName>
+            </person>
             <person xml:id="person_250563750">
                <persName source="bodl" type="display">Gossuin de Metz, active 1245</persName>
                <persName source="LC" type="variant">Gautier, of Metz, active 1245</persName>
@@ -221651,7 +221661,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName source="bodl" type="display">Stanley, Thomas, of Gray's Inn, 16th century</persName>
                <sex>male</sex>
                <floruit notBefore="1500" notAfter="1600"/>
-               <note>Persons of this name were admitted in 1537 and 1552 (<title>The register of admissions to Gray's inn, 1521-1889</title> (1889), 12, 23).</note>
+               <note>Persons of this name were admitted in 1537 and 1552 (<title>The register of admissions to Gray's inn, 1521-1889</title> (1889), 12, 23). Cf. J. Baker, <title>The Men of Court</title>, Selden Soc. SS 19 (2012), II. 1450.</note>
             </person>
             <person xml:id="person_3914">
                <persName source="bodl" type="display">Edgson, Willam, 17th century</persName>
@@ -228433,7 +228443,70 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <bibl>F. Havergal, <title>Fasti Herefordenses</title> (1869), p. 96</bibl>
                <bibl>CCED 168607</bibl>
             </person>
+            <person xml:id="person_5164">
+               <persName source="bodl" type="display">Ganton, James, 15th century</persName>
+               <persName source="bodl" type="variant">Ganton, Jacobus, 15th century</persName>
+               <floruit notAfter="1500" notBefore="1400"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
             
+            <person xml:id="person_5165">
+               <persName source="bodl" type="display">Saunders, Patrick, ?1582-1638</persName>
+               <death when="1638"/>
+               <birth when="1582"></birth>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+               <bibl><title>John Dee’s Library Catalogue</title>, ed. R. J. Roberts, and Andrew G. Watson (Bibliographical Society, 1990), pp. 61-63</bibl>
+            </person>
+            
+            <person xml:id="person_5166">
+               <persName source="bodl" type="display">Hareward, William, registrar of the Court of Admiralty, fl. 1579-1613</persName>
+               <floruit notBefore="1579" notAfter="1613"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5167">
+               <persName source="bodl" type="display">Grantham, Thomas, fl. c. 1400</persName>
+               <floruit notBefore="1390" notAfter="1410"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            
+            <person xml:id="person_5168">
+               <persName source="bodl" type="display">Lostman, Richard, priest, 15th century</persName>
+               <floruit notBefore="1400" notAfter="1500"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5169">
+               <persName source="bodl" type="display">Langley, H.</persName>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            
+            <person xml:id="person_5170">
+               <persName source="bodl" type="display">Yernemuth, Robert de, monk of Norwick, fl. 1411-1460</persName>
+               <persName source="bodl" type="variant">Jernemuth, Robert de, monk of Norwick, fl. 1411-1460</persName>
+               <floruit notAfter="1460" notBefore="1411"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+               <bibl>Greatrex, <title>Biographical Register</title>, p. 528 (Robert II)</bibl>
+            </person>
             
          </listPerson>
       </body>

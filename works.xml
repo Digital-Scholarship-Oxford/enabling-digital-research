@@ -32785,6 +32785,60 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                   </list>
                </note>
             </bibl> 
+            <bibl xml:id="work_7530">
+               <author key="person_39582006">Bonatti, Guido, active 13th century</author>
+               <title type="uniform">Bonatti, Guido, active 13th century: Liber introductorius siue Decem tractatus astronomiae [Latin]</title>
+               <bibl>pr. Augsburg 1491 (GW 4643), &amp;c.</bibl><bibl>Carmody,
+                  172</bibl>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/tractatus-de-astronomia-guido-bonattus-n-1210-1220-title/15180"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl> 
+            <bibl xml:id="work_7531">
+               <author key="person_19170254" role="translator">Hugo, of Santalla</author>
+               <author key="person_309730095">Ibn-al-Muthannâ Ibn-ʿAbd-al-Karîm, Aḥmad</author>
+               <title type="uniform">Ibn-al-Muthannâ Ibn-ʿAbd-al-Karîm, Aḥmad :   Commentary on tables of Alcoarismi (tr. Hugo of Santalla) [Latin]</title>
+               
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+              <!-- not in mirabile -->
+            </bibl> 
+            <bibl xml:id="work_7532">
+               <author key="person_37256856">Māshāʼallāh, 730?–815?</author>
+               <author key="person_19170254" role="translator">Hugo, of Santalla</author>
+               <title type="uniform">Māshāʼallāh, 730?–815?: De natiuitatibus 14 distinctis capitulis (tr. Hugo of Santalla) [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/messehale-de-nativitatibus-14-distinctis-capitulis-title/212340"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            <bibl xml:id="work_7533">
+               <title type="uniform">Liber nouem iudicum 'Caelestis circuli' [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <bibl>Carmody pp. 103-105.</bibl>
+               <!-- this version is not in Mirabile -->
+            </bibl>
+            <bibl xml:id="work_7534">
+               <author key="person_5167">Grantham, Thomas, fl. c. 1400</author>
+               <title type="uniform">Grantham, Thomas, fl. c. 1400: Regula de omnibus historiis inchoandis [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_liturgy"/>
+               <bibl>Sharpe, <title>Latin Writers</title>, s.n., but for Thomas's dates as vicar at the chapel of St Stephen, Westminster, see Elizabeth Biggs, 'The College and Canons of St Stephen's, Westminster, 1348-1548'. PhD thesis, University of York (2016), vol. II</bibl>
+            </bibl>
+            
+            
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
