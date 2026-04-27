@@ -917,6 +917,8 @@
                </note>
             </person>
             
+            
+            
             <!-- from All Souls, Sept. 2025 -->
              <person xml:id="person_19852471">
                <persName source="LC" type="display">Bernold, of Constance, approximately 1054-1100</persName>
@@ -228506,6 +228508,14 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   <country>England</country>
                </residence>
                <bibl>Greatrex, <title>Biographical Register</title>, p. 528 (Robert II)</bibl>
+            </person>
+            <person xml:id="person_5171">
+               <persName source="bodl" type="display">Bridge, Andrew, 16th century</persName>
+               <floruit notAfter="1600" notBefore="1500"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
             </person>
             
          </listPerson>

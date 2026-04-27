@@ -106314,12 +106314,14 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
         </bibl>-->
             <bibl xml:id="work_12784">
                <title type="ms">Liber alguorismorum</title>
-               <title type="uniform">Liber alguorismorum [Latin]</title>
+               <title type="uniform">Liber algorismi [Latin]</title>
                <title type="normalised">liber alguorismorum [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Selden Supra 26</note>
                <term ref="#subject_science"/>
+               <bibl>Le calcul Indien (Algorismus), ed. A. Allard (1992), edits the Liber algorismi proper ('book 1'); the appendix of material which follows it in all manuscripts ('book 2') is edited by Charles Burnett, Ji-Wei Zhao, Kurt Lampe, 'The Toledan Regule (Liber Alchorismi, part II): A Twelfth-century Arithmetical
+                  Miscellany', SCIAIMVS 8 (2007), pp. 141-231 </bibl>
                <!--<note type="subject">mathematica</note>-->
             </bibl>
             <bibl xml:id="work_12785">
@@ -129760,7 +129762,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
             </bibl>
             <bibl xml:id="work_14991">
                <title type="ms">Treatise on composition of astronomical tables</title>
-               <title type="uniform">Treatise on composition of astronomical tables [Latin]</title>
+               <title type="uniform">Treatise on astronomical tables [Latin]</title>
                <title type="normalised">text(s) on composition of astronomical tables [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
