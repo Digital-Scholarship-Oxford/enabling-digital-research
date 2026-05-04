@@ -32839,6 +32839,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             </bibl>
             
             
+            
             <!-- create entry for rental? -->
             <!-- MLH 
             nb     all souls:    org_375 through org_399
@@ -79902,9 +79903,7 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <!--<note type="subject">versus</note>-->
             </bibl>
             <bibl xml:id="work_10175">
-               <title type="ms">Almanac and runic calendar</title>
-               <title type="uniform">Almanac and runic calendar [Latin]</title>
-               <title type="normalised">almanac and runic calendar [Latin]</title>
+               <title type="uniform">Almanac [Latin]</title>
                <note type="language">Latin</note>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Douce 71</note>
@@ -97666,10 +97665,11 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
                <!--<note type="subject">mariologica</note>-->
             </bibl>
             <bibl xml:id="work_11832">
-               <title type="ms">Flores Augustini</title>
-               <title type="uniform">Flores Augustini [Latin]</title>
-               <title type="normalised">flores augustini [Latin]</title>
-               <note type="language">Latin</note>
+               <title type="uniform">Liber florigerus siue Flores sancti Augustini [Latin]</title>
+               <title type="variant">Flores Augustini [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_christian_literature"/>
+               <bibl>T. Falmagne, ‘Le Liber Florigerus : Recherches sur l’attribution d’un florilège augustinien du XIIIe siècle (avant 1260)’, <title>Revue d’Etudes Augustiniennes et Patristiques</title>, 45.1 (1999), pp. 139–81</bibl>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Bodl. 122</note>
                <note type="shelfmark">MS. Douce 107</note>
