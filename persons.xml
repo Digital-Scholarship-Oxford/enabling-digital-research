@@ -1474,6 +1474,9 @@
             
             <!-- new -->
            
+            <person xml:id="person_90497487">
+               <persName source="LC" type="display">Dale, Valentine, approximately 1520-1589</persName>
+            </person>
             <person xml:id="person_88669043">
                <persName source="LC" type="display">Clinton, Edward Fiennes de, Earl of Lincoln, 1512-1585</persName>
             </person>

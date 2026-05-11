@@ -32837,6 +32837,32 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <term ref="#subject_liturgy"/>
                <bibl>Sharpe, <title>Latin Writers</title>, s.n., but for Thomas's dates as vicar at the chapel of St Stephen, Westminster, see Elizabeth Biggs, 'The College and Canons of St Stephen's, Westminster, 1348-1548'. PhD thesis, University of York (2016), vol. II</bibl>
             </bibl>
+            <bibl xml:id="work_7535">
+               <title type="uniform">Tabulae Toletanae [Latin]</title>
+               <title type="variant">Toledan tables [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <bibl>ed. F. S. Pedersen, <title>The Toledan Tables</title> (Copenhagen 2002)</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/tabulae-toletanae-title/172812"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+            <bibl xml:id="work_7536">
+               <title type="uniform">Liber de motibus planetarum [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <bibl>C. Philipp E. Nothaft, ‘Ptolemaic Orbs in Twelfth-Century England: A Study and Edition of the Anonymous Liber de Motibus Planetarum’, <title>Mediterranea. International Journal on the Transfer of Knowledge</title>, 31 March 2018, pp. 145–210, doi:10.21071/mijtk.v0i3.10774 </bibl> <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/liber-de-motibus-planetarum-title/217742"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
             
             
             
@@ -35071,12 +35097,24 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             <bibl xml:id="work_205">
                <!--original: 'Thetel'-->
                <author key="person_2017">Thetel, fl. ?</author>
-               <title type="uniform">Thetel, fl. ?: De lapidibus [Latin]</title>
+               <title type="uniform">Thetel, fl. ?: Liber sigillorum siue De lapidibus [Latin]</title>
                <title type="normalised_ms">de lapidibus</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Digby 193</note>
                <note type="shelfmark">MS. Digby 79</note>
                <term ref="#subject_science"/>
+               <bibl> <title>Thomas Cantimpratensis Liber de natura rerum. Editio princeps secundum codices manuscriptos</title>, ed. Helmut Boese,
+                  vol. 1 (Berlin – New York, 1973), pp. 370–74</bibl>
+               <bibl>Joan Evans, <title>Magical Jewels of the Middle Ages
+                  and the Renaissance, Particularly in England</title> (Oxford, 1922), pp. 235–46</bibl>
+               <bibl>Ockenström, Lauri, and Vajra Regan, ‘The Hermetic Origins of the Liber Sigillorum of Techel’, <title>The Journal of Medieval Latin</title>, 33.1 (2023), pp. 173–266, doi:10.1484/J.JML.5.133617</bibl>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/liber-sigillorum-zael-fl-saec-ix-ante-med--title/192371"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
             </bibl>
             <bibl xml:id="work_510">
                <!--original: Andreas Capellanus-->
