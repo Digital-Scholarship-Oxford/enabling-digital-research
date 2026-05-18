@@ -228520,6 +228520,25 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   <country>England</country>
                </residence>
             </person>
+            <person xml:id="person_5172">
+               <persName source="bodl" type="display">Frere, Thomas, fl. c. 1600</persName>
+               <persName source="bodl" type="variant">Freer, Thomas, fl. c. 1600</persName>
+               <persName source="bodl" type="variant">Frerus, Thomas, fl. c. 1600</persName>
+               <floruit notAfter="1625" notBefore="1575"></floruit>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5173">
+               <persName source="bodl" type="display">Bale, Robert, -1475</persName>
+               <death when="1475"/>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>, <settlement>London</settlement>
+               </residence>
+               <bibl>Anne. F. Sutton, 'Robert Bale, Scrivener and Chronicler of London', <title>English Manuscript Studies</title> 14 (2008), 180-206</bibl>
+            </person>
             
          </listPerson>
       </body>
