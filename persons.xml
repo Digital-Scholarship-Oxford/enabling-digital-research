@@ -228539,6 +228539,12 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                </residence>
                <bibl>Anne. F. Sutton, 'Robert Bale, Scrivener and Chronicler of London', <title>English Manuscript Studies</title> 14 (2008), 180-206</bibl>
             </person>
+            <person xml:id="person_5174">
+               <persName source="bodl" type="display">Cattaneo, Paolo, OSB, censor, 1550–1620</persName>
+               <death when="1620"/>
+               <sex>male</sex>
+               <bibl><ref target="https://www.jstor.org/stable/community.34136488?seq=1">John Hopkins Library - Women of the Book Collection</ref></bibl>
+            </person>
             
          </listPerson>
       </body>

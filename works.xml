@@ -32863,6 +32863,20 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                   </list>
                </note>
             </bibl>
+            <bibl xml:id="work_7537">
+               <author key="person_294784551">Seneca, the Younger, pseudo</author>
+               <title type="uniform">Seneca, the Younger, pseudo: De uerborum copia [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_literature"/>
+               <bibl>ed. J. Fohlen, <title>Mediaeval Studies</title> 42 (1980) 192—205</bibl> 
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/de-verborum-copia-seneca-philosophus-pseudo-title/200581"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
             
             
             
