@@ -1474,6 +1474,9 @@
             
             <!-- new -->
            
+            <person xml:id="person_102326132">
+               <persName source="LC" type="display">De la Mare, Albinia C. (Albinia Catherine), 1932-2001</persName>
+            </person>
             <person xml:id="person_90497487">
                <persName source="LC" type="display">Dale, Valentine, approximately 1520-1589</persName>
             </person>

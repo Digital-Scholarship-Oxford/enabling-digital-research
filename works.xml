@@ -65101,13 +65101,17 @@ Medieval Papacy -->
             </bibl>
             <bibl xml:id="work_2048">
                <!--original: Hilarius Aurelianensis (?)-->
-               <author key="person_76372713">Hilarius, Aurelianensis, approximately 1075–1140?</author>
-               <title type="uniform">Hilarius, Aurelianensis, approximately 1075–1140?: Expositio hymnorum [Latin]</title>
-               <title type="normalised_ms">expositio hymnorum</title>
+               <!--<author key="person_76372713">Hilarius, Aurelianensis, approximately 1075–1140?</author>-->
+               <title type="uniform">Expositio hymnorum Hilarii siue Aurea expositio hymnorum [Latin]</title>
+               <title type="normalised_ms">hymnarium glosatum</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Laud Misc. 384</note>
                <note type="shelfmark">MS. Laud Misc. 40</note>
                <term ref="#subject_liturgy"/>
+               <bibl>Helmut Gneuss,  <title>Hymnar und Hymnen im englischen Mittelalter</title> (1968), ch. 9 'Die Expositio Hymnorum'</bibl>
+               <bibl>Hunt, <title>Teaching Latin</title>, 1. 38–42</bibl>
+               <note>The identity of 'Hilarius' is unknown; sometimes identified Hilary of Angers (alias Hilary of Orleans, Hilarius Aurelianensis). </note>
+              <!-- there is no good entry in mirabile -->
             </bibl>
             <bibl xml:id="work_4788">
                <!--original: Thomas Bradwardine-->
