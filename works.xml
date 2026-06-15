@@ -30569,8 +30569,8 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
             </bibl>
             <bibl xml:id="work_4649">
                <!--original: Symeon Seth-->
-               <author key="person_162962022">Simeo Sethus</author>
-               <title type="uniform">Simeo Sethus: Stephanites et ichnelates [Greek]</title>
+               <author key="person_162962022">Symeon Seth, 11th century</author>
+               <title type="uniform">Symeon Seth, 11th century: Stephanites et Ichnelates [Greek]</title>
                <title type="normalised_ms">stephanites et ichnelates</title>
                <textLang mainLang="grc"/>
                <note type="shelfmark">MS. Laud Gr. 8</note>
@@ -32877,7 +32877,73 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                   </list>
                </note>
             </bibl>
-            
+            <bibl xml:id="work_7538">
+               <title type="uniform">Historia sancti Neminis [Latin]</title>
+               <title type="variant">Sermo de sancto Nemine [Latin]</title>
+               <title type="variant">Nemo [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_literature"/>
+                  <note type="list"><list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/sermo-de-sancto-nemine-title/210928"><title>Mirabile</title></ref>
+                     </item>
+                  </list></note>
+            </bibl>
+            <bibl xml:id="work_7539">
+               <author key="person_5178">Stephanus Magnes, fl. ?</author>
+               <title type="uniform">Stephanus Magnes, fl. ?: Empirica [Greek]</title>
+               <textLang mainLang="grc"/>
+               <term ref="#subject_medicine"/>
+                  <note type="list"><list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/oeuvre/id/4712"><title>Pinakes</title></ref>
+                     </item>
+                  </list></note>
+            </bibl>
+            <bibl xml:id="work_7540">
+               <author key="person_84812936">Paul of Aegina, 7th century</author>
+               <title type="uniform">Paul of Aegina, 7th century: Epitome medica [Greek]</title>
+               <textLang mainLang="grc"/>
+               <term ref="#subject_medicine"/>
+                  <note type="list"><list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/oeuvre/id/6215"><title>Pinakes</title></ref>
+                     </item>
+                  </list></note>
+            </bibl>
+            <bibl xml:id="work_7541">
+               <author key="person_162962022">Symeon Seth, 11th century</author>
+               <title type="uniform">Symeon Seth, 11th century: Antirrheticum contra Galenum [Greek]</title>
+               <textLang mainLang="grc"/>
+               <term ref="#subject_medicine"/>
+               <note type="list"><list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/oeuvre/id/17025"><title>Pinakes</title></ref>
+                     </item>
+               </list></note>
+            </bibl>
+            <bibl xml:id="work_7542">
+               <author key="person_162962022">Symeon Seth, 11th century</author>
+               <title type="uniform">Symeon Seth, 11th century: Syntagma de alimentorum facultatibus [Greek]</title>
+               <textLang mainLang="grc"/>
+               <term ref="#subject_medicine"/>
+               <note type="list"><list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/oeuvre/id/12757"><title>Pinakes</title></ref>
+                     </item>
+               </list></note>
+            </bibl>
+            <bibl xml:id="work_7543">
+               <author key="person_162962022">Symeon Seth, 11th century</author>
+               <title type="uniform">Symeon Seth, 11th century: De uita sana [Greek]</title>
+               <textLang mainLang="grc"/>
+               <term ref="#subject_medicine"/>
+               <note type="list"><list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/oeuvre/id/4266"><title>Pinakes</title></ref>
+                     </item>
+               </list></note>
+            </bibl>
             
             
             <!-- create entry for rental? -->
@@ -143122,12 +143188,13 @@ Mittelalterliche und frühneuzeitliche deutsche Übersetzungen  -->
    </bibl>
    <bibl xml:id="work_8182">
       <author key="person_160788177">Iulius Africanus, Sextus, 160–240</author>
-      <title type="uniform">Iulius Africanus, Sextus, 160–240: Ars belli (Cesti VII) [Greek]</title>
+      <title type="uniform">Iulius Africanus, Sextus, 160–240: Cesti [Greek]</title>
+      <title type="variant">Iulius Africanus, Sextus, 160–240: Cestes [Greek]</title>
       <textLang mainLang="grc"/>
       <note type="links">
          <list type="links">
             <item>
-               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/735">
+               <ref target="https://pinakes.irht.cnrs.fr/notices/oeuvre/id/1250">
                   <title>Pinakes</title>
                </ref>
             </item>

@@ -1474,6 +1474,18 @@
             
             <!-- new -->
            
+            <person xml:id="person_59866611">
+               <persName source="bodl" type="display">Burton, William, 1575-1645</persName>
+            </person>
+            <person xml:id="person_84812936">
+               <persName source="bodl" type="display">Paul of Aegina, 7th century</persName>
+            </person>
+            <person xml:id="person_5283998">
+               <persName source="LC" type="display">Boniface IV, Pope, -615</persName>
+            </person>
+            <person xml:id="person_316407516">
+               <persName source="LC" type="display">Innocent II, Pope, -1143</persName>
+            </person>
             <person xml:id="person_102326132">
                <persName source="LC" type="display">De la Mare, Albinia C. (Albinia Catherine), 1932-2001</persName>
             </person>
@@ -115997,7 +116009,7 @@
             <!-- 1023 -->
             <person xml:id="person_162962022">
                <!-- record originally created from https://viaf.org/viaf/162962022/viaf.xml at 2017-05-09 10:48:16.936383 -->
-               <persName source="LC" subtype="forenameFirst" type="display">Simeo Sethus</persName>
+               <persName source="LC" subtype="forenameFirst" type="display">Symeon Seth, 11th century</persName>
                <persName source="DNB" subtype="surnameFirst" type="variant">Seth, Simeon, ca. 11. Jh., 2. Hälfte</persName>
                <persName source="DNB" subtype="surnameFirst" type="variant">Seth, Symeon, ca. 11. Jh., 2. Hälfte</persName>
                <persName source="DNB" subtype="surnameFirst" type="variant">Sethus, Simeon, ca. 11. Jh., 2. Hälfte</persName>
@@ -228546,9 +228558,95 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName source="bodl" type="display">Cattaneo, Paolo, OSB, censor, 1550–1620</persName>
                <death when="1620"/>
                <sex>male</sex>
+               <residence>
+                  <country>Italy</country>
+               </residence>
                <bibl><ref target="https://www.jstor.org/stable/community.34136488?seq=1">John Hopkins Library - Women of the Book Collection</ref></bibl>
             </person>
-            
+            <person xml:id="person_5175">
+               <persName source="bodl" type="display">Nicolaus de Spaleto, 16th century</persName>
+               <floruit notAfter="1600" notBefore="1500"/>
+               <sex>male</sex>
+               <residence>
+                  <country>Croatia</country>
+               </residence>
+            </person>
+            <person xml:id="person_5176">
+               <persName source="pinakes" type="display">Geōrgios Kalophrenas, 15th century</persName>
+               <persName source="pinakes" type="variant">Giorgio Calofrena, 15th century</persName>
+               <persName source="pinakes" type="variant">Γεώργιος Καλοφρενᾶς, 15th century</persName>
+               <floruit notAfter="1500" notBefore="1400"/>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/copistepossesseur/id/1001"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            <person xml:id="person_5177">
+               <persName source="bodl" type="display">Scandoler, Giovanni, fl. 1471</persName>
+               <floruit when="1471"/>
+               <sex>male</sex>
+               <residence>
+                  <country>Italy</country>
+               </residence>
+            </person>
+            <person xml:id="person_5178">
+               <persName source="bodl" type="display">Stephanus Magnes, fl. ?</persName>
+               <sex>male</sex>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://pinakes.irht.cnrs.fr/notices/auteur/id/2570"><title>Pinakes</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </person><!-- 
+              Scribe i, Scribe, v, Scribe vii, Scribe x
+
+  Part of Webber's 'Group I’ scribes at Salisbury who were active at the time of Osmund (Bishop of Salisbury, 1078-1099)
+
+  Theresa Webber, Scribes and Scholars at Salisbury Cathedral c.1075- c.1125 (Oxford: Clarendon, 1992)
+
+            -->
+            <person xml:id="person_5179">
+               <persName source="bodl" type="display">Salisbury Cathedral, scribe i</persName>
+               <note>Part of Webber's 'Group I’ scribes at Salisbury who were active at the time of Osmund (Bishop of Salisbury, 1078-1099): 
+                  Theresa Webber, <time>Scribes and Scholars at Salisbury Cathedral c.1075- c.1125</time> (Oxford: Clarendon, 1992)</note>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5180">
+               <persName source="bodl" type="display">Salisbury Cathedral, scribe v</persName>
+               <note>Part of Webber's 'Group I’ scribes at Salisbury who were active at the time of Osmund (Bishop of Salisbury, 1078-1099): 
+                  Theresa Webber, <time>Scribes and Scholars at Salisbury Cathedral c.1075- c.1125</time> (Oxford: Clarendon, 1992)</note>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5181">
+               <persName source="bodl" type="display">Salisbury Cathedral, scribe vii</persName>
+               <note>Part of Webber's 'Group I’ scribes at Salisbury who were active at the time of Osmund (Bishop of Salisbury, 1078-1099): 
+                  Theresa Webber, <time>Scribes and Scholars at Salisbury Cathedral c.1075- c.1125</time> (Oxford: Clarendon, 1992)</note>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
+            <person xml:id="person_5182">
+               <persName source="bodl" type="display">Salisbury Cathedral, scribe x</persName>
+               <note>Part of Webber's 'Group I’ scribes at Salisbury who were active at the time of Osmund (Bishop of Salisbury, 1078-1099): 
+                  Theresa Webber, <time>Scribes and Scholars at Salisbury Cathedral c.1075- c.1125</time> (Oxford: Clarendon, 1992)</note>
+               <sex>male</sex>
+               <residence>
+                  <country>England</country>
+               </residence>
+            </person>
          </listPerson>
       </body>
    </text>
