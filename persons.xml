@@ -1474,6 +1474,15 @@
             
             <!-- new -->
            
+            <person xml:id="person_12491221">
+               <persName source="LC" type="display">Dunstable, John, approximately 1390-1453</persName>
+            </person>
+            <person xml:id="person_79169248">
+               <persName source="LC" type="display">Power, Leonel, -1445</persName>
+            </person>
+            <person xml:id="person_30686318">
+               <persName source="LC" type="display">Plummer, John, -approximately 1484</persName>
+            </person>
             <person xml:id="person_59866611">
                <persName source="bodl" type="display">Burton, William, 1575-1645</persName>
             </person>
@@ -100686,6 +100695,8 @@
                <persName source="DNB" subtype="forenameFirst" type="variant">Michaēl, ho Apostolios, 1420–1478</persName>
                <persName source="DNB" subtype="forenameFirst" type="variant">Michel, l'Apostole, Schriftsteller, Kopist, Gelehrter, 1420–1478</persName>
                <persName source="DNB" subtype="forenameFirst" type="variant">Michel, l'Apostole, 1420–1478</persName>
+               <persName source="pinakes" subtype="forenameFirst" type="variant">Michael Apostolis</persName><persName source="pinakes" subtype="forenameFirst" type="variant">Μιχαὴλ Ἀποστολίδης</persName><persName source="pinakes" subtype="forenameFirst" type="variant">
+                  Μιχαὴλ Ἀποστόλης</persName>
                <birth source="VIAF" when="1422">1422</birth>
                <death source="VIAF" when="1480">1480-07-18</death>
                <note type="links">
@@ -100726,6 +100737,7 @@
                         </ref>
                      </item>
                      <item><ref target="https://pinakes.irht.cnrs.fr/notices/auteur/id/303"><title>Pinakes</title></ref></item>
+                     <item><ref target="http://pinakes.irht.cnrs.fr/notices/copistepossesseur/id/1641"><title>Pinakes</title></ref></item>
                   </list>
                </note>
             </person>
