@@ -20493,7 +20493,7 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <!--original: Aristotle-->
                <author key="person_7524651">Aristotle</author>
                <author key="person_2471391" role="translator">William, of Moerbeke, approximately 1215–1286</author>
-               <title type="uniform">Aristotle: Metaphysics (tr. William of Moerbeke) [Latin]</title>
+               <title type="uniform">Aristotle: Metaphysics (Metaphysica nouae translationis) (tr. William of Moerbeke) [Latin]</title>
                <title type="normalised_ms">metaphysics</title>
                <title type="normalised_ms">metaphysica</title>
                <textLang mainLang="la"/>
@@ -32943,6 +32943,27 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                         <ref target="http://pinakes.irht.cnrs.fr/notices/oeuvre/id/4266"><title>Pinakes</title></ref>
                      </item>
                </list></note>
+            </bibl>
+            
+            <bibl xml:id="work_7544">
+               <title type="uniform">Récits d’un ménestrel de Reims [Old French]</title>
+               <textLang mainLang="fro"/>
+               <term ref="#subject_history"/>
+               <note type="list"><list type="links">
+                     <item>
+                        <ref target="http://jonas.irht.cnrs.fr/oeuvre/2441"><title>JONAS</title></ref>
+                     </item>
+               </list></note>
+            </bibl>
+            <bibl xml:id="work_7545">
+               <author key="person_7524651">Aristotle</author>
+               <author key="person_89415245" role="translator">Scot, Michael, approximately 1175–approximately 1234</author>
+               <title type="uniform">Aristotle: Metaphysics (Metaphysica noua) (tr. Michael Scot?) [Latin]</title>
+               <title type="normalised_ms">metaphysics</title>
+               <title type="normalised_ms">metaphysica</title>
+               <textLang mainLang="la"/>
+               <bibl><ref target="http://hiw.kuleuven.be/dwmc/research/al/about/dale/1-operum-distributio">Aristoteles Latinus Codices I</ref>, no. 41, pp. 64-5</bibl>
+               <term ref="#subject_philosophy"/>
             </bibl>
             
             
