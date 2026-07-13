@@ -32965,6 +32965,28 @@ Titre collectif pour deux séries de commentaires théologiques de passages diff
                <bibl><ref target="http://hiw.kuleuven.be/dwmc/research/al/about/dale/1-operum-distributio">Aristoteles Latinus Codices I</ref>, no. 41, pp. 64-5</bibl>
                <term ref="#subject_philosophy"/>
             </bibl>
+            <bibl xml:id="work_7546">
+               <title type="uniform">Tabulae astronomicae 'Tabulae resolutae' [Latin]</title>
+               <title type="variant">Astronomical tables 'Tabulae resolutae' [Latin]</title>
+               <textLang mainLang="la"/>
+               <bibl>Alena Hadravová and Petr Hadrava, <title>The Tabule Resolute: The Central European Type of Alfonsine Tables</title> (Brepols Online, 2026), <ref target="doi:10.1484/M.ALFA-EB.5.144451">doi:10.1484/M.ALFA-EB.5.144451</ref>, pp. 116-117 and sig. Q3.
+               </bibl>
+               <term ref="#subject_science"/>
+            </bibl>
+            <bibl xml:id="work_7547">
+               <author key="person_5183">Nicolaus Polonius fl. 1447-1484</author>
+               <title type="uniform">Nicolaus Polonius fl. 1447-1484: Quoniam Tabularum
+                  Alfonsi laboriosa difficultas [Latin]</title>
+               <textLang mainLang="la"/>
+               <term ref="#subject_science"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/title/canones-in-tabulas-resolutas-ad-meridianum-salaman-title/220643"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
             
             
             <!-- create entry for rental? -->
@@ -54156,11 +54178,13 @@ Medieval Papacy -->
             <bibl xml:id="work_2573">
                <!--original: Johannes de Lineriis-->
                <author key="person_44658739">Johannes, de Lineriis, ca. 1320/35</author>
-               <title type="uniform">Johannes, de Lineriis, ca. 1320/35: Canones [Latin]</title>
+               <title type="uniform">Johannes, de Lineriis, ca. 1320/35: Tabulae astronomicae (1322) cum canones [Latin]</title>
                <title type="normalised_ms">canones</title>
                <textLang mainLang="la"/>
                <note type="shelfmark">MS. Bodl. 472</note>
                <term ref="#subject_science"/>
+               <bibl>José Chabás and Marie-Madeleine Saby, <title>The Tables of 1322 by John of Lignères: An Edition with Commentary</title> (Brepols Online, 2022), <ref target="doi:10.1484/M.ALFA-EB.5.125035">doi:10.1484/M.ALFA-EB.5.125035</ref>. There are two canons ('Priores' in 46 chapters and 'Cuiuslibet' in 44 chapters) which also circulate independently.</bibl>
+               <!-- these all have separate entries in Mirabile: to consider here -->
             </bibl>
             <bibl xml:id="work_2574">
                <!--original: Johannes de Lineriis-->

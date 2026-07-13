@@ -228659,6 +228659,18 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                   <country>England</country>
                </residence>
             </person>
+            <person xml:id="person_5183">
+               <persName source="bodl" type="display">Nicolaus Polonius fl. 1447-1484</persName>
+               <sex>male</sex>
+               <floruit notAfter="1484" notBefore="1447"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://www.mirabileweb.it/author/nicolaus-polonius-v-1447-m-ante-1484-author/30970"><title>Mirabile</title></ref>
+                     </item>
+                  </list>
+               </note><!-- not found in VIAF -->
+            </person>
          </listPerson>
       </body>
    </text>
