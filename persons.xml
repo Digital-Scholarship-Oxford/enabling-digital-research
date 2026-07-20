@@ -210369,7 +210369,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <birth when="1750"/>
                <death when="1834"/>
                <persName type="display">Lawson, Sir Henry (1750–1834), of Brough Hall</persName>
-               <!-- check: these dates may not be correct. list of baronets here https://en.wikipedia.org/wiki/Lawson_baronets. This Lawson owned 2 other mss. (cf. MLGB3) -->
+               <!-- check: these dates may not be correct. list of baronets here https://en.wikipedia.org/wiki/Lawson_baronets. This Lawson owned 2 other mss. (cf. MLGB) -->
             </person>
             <person xml:id="person_1116">
                <birth when="1855"/>
@@ -216512,7 +216512,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
             <person xml:id="person_2944">
                <persName source="bodl" type="display">Salomon, fl. 1193</persName>
                <floruit when="1193"/>
-               <note>MLGB3 cites <title>Registr. Malmes.</title>, RS 1, p. 461, for Salamon, scriptor at Malmesbury, 1193.</note>
+               <note>MLGB cites <title>Registr. Malmes.</title>, RS 1, p. 461, for Salamon, scriptor at Malmesbury, 1193.</note>
             </person>
             <person xml:id="person_2945">
                <persName source="bodl" type="display">Lonwell, Thomas, 16th century</persName>
@@ -218044,7 +218044,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
             <person xml:id="person_3226">
                <persName source="bodl" type="display">Hamlamstede, mr. Alwredus, fl. 1190–1200</persName>
                <persName source="bodl" type="variant">Hamlamstede, mr. Alfredus, fl. 1190–1200</persName>
-               <note>Appears in a document of c. 1190–1200 (see. H. E. Salter, <title>The Oseney Cartulary</title>, i. 243, cited MLGB3).</note>
+               <note>Appears in a document of c. 1190–1200 (see. H. E. Salter, <title>The Oseney Cartulary</title>, i. 243, cited MLGB).</note>
                <floruit notAfter="1200" notBefore="1190"/>
             </person>
             <person xml:id="person_3227">
@@ -218221,7 +218221,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
             <person xml:id="person_3261">
                <persName source="bodl" type="display">Natures, Humphrey, monk of Peterborough Abbey, 16th century</persName>
                <floruit notAfter="1600" notBefore="1500"/>
-               <note>Monk of Peterborough abbey, hostiller in 1533–5, afterwards pensioner of the house (Greatrex, <title>Obedientiary Accounts</title>, 40, 42, as cited MLGB3).</note>
+               <note>Monk of Peterborough abbey, hostiller in 1533–5, afterwards pensioner of the house (Greatrex, <title>Obedientiary Accounts</title>, 40, 42, as cited MLGB).</note>
             </person>
             <person xml:id="person_3262">
                <persName source="bodl" type="display">Barnston, John, 1562/3–1645</persName>
@@ -222920,7 +222920,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                <persName source="viaf" type="display">Stephanus, Johannes, medicus, 13th century (?)</persName>
                <persName type="variant">Iohannes Stephani</persName>
                <floruit notAfter="1300" notBefore="1200"/>
-               <!-- Dates are really all over the place; I can't find him in VIAF as such ( but there is https://viaf.org/viaf/232914956 though, and https://viaf.org/viaf/259955440), ISNI, MLGB3, but he appears as author in BnF latin 6988, fols. 96r-98r (13th cent.). This ms has a dataentry in MedMan http://www.manuscripta-medica.com/database/?u=auteur&id=156 ; the mss linked there are from 13th-15th centuries -->
+               <!-- Dates are really all over the place; I can't find him in VIAF as such ( but there is https://viaf.org/viaf/232914956 though, and https://viaf.org/viaf/259955440), ISNI, MLGB, but he appears as author in BnF latin 6988, fols. 96r-98r (13th cent.). This ms has a dataentry in MedMan http://www.manuscripta-medica.com/database/?u=auteur&id=156 ; the mss linked there are from 13th-15th centuries -->
                <bibl>Thomson, <title>Merton</title>, 165. Perhaps to be identified with Jean Stephanus of Montpellier (Wickersheimer, 793–4, and suppl., 184).</bibl>
             </person>
             <person xml:id="person_4128">
@@ -223901,7 +223901,7 @@ Deutschen Historischen Instituts in Rom 63) num. 251]; https://www.google.co.uk/
                         </ref>
                      </item>
                   </list>
-                  <!--                 NB: Mirabile + MLGB3 sites gives him as (?) author for 'Fasciculum morum' 'work_11808' Do we add the dubious authorship?-->
+                  <!--                 NB: Mirabile + MLGB sites gives him as (?) author for 'Fasciculum morum' 'work_11808' Do we add the dubious authorship?-->
                </note>
             </person>
             <person xml:id="person_4300">
