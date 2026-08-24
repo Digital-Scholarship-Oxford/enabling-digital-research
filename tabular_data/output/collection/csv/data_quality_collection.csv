@@ -1,62 +1,62 @@
 ﻿data quality: file,data quality: section,data quality: heading,data quality: count,data quality: percentage
-00_overview,metadata,file URL,16019,100.00%
-00_overview,metadata,collection,16019,100.00%
-00_overview,metadata,ms ID,16019,100.00%
-00_overview,metadata,shelfmark,16019,100.00%
-00_overview,metadata,ms type,16019,100.00%
-00_overview,metadata,part name,4041,25.23%
-00_overview,metadata,part ID,16003,99.90%
-00_overview,origin,not before,14143,88.29%
-00_overview,origin,not after,14135,88.24%
-00_overview,origin,country,10681,66.68%
+00_overview,metadata,file URL,16022,100.00%
+00_overview,metadata,collection,16022,100.00%
+00_overview,metadata,ms ID,16022,100.00%
+00_overview,metadata,shelfmark,16022,100.00%
+00_overview,metadata,ms type,16022,100.00%
+00_overview,metadata,part name,4043,25.23%
+00_overview,metadata,part ID,16006,99.90%
+00_overview,origin,not before,14145,88.28%
+00_overview,origin,not after,14137,88.23%
+00_overview,origin,country,10681,66.66%
 00_overview,origin,region,929,5.80%
-00_overview,origin,settlement,2365,14.76%
+00_overview,origin,settlement,2366,14.77%
 00_overview,origin,org,411,2.57%
-00_overview,provenance,overview,7884,49.22%
-00_overview,provenance,former owner name(s),6544,40.85%
+00_overview,provenance,overview,7886,49.22%
+00_overview,provenance,former owner name(s),6545,40.85%
 00_overview,provenance,named place(s),147,0.92%
-00_overview,acquisition,overview,6033,37.66%
-00_overview,acquisition,not before,5565,34.74%
-00_overview,acquisition,not after,5651,35.28%
+00_overview,acquisition,overview,6034,37.66%
+00_overview,acquisition,not before,5566,34.74%
+00_overview,acquisition,not after,5652,35.28%
 00_overview,acquisition,former owner name(s),138,0.86%
 00_overview,acquisition,donor name(s),591,3.69%
 00_overview,secundo folio,transcription(s),1521,9.49%
 00_overview,secundo folio,locus,383,2.39%
 00_overview,secundo folio,note(s),80,0.50%
-00_overview,contents,lang(s),3610,22.54%
-00_overview,contents,lang code(s),15520,96.88%
-00_overview,contents,n items and parts,14594,91.10%
-00_overview,contents,title(s),13974,87.23%
-00_overview,contents,standard title(s),13267,82.82%
-00_overview,contents,subject(s),13227,82.57%
-00_overview,contents,author(s) referenced,7561,47.20%
+00_overview,contents,lang(s),3610,22.53%
+00_overview,contents,lang code(s),15523,96.89%
+00_overview,contents,n items and parts,14596,91.10%
+00_overview,contents,title(s),13976,87.23%
+00_overview,contents,standard title(s),13268,82.81%
+00_overview,contents,subject(s),13228,82.56%
+00_overview,contents,author(s) referenced,7561,47.19%
 00_overview,music,notation,517,3.23%
-00_overview,decoration,overview,6931,43.27%
-00_overview,decoration,type(s),5854,36.54%
-00_overview,codicology,form,14810,92.45%
+00_overview,decoration,overview,6932,43.27%
+00_overview,decoration,type(s),5855,36.54%
+00_overview,codicology,form,14813,92.45%
 00_overview,codicology,condition,502,3.13%
-00_overview,codicology,support,14807,92.43%
-00_overview,codicology,disposition,302,1.89%
+00_overview,codicology,support,14810,92.44%
+00_overview,codicology,disposition,302,1.88%
 00_overview,codicology,watermark,240,1.50%
 00_overview,codicology,extent,4611,28.78%
 00_overview,codicology,core folios,4561,28.47%
 00_overview,codicology,endleaves,391,2.44%
-00_overview,codicology,later endleaves,3003,18.75%
-00_overview,codicology,collation,2130,13.30%
+00_overview,codicology,later endleaves,3003,18.74%
+00_overview,codicology,collation,2131,13.30%
 00_overview,codicology,main structure,497,3.10%
 00_overview,codicology,structures,497,3.10%
 00_overview,codicology,catchwords,657,4.10%
 00_overview,codicology,signatures,510,3.18%
-00_overview,codicology,foliation,1137,7.10%
+00_overview,codicology,foliation,1138,7.10%
 00_overview,palaeography,hands,501,3.13%
-00_overview,palaeography,script,1860,11.61%
-00_overview,palaeography,main script,1859,11.60%
-00_overview,palaeography,execution,195,1.22%
+00_overview,palaeography,script,1861,11.62%
+00_overview,palaeography,main script,1860,11.61%
+00_overview,palaeography,execution,196,1.22%
 00_overview,palaeography,medium,3,0.02%
-00_overview,binding,overview,3540,22.10%
+00_overview,binding,overview,3541,22.10%
 00_overview,binding,contemporary,415,2.59%
-00_overview,binding,not before,3063,19.12%
-00_overview,binding,not after,3029,18.91%
+00_overview,binding,not before,3064,19.12%
+00_overview,binding,not after,3030,18.91%
 00_overview,binding,certainty,8,0.05%
 00_overview,binding,max height,1585,9.89%
 00_overview,binding,min height,1585,9.89%
@@ -66,99 +66,99 @@
 00_overview,binding,min depth,292,1.82%
 00_overview,binding,unit,1585,9.89%
 00_overview,binding,converted,1585,9.89%
-00_overview,leaves,max height,4421,27.60%
-00_overview,leaves,min height,4421,27.60%
-00_overview,leaves,max width,4425,27.62%
-00_overview,leaves,min width,4425,27.62%
-00_overview,leaves,unit,4440,27.72%
+00_overview,leaves,max height,4425,27.62%
+00_overview,leaves,min height,4425,27.62%
+00_overview,leaves,max width,4429,27.64%
+00_overview,leaves,min width,4429,27.64%
+00_overview,leaves,unit,4444,27.74%
 00_overview,text block,max cols,4460,27.84%
 00_overview,text block,min cols,4460,27.84%
-00_overview,text block,max height,3991,24.91%
-00_overview,text block,min height,3995,24.94%
-00_overview,text block,max width,4011,25.04%
-00_overview,text block,min width,4015,25.06%
-00_overview,text block,unit,4057,25.33%
-00_overview,text block,max lines,4209,26.28%
-00_overview,text block,min lines,4209,26.28%
+00_overview,text block,max height,3992,24.92%
+00_overview,text block,min height,3996,24.94%
+00_overview,text block,max width,4012,25.04%
+00_overview,text block,min width,4016,25.07%
+00_overview,text block,unit,4058,25.33%
+00_overview,text block,max lines,4209,26.27%
+00_overview,text block,min lines,4209,26.27%
 00_overview,text block,medium,992,6.19%
 00_overview,text block,top line,147,0.92%
-01_records,metadata,record UID,11177,100.00%
-01_records,metadata,file URL,11177,100.00%
-01_records,metadata,collection,11177,100.00%
-01_records,metadata,ms ID,11177,100.00%
-01_records,metadata,shelfmark,11177,100.00%
-01_records,metadata,ms type,11177,100.00%
-01_records,metadata,part name,1170,10.47%
-01_records,metadata,part ID,11176,99.99%
-01_records,metadata,crArk,11176,99.99%
-01_records,metadata,ieArk,11177,100.00%
-01_records,metadata,SCN,9047,80.94%
+01_records,metadata,record UID,11178,100.00%
+01_records,metadata,file URL,11178,100.00%
+01_records,metadata,collection,11178,100.00%
+01_records,metadata,ms ID,11178,100.00%
+01_records,metadata,shelfmark,11178,100.00%
+01_records,metadata,ms type,11178,100.00%
+01_records,metadata,part name,1171,10.48%
+01_records,metadata,part ID,11177,99.99%
+01_records,metadata,crArk,11177,99.99%
+01_records,metadata,ieArk,11178,100.00%
+01_records,metadata,SCN,9048,80.94%
 01_records,metadata,TM,713,6.38%
 01_records,metadata,PR,507,4.54%
 01_records,metadata,diktyon,121,1.08%
-01_records,record,history,11123,99.52%
-01_records,record,source,9143,81.80%
-01_records,record,most recent change,11166,99.90%
-01_records,record,quarto cat,11177,100.00%
-01_records,record,summary,11177,100.00%
-01_records,record,updated,7749,69.33%
-01_records,publisher,institution,11176,99.99%
-01_records,publisher,unit,11176,99.99%
-01_records,publisher,department,11176,99.99%
-01_records,location,settlement,11177,100.00%
-01_records,location,institution,9521,85.18%
-01_records,location,repository,11177,100.00%
+01_records,record,history,11124,99.52%
+01_records,record,source,9144,81.80%
+01_records,record,most recent change,11167,99.90%
+01_records,record,quarto cat,11178,100.00%
+01_records,record,summary,11178,100.00%
+01_records,record,updated,7750,69.33%
+01_records,publisher,institution,11177,99.99%
+01_records,publisher,unit,11177,99.99%
+01_records,publisher,department,11177,99.99%
+01_records,location,settlement,11178,100.00%
+01_records,location,institution,9522,85.19%
+01_records,location,repository,11178,100.00%
 01_records,availability,availability statement,1729,15.47%
-01_records,surrogates,full digital facsimile(s),11177,100.00%
-01_records,surrogates,full digital facsimile URI(s),1817,16.26%
-01_records,surrogates,full iiif manifest,1748,15.64%
-01_records,surrogates,partial digital facsimile(s),11177,100.00%
+01_records,surrogates,full digital facsimile(s),11178,100.00%
+01_records,surrogates,full digital facsimile URI(s),1822,16.30%
+01_records,surrogates,full iiif manifest,1753,15.68%
+01_records,surrogates,partial digital facsimile(s),11178,100.00%
 01_records,surrogates,partial digital facsimile URI(s),1921,17.19%
-01_records,surrogates,partial iiif manifest,1913,17.12%
+01_records,surrogates,partial iiif manifest,1913,17.11%
 01_records,printed resources,bibliography,2696,24.12%
 01_records,printed resources,URI(s),358,3.20%
 01_records,printed resources,ID(s),5,0.04%
 01_records,online resources,JONAS URI,368,3.29%
-01_records,online resources,bibliography,3368,30.13%
-01_records,online resources,URI(s),3366,30.12%
-02_binding,metadata,binding UID,4508,100.00%
-02_binding,metadata,file URL,4508,100.00%
-02_binding,metadata,collection,4508,100.00%
-02_binding,metadata,ms ID,4508,100.00%
-02_binding,metadata,shelfmark,4508,100.00%
-02_binding,metadata,part ID,4508,100.00%
-02_binding,overview,binding,4499,99.80%
+01_records,online resources,bibliography,3369,30.14%
+01_records,online resources,URI(s),3367,30.12%
+02_binding,metadata,binding UID,4509,100.00%
+02_binding,metadata,file URL,4509,100.00%
+02_binding,metadata,collection,4509,100.00%
+02_binding,metadata,ms ID,4509,100.00%
+02_binding,metadata,shelfmark,4509,100.00%
+02_binding,metadata,part ID,4509,100.00%
+02_binding,overview,binding,4500,99.80%
 02_binding,overview,condition,13,0.29%
 02_binding,overview,decoration,36,0.80%
-02_binding,date,contemporary,415,9.21%
-02_binding,date,when,168,3.73%
-02_binding,date,not before,3146,69.79%
-02_binding,date,not after,3118,69.17%
+02_binding,date,contemporary,415,9.20%
+02_binding,date,when,169,3.75%
+02_binding,date,not before,3147,69.79%
+02_binding,date,not after,3119,69.17%
 02_binding,date,certainty,8,0.18%
-02_binding,date,calendar,585,12.98%
-02_binding,dimensions,height,1635,36.27%
-02_binding,dimensions,height max,1635,36.27%
-02_binding,dimensions,height min,1635,36.27%
+02_binding,date,calendar,585,12.97%
+02_binding,dimensions,height,1635,36.26%
+02_binding,dimensions,height max,1635,36.26%
+02_binding,dimensions,height min,1635,36.26%
 02_binding,dimensions,width,1633,36.22%
 02_binding,dimensions,width max,1633,36.22%
 02_binding,dimensions,width min,1633,36.22%
 02_binding,dimensions,depth,341,7.56%
 02_binding,dimensions,depth max,341,7.56%
 02_binding,dimensions,depth min,341,7.56%
-02_binding,dimensions,unit,1635,36.27%
-02_binding,dimensions,converted,1635,36.27%
-03_measurements,metadata,measurement UID,7464,100.00%
-03_measurements,metadata,file URL,7464,100.00%
-03_measurements,metadata,collection,7464,100.00%
-03_measurements,metadata,ms ID,7464,100.00%
-03_measurements,metadata,shelfmark,7464,100.00%
-03_measurements,metadata,ms type,7464,100.00%
-03_measurements,metadata,part name,2096,28.08%
-03_measurements,metadata,part ID,7447,99.77%
-03_measurements,extent,extent,5004,67.04%
-03_measurements,extent,n folios,4948,66.29%
+02_binding,dimensions,unit,1635,36.26%
+02_binding,dimensions,converted,1635,36.26%
+03_measurements,metadata,measurement UID,7467,100.00%
+03_measurements,metadata,file URL,7467,100.00%
+03_measurements,metadata,collection,7467,100.00%
+03_measurements,metadata,ms ID,7467,100.00%
+03_measurements,metadata,shelfmark,7467,100.00%
+03_measurements,metadata,ms type,7467,100.00%
+03_measurements,metadata,part name,2097,28.08%
+03_measurements,metadata,part ID,7450,99.77%
+03_measurements,extent,extent,5004,67.01%
+03_measurements,extent,n folios,4948,66.26%
 03_measurements,extent,n endleaves,421,5.64%
-03_measurements,extent,n later endleaves,3293,44.12%
+03_measurements,extent,n later endleaves,3293,44.10%
 03_measurements,rolls,height,32,0.43%
 03_measurements,rolls,height max,32,0.43%
 03_measurements,rolls,height min,32,0.43%
@@ -174,22 +174,22 @@
 03_measurements,fragments,width max,107,1.43%
 03_measurements,fragments,width min,107,1.43%
 03_measurements,fragments,unit,107,1.43%
-03_measurements,leaves,height,4147,55.56%
-03_measurements,leaves,height max,4147,55.56%
-03_measurements,leaves,height min,4147,55.56%
-03_measurements,leaves,width,4152,55.63%
-03_measurements,leaves,width max,4152,55.63%
-03_measurements,leaves,width min,4152,55.63%
+03_measurements,leaves,height,4150,55.58%
+03_measurements,leaves,height max,4150,55.58%
+03_measurements,leaves,height min,4150,55.58%
+03_measurements,leaves,width,4155,55.64%
+03_measurements,leaves,width max,4155,55.64%
+03_measurements,leaves,width min,4155,55.64%
 03_measurements,leaves,depth,7,0.09%
 03_measurements,leaves,depth max,7,0.09%
 03_measurements,leaves,depth min,7,0.09%
-03_measurements,leaves,unit,4167,55.83%
-03_measurements,columns,n,4625,61.96%
-03_measurements,columns,n max,4625,61.96%
-03_measurements,columns,n min,4625,61.96%
-03_measurements,columns,height,464,6.22%
-03_measurements,columns,height max,464,6.22%
-03_measurements,columns,height min,464,6.22%
+03_measurements,leaves,unit,4170,55.85%
+03_measurements,columns,n,4625,61.94%
+03_measurements,columns,n max,4625,61.94%
+03_measurements,columns,n min,4625,61.94%
+03_measurements,columns,height,464,6.21%
+03_measurements,columns,height max,464,6.21%
+03_measurements,columns,height min,464,6.21%
 03_measurements,columns,width,501,6.71%
 03_measurements,columns,width max,501,6.71%
 03_measurements,columns,width min,501,6.71%
@@ -198,43 +198,43 @@
 03_measurements,intercolumn,width max,162,2.17%
 03_measurements,intercolumn,width min,162,2.17%
 03_measurements,intercolumn,unit,162,2.17%
-03_measurements,written area,n,4000,53.59%
-03_measurements,written area,n max,4000,53.59%
-03_measurements,written area,n min,4000,53.59%
-03_measurements,written area,height,2636,35.32%
-03_measurements,written area,height max,2636,35.32%
-03_measurements,written area,height min,2636,35.32%
-03_measurements,written area,width,2679,35.89%
-03_measurements,written area,width max,2679,35.89%
-03_measurements,written area,width min,2679,35.89%
-03_measurements,written area,unit,2692,36.07%
-03_measurements,ruling,n,558,7.48%
-03_measurements,ruling,n max,558,7.48%
-03_measurements,ruling,n min,558,7.48%
-03_measurements,ruling,height,1093,14.64%
-03_measurements,ruling,height max,1093,14.64%
-03_measurements,ruling,height min,1093,14.64%
-03_measurements,ruling,width,1097,14.70%
-03_measurements,ruling,width max,1097,14.70%
-03_measurements,ruling,width min,1097,14.70%
-03_measurements,ruling,unit,1103,14.78%
+03_measurements,written area,n,4000,53.57%
+03_measurements,written area,n max,4000,53.57%
+03_measurements,written area,n min,4000,53.57%
+03_measurements,written area,height,2636,35.30%
+03_measurements,written area,height max,2636,35.30%
+03_measurements,written area,height min,2636,35.30%
+03_measurements,written area,width,2679,35.88%
+03_measurements,written area,width max,2679,35.88%
+03_measurements,written area,width min,2679,35.88%
+03_measurements,written area,unit,2692,36.05%
+03_measurements,ruling,n,558,7.47%
+03_measurements,ruling,n max,558,7.47%
+03_measurements,ruling,n min,558,7.47%
+03_measurements,ruling,height,1095,14.66%
+03_measurements,ruling,height max,1095,14.66%
+03_measurements,ruling,height min,1095,14.66%
+03_measurements,ruling,width,1099,14.72%
+03_measurements,ruling,width max,1099,14.72%
+03_measurements,ruling,width min,1099,14.72%
+03_measurements,ruling,unit,1105,14.80%
 03_measurements,ruling,medium,972,13.02%
 03_measurements,ruling,top line,153,2.05%
-04_hands,metadata,hand UID,4159,100.00%
-04_hands,metadata,file URL,4159,100.00%
-04_hands,metadata,collection,4159,100.00%
-04_hands,metadata,ms ID,4159,100.00%
-04_hands,metadata,shelfmark,4159,100.00%
-04_hands,metadata,ms type,4159,100.00%
-04_hands,metadata,part name,935,22.48%
-04_hands,metadata,part ID,4142,99.59%
-04_hands,overview,hands,4158,99.98%
-04_hands,overview,total hands,558,13.42%
+04_hands,metadata,hand UID,4161,100.00%
+04_hands,metadata,file URL,4161,100.00%
+04_hands,metadata,collection,4161,100.00%
+04_hands,metadata,ms ID,4161,100.00%
+04_hands,metadata,shelfmark,4161,100.00%
+04_hands,metadata,ms type,4161,100.00%
+04_hands,metadata,part name,935,22.47%
+04_hands,metadata,part ID,4144,99.59%
+04_hands,overview,hands,4160,99.98%
+04_hands,overview,total hands,558,13.41%
 04_hands,person,scribe ref,10,0.24%
 04_hands,person,hand ID,55,1.32%
 04_hands,person,person(s),527,12.67%
 04_hands,person,person ID(s),520,12.50%
-04_hands,locus,scope,365,8.78%
+04_hands,locus,scope,365,8.77%
 04_hands,locus,n,116,2.79%
 04_hands,locus,locus,116,2.79%
 04_hands,locus,from,111,2.67%
@@ -242,13 +242,13 @@
 04_hands,date,date,203,4.88%
 04_hands,date,when,1,0.02%
 04_hands,date,not before,203,4.88%
-04_hands,date,not after,202,4.86%
+04_hands,date,not after,202,4.85%
 04_hands,date,certainty,0,0.00%
 04_hands,date,calendar,201,4.83%
-04_hands,palaeography,script,2124,51.07%
-04_hands,palaeography,execution,202,4.86%
+04_hands,palaeography,script,2126,51.09%
+04_hands,palaeography,execution,203,4.88%
 04_hands,palaeography,medium,8,0.19%
-04_hands,palaeography,terms,390,9.38%
+04_hands,palaeography,terms,390,9.37%
 04_hands,palaeography,desc,8,0.19%
 04_hands,palaeography,char,7,0.17%
 04_hands,palaeography,characters,34,0.82%
@@ -258,75 +258,75 @@
 04_hands,palaeography,punctuation,4,0.10%
 04_hands,palaeography,nota,1,0.02%
 04_hands,palaeography,language,1,0.02%
-05_contents,metadata,item UID,56129,100.00%
-05_contents,metadata,item ID,28297,50.41%
-05_contents,metadata,item n,33839,60.29%
-05_contents,metadata,file URL,56129,100.00%
-05_contents,metadata,ms ID,56129,100.00%
-05_contents,metadata,shelfmark,56129,100.00%
-05_contents,metadata,collection,56129,100.00%
-05_contents,metadata,ms type,56129,100.00%
-05_contents,metadata,part name,13393,23.86%
-05_contents,metadata,part ID,55941,99.67%
-05_contents,metadata,nest level,56129,100.00%
-05_contents,locus,locus,34795,61.99%
-05_contents,locus,from,32654,58.18%
-05_contents,locus,to,31152,55.50%
-05_contents,locus,inferred,31125,55.45%
-05_contents,length,est fols,30982,55.20%
+05_contents,metadata,item UID,56142,100.00%
+05_contents,metadata,item ID,28296,50.40%
+05_contents,metadata,item n,33838,60.27%
+05_contents,metadata,file URL,56142,100.00%
+05_contents,metadata,ms ID,56142,100.00%
+05_contents,metadata,shelfmark,56142,100.00%
+05_contents,metadata,collection,56142,100.00%
+05_contents,metadata,ms type,56142,100.00%
+05_contents,metadata,part name,13395,23.86%
+05_contents,metadata,part ID,55954,99.67%
+05_contents,metadata,nest level,56142,100.00%
+05_contents,locus,locus,34807,62.00%
+05_contents,locus,from,32654,58.16%
+05_contents,locus,to,31152,55.49%
+05_contents,locus,inferred,31125,55.44%
+05_contents,length,est fols,30982,55.19%
 05_contents,length,est cols,21326,37.99%
-05_contents,length,est lines,17749,31.62%
-05_contents,length,est % of ms,28588,50.93%
-05_contents,length,est % of part,22753,40.54%
-05_contents,work,title,36674,65.34%
-05_contents,work,title type,13794,24.58%
-05_contents,work,work ID,28232,50.30%
-05_contents,work,standard title(s),28232,50.30%
-05_contents,work,class(es),6502,11.58%
-05_contents,work,associated subject(s),28100,50.06%
-05_contents,work,subject URI(s),28100,50.06%
-05_contents,work,theology,28232,50.30%
-05_contents,work,documents,28232,50.30%
-05_contents,work,bible,28232,50.30%
-05_contents,work,literature,28232,50.30%
-05_contents,work,science,28232,50.30%
-05_contents,work,liturgy,28232,50.30%
-05_contents,work,history,28232,50.30%
-05_contents,work,law,28232,50.30%
-05_contents,work,philosophy,28232,50.30%
-05_contents,work,hagiography,28232,50.30%
-05_contents,work,medicine,28232,50.30%
-05_contents,work,christian literature,28232,50.30%
-05_contents,work,sermons,28232,50.30%
-05_contents,work,classical literature,28232,50.30%
-05_contents,work,monasticism and religious orders,28232,50.30%
-05_contents,work,grammar,28232,50.30%
-05_contents,work,clergy,28232,50.30%
-05_contents,work,rhetoric,28232,50.30%
-05_contents,work,geography,28232,50.30%
-05_contents,work,natural history,28232,50.30%
-05_contents,work,politics and government,28232,50.30%
-05_contents,work,music,28232,50.30%
-05_contents,work,indexes,28232,50.30%
-05_contents,work,conduct,28232,50.30%
-05_contents,work,heraldry,28232,50.30%
-05_contents,work,magic,28232,50.30%
-05_contents,work,bibliography,28232,50.30%
-05_contents,work,recreation,28232,50.30%
-05_contents,author,name(s),17007,30.30%
+05_contents,length,est lines,17749,31.61%
+05_contents,length,est % of ms,28588,50.92%
+05_contents,length,est % of part,22753,40.53%
+05_contents,work,title,36685,65.34%
+05_contents,work,title type,13805,24.59%
+05_contents,work,work ID,28233,50.29%
+05_contents,work,standard title(s),28233,50.29%
+05_contents,work,class(es),6504,11.58%
+05_contents,work,associated subject(s),28101,50.05%
+05_contents,work,subject URI(s),28101,50.05%
+05_contents,work,theology,28233,50.29%
+05_contents,work,documents,28233,50.29%
+05_contents,work,bible,28233,50.29%
+05_contents,work,literature,28233,50.29%
+05_contents,work,science,28233,50.29%
+05_contents,work,liturgy,28233,50.29%
+05_contents,work,history,28233,50.29%
+05_contents,work,law,28233,50.29%
+05_contents,work,philosophy,28233,50.29%
+05_contents,work,hagiography,28233,50.29%
+05_contents,work,medicine,28233,50.29%
+05_contents,work,christian literature,28233,50.29%
+05_contents,work,sermons,28233,50.29%
+05_contents,work,classical literature,28233,50.29%
+05_contents,work,monasticism and religious orders,28233,50.29%
+05_contents,work,grammar,28233,50.29%
+05_contents,work,clergy,28233,50.29%
+05_contents,work,rhetoric,28233,50.29%
+05_contents,work,geography,28233,50.29%
+05_contents,work,natural history,28233,50.29%
+05_contents,work,politics and government,28233,50.29%
+05_contents,work,music,28233,50.29%
+05_contents,work,indexes,28233,50.29%
+05_contents,work,conduct,28233,50.29%
+05_contents,work,heraldry,28233,50.29%
+05_contents,work,magic,28233,50.29%
+05_contents,work,bibliography,28233,50.29%
+05_contents,work,recreation,28233,50.29%
+05_contents,author,name(s),17007,30.29%
 05_contents,author,standard name(s),16751,29.84%
-05_contents,author,ID(s),17102,30.47%
-05_contents,language,text lang(s),20402,36.35%
-05_contents,language,main,50111,89.28%
-05_contents,language,other,1222,2.18%
-05_contents,paratext,incipit,18778,33.46%
+05_contents,author,ID(s),17102,30.46%
+05_contents,language,text lang(s),20415,36.36%
+05_contents,language,main,50124,89.28%
+05_contents,language,other,1221,2.17%
+05_contents,paratext,incipit,18778,33.45%
 05_contents,paratext,explicit,10549,18.79%
-05_contents,paratext,rubric(s),11747,20.93%
+05_contents,paratext,rubric(s),11748,20.93%
 05_contents,paratext,rubric note(s),540,0.96%
 05_contents,paratext,final rubric(s),2510,4.47%
 05_contents,paratext,final rubric note(s),105,0.19%
-05_contents,bibliography,note(s),31680,56.44%
-05_contents,bibliography,bibl,7747,13.80%
+05_contents,bibliography,note(s),31685,56.44%
+05_contents,bibliography,bibl,7748,13.80%
 05_contents,bibliography,repertory/ies,1896,3.38%
 05_contents,bibliography,edition(s),104,0.19%
 05_contents,bibliography,commented on,731,1.30%
@@ -363,17 +363,17 @@
 06_music,bibliography,title(s),5,0.94%
 06_music,bibliography,ref(s),6,1.13%
 06_music,bibliography,ref URI(s),6,1.13%
-07_decoration,metadata,deco UID,16027,100.00%
-07_decoration,metadata,file URL,16027,100.00%
-07_decoration,metadata,collection,16027,100.00%
-07_decoration,metadata,ms ID,16027,100.00%
-07_decoration,metadata,shelfmark,16027,100.00%
-07_decoration,metadata,ms type,16027,100.00%
+07_decoration,metadata,deco UID,16029,100.00%
+07_decoration,metadata,file URL,16029,100.00%
+07_decoration,metadata,collection,16029,100.00%
+07_decoration,metadata,ms ID,16029,100.00%
+07_decoration,metadata,shelfmark,16029,100.00%
+07_decoration,metadata,ms type,16029,100.00%
 07_decoration,metadata,part name,2661,16.60%
-07_decoration,metadata,part ID,16012,99.91%
+07_decoration,metadata,part ID,16014,99.91%
 07_decoration,overview,decoration,5796,36.16%
-07_decoration,overview,description,15926,99.37%
-07_decoration,overview,type,14565,90.88%
+07_decoration,overview,description,15928,99.37%
+07_decoration,overview,type,14567,90.88%
 07_decoration,locus,locus,1327,8.28%
 07_decoration,locus,from,869,5.42%
 07_decoration,locus,to,869,5.42%
@@ -406,38 +406,38 @@
 07_decoration,bibliography,bibl(s),186,1.16%
 07_decoration,bibliography,ref(s),1609,10.04%
 07_decoration,bibliography,ref URI(s),1608,10.03%
-08_origins,metadata,origin UID,16019,100.00%
-08_origins,metadata,file URL,16019,100.00%
-08_origins,metadata,collection,16019,100.00%
-08_origins,metadata,ms ID,16019,100.00%
-08_origins,metadata,shelfmark,16019,100.00%
-08_origins,metadata,ms type,16019,100.00%
-08_origins,metadata,part name,4041,25.23%
-08_origins,metadata,part ID,16003,99.90%
-08_origins,overview,origin,14502,90.53%
+08_origins,metadata,origin UID,16022,100.00%
+08_origins,metadata,file URL,16022,100.00%
+08_origins,metadata,collection,16022,100.00%
+08_origins,metadata,ms ID,16022,100.00%
+08_origins,metadata,shelfmark,16022,100.00%
+08_origins,metadata,ms type,16022,100.00%
+08_origins,metadata,part name,4043,25.23%
+08_origins,metadata,part ID,16006,99.90%
+08_origins,overview,origin,14504,90.53%
 08_origins,overview,additions,120,0.75%
 08_origins,locus,locus,5,0.03%
 08_origins,locus,from,5,0.03%
 08_origins,locus,to,5,0.03%
-08_origins,orig date,date,14461,90.27%
-08_origins,orig date,when,1377,8.60%
-08_origins,orig date,not before,14353,89.60%
-08_origins,orig date,not after,14345,89.55%
+08_origins,orig date,date,14463,90.27%
+08_origins,orig date,when,1377,8.59%
+08_origins,orig date,not before,14355,89.60%
+08_origins,orig date,not after,14347,89.55%
 08_origins,orig date,certainty,1075,6.71%
-08_origins,orig date,calendar,14379,89.76%
-08_origins,orig place,place,10984,68.57%
-08_origins,orig place,country,10871,67.86%
-08_origins,orig place,country ID,10871,67.86%
-08_origins,orig place,country lat,9438,58.92%
-08_origins,orig place,country long,9438,58.92%
+08_origins,orig date,calendar,14381,89.76%
+08_origins,orig place,place,10984,68.56%
+08_origins,orig place,country,10871,67.85%
+08_origins,orig place,country ID,10871,67.85%
+08_origins,orig place,country lat,9438,58.91%
+08_origins,orig place,country long,9438,58.91%
 08_origins,orig place,region,933,5.82%
 08_origins,orig place,region ID,102,0.64%
 08_origins,orig place,region lat,98,0.61%
 08_origins,orig place,region long,98,0.61%
-08_origins,orig place,settlement,2404,15.01%
-08_origins,orig place,settlement ID,2304,14.38%
-08_origins,orig place,settlement lat,2277,14.21%
-08_origins,orig place,settlement long,2277,14.21%
+08_origins,orig place,settlement,2405,15.01%
+08_origins,orig place,settlement ID,2305,14.39%
+08_origins,orig place,settlement lat,2278,14.22%
+08_origins,orig place,settlement long,2278,14.22%
 08_origins,orig org,org,450,2.81%
 08_origins,orig org,org ID,448,2.80%
 08_origins,orig org,org lat,96,0.60%
@@ -495,19 +495,19 @@
 09_additions,bibliography,title(s),51,9.27%
 09_additions,bibliography,ref(s),12,2.18%
 09_additions,bibliography,ref URI(s),12,2.18%
-10_provenance_acquisition,metadata,history UID,23540,100.00%
-10_provenance_acquisition,metadata,file URL,23540,100.00%
-10_provenance_acquisition,metadata,collection,23540,100.00%
-10_provenance_acquisition,metadata,ms ID,23540,100.00%
-10_provenance_acquisition,metadata,shelfmark,23540,100.00%
-10_provenance_acquisition,metadata,ms type,23540,100.00%
-10_provenance_acquisition,metadata,part name,3114,13.23%
-10_provenance_acquisition,metadata,part ID,23538,99.99%
-10_provenance_acquisition,overview,history,23508,99.86%
+10_provenance_acquisition,metadata,history UID,23545,100.00%
+10_provenance_acquisition,metadata,file URL,23545,100.00%
+10_provenance_acquisition,metadata,collection,23545,100.00%
+10_provenance_acquisition,metadata,ms ID,23545,100.00%
+10_provenance_acquisition,metadata,shelfmark,23545,100.00%
+10_provenance_acquisition,metadata,ms type,23545,100.00%
+10_provenance_acquisition,metadata,part name,3115,13.23%
+10_provenance_acquisition,metadata,part ID,23543,99.99%
+10_provenance_acquisition,overview,history,23513,99.86%
 10_provenance_acquisition,overview,type,1259,5.35%
-10_provenance_acquisition,dates,when,6053,25.71%
-10_provenance_acquisition,dates,not before,10632,45.17%
-10_provenance_acquisition,dates,not after,12494,53.08%
+10_provenance_acquisition,dates,when,6054,25.71%
+10_provenance_acquisition,dates,not before,10633,45.16%
+10_provenance_acquisition,dates,not after,12495,53.07%
 10_provenance_acquisition,dates,from,61,0.26%
 10_provenance_acquisition,dates,to,61,0.26%
 10_provenance_acquisition,dates,certainty,24,0.10%
@@ -526,19 +526,19 @@
 10_provenance_acquisition,people,patron ID(s),32,0.14%
 10_provenance_acquisition,people,binder name(s),6,0.03%
 10_provenance_acquisition,people,binder ID(s),5,0.02%
-10_provenance_acquisition,people,former owner name(s),9681,41.13%
-10_provenance_acquisition,people,former owner ID(s),9607,40.81%
+10_provenance_acquisition,people,former owner name(s),9682,41.12%
+10_provenance_acquisition,people,former owner ID(s),9608,40.81%
 10_provenance_acquisition,people,donor name(s),867,3.68%
 10_provenance_acquisition,people,donor ID(s),865,3.67%
 10_provenance_acquisition,people,bookseller name(s),22,0.09%
 10_provenance_acquisition,people,bookseller ID(s),13,0.06%
 10_provenance_acquisition,people,other name(s),643,2.73%
-10_provenance_acquisition,people,other ID(s),625,2.66%
-10_provenance_acquisition,former owners (person),standard name(s),9607,40.81%
-10_provenance_acquisition,former owners (person),birth,6242,26.52%
-10_provenance_acquisition,former owners (person),death,8136,34.56%
-10_provenance_acquisition,former owners (person),floruit not before,1190,5.06%
-10_provenance_acquisition,former owners (person),floruit not after,1190,5.06%
+10_provenance_acquisition,people,other ID(s),625,2.65%
+10_provenance_acquisition,former owners (person),standard name(s),9608,40.81%
+10_provenance_acquisition,former owners (person),birth,6243,26.52%
+10_provenance_acquisition,former owners (person),death,8137,34.56%
+10_provenance_acquisition,former owners (person),floruit not before,1190,5.05%
+10_provenance_acquisition,former owners (person),floruit not after,1190,5.05%
 10_provenance_acquisition,former owners (person),occupation,9,0.04%
 10_provenance_acquisition,former owners (person),sex,269,1.14%
 10_provenance_acquisition,former owners (person),nationality,17,0.07%
