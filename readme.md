@@ -7,7 +7,7 @@ The main output is a set of tabular data, regularly updated, derived from _Medie
 
 <a href="https://digital-scholarship-oxford.github.io/enabling-digital-research" target="_blank" rel="noopener noreferrer">Click here to access the user guide</a>.
 
-This repository mirrors the collections and authority data of the <a href="https://github.com/bodleian/medieval-mss" target="_blank" rel="noopener noreferrer">Bodleian TEI Manuscript Catalogue</a> in all aspects except for the <code>tabular_data</code> directory, which contains a processor designed to extract specific data from the TEI files, and export them in tabular data to enable cross-comparison and increase accessibility. 
+This repository mirrors the collections and authority data of the <a href="https://github.com/bodleian/medieval-mss" target="_blank" rel="noopener noreferrer">Bodleian TEI Manuscript Catalogue</a> in all aspects except for the <code>tabular_data</code> directory, which contains a processor designed to extract specific data from the TEI files, and export them in tabular data to enable cross-comparison and increase accessibility. The processor can be configured to deal with different flavours of TEI or to extract other kinds of information. Instructions are given in the user guide.
 
 
 You do not need to be able to run the processor in order to access the output data: these can be found in the <code>tabular_data/output</code> directory, and are currently being updated regularly as the catalogue develops.
