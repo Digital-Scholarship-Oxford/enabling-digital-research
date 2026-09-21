@@ -1,75 +1,75 @@
 ﻿data quality: file,data quality: section,data quality: heading,data quality: count,data quality: percentage
-orgs,identifiers,ID,800,100.00%
-orgs,identifiers,URI (BnF),150,18.75%
-orgs,identifiers,URI (Germania Sacra),39,4.88%
-orgs,identifiers,URI (GND),250,31.25%
-orgs,identifiers,URI (ISNI),164,20.50%
-orgs,identifiers,URI (LC),364,45.50%
-orgs,identifiers,URI (SUDOC),120,15.00%
-orgs,identifiers,URI (VIAF),499,62.38%
-orgs,identifiers,URI (Wikidata),441,55.12%
-orgs,identifiers,other ref(s),37,4.62%
-orgs,identifiers,other URI(s),38,4.75%
-orgs,names,display,800,100.00%
-orgs,names,variant,433,54.12%
-orgs,names,crossref,118,14.75%
-orgs,affiliation,affiliation,476,59.50%
-orgs,location,geo,70,8.75%
-orgs,location,geo source,42,5.25%
-orgs,location,latitude,70,8.75%
-orgs,location,longitude,70,8.75%
-orgs,location,settlement,28,3.50%
+orgs,identifiers,ID,802,100.00%
+orgs,identifiers,URI (BnF),150,18.70%
+orgs,identifiers,URI (Germania Sacra),39,4.86%
+orgs,identifiers,URI (GND),250,31.17%
+orgs,identifiers,URI (ISNI),164,20.45%
+orgs,identifiers,URI (LC),364,45.39%
+orgs,identifiers,URI (SUDOC),120,14.96%
+orgs,identifiers,URI (VIAF),499,62.22%
+orgs,identifiers,URI (Wikidata),441,54.99%
+orgs,identifiers,other ref(s),37,4.61%
+orgs,identifiers,other URI(s),38,4.74%
+orgs,names,display,802,100.00%
+orgs,names,variant,433,53.99%
+orgs,names,crossref,118,14.71%
+orgs,affiliation,affiliation,476,59.35%
+orgs,location,geo,70,8.73%
+orgs,location,geo source,42,5.24%
+orgs,location,latitude,70,8.73%
+orgs,location,longitude,70,8.73%
+orgs,location,settlement,28,3.49%
 orgs,location,settlement ID,0,0.00%
-orgs,location,country,382,47.75%
-orgs,location,country ID,368,46.00%
-orgs,bibliography,bibl(s),42,5.25%
-orgs,bibliography,note(s),55,6.88%
-persons,identifiers,ID,7471,100.00%
-persons,identifiers,URI (BnF),1972,26.40%
-persons,identifiers,URI (GND),2955,39.55%
-persons,identifiers,URI (ISNI),2714,36.33%
-persons,identifiers,URI (LC),2650,35.47%
+orgs,location,country,384,47.88%
+orgs,location,country ID,368,45.89%
+orgs,bibliography,bibl(s),42,5.24%
+orgs,bibliography,note(s),55,6.86%
+persons,identifiers,ID,7473,100.00%
+persons,identifiers,URI (BnF),1972,26.39%
+persons,identifiers,URI (GND),2955,39.54%
+persons,identifiers,URI (ISNI),2714,36.32%
+persons,identifiers,URI (LC),2650,35.46%
 persons,identifiers,URI (Mirabile),120,1.61%
 persons,identifiers,URI (Oxford DNB),89,1.19%
 persons,identifiers,URI (Pinakes),600,8.03%
 persons,identifiers,URI (SUDOC),1765,23.62%
-persons,identifiers,URI (VIAF),3553,47.56%
-persons,identifiers,URI (Wikidata),2736,36.62%
+persons,identifiers,URI (VIAF),3553,47.54%
+persons,identifiers,URI (Wikidata),2736,36.61%
 persons,identifiers,other ref(s),161,2.15%
 persons,identifiers,other URI(s),166,2.22%
-persons,names,display,7471,100.00%
+persons,names,display,7473,100.00%
 persons,names,preferred,1,0.01%
-persons,names,variant,3934,52.66%
+persons,names,variant,3934,52.64%
 persons,names,crossref,2211,29.59%
 persons,names,ms,267,3.57%
-persons,birth,birth,2661,35.62%
-persons,birth,when,2923,39.12%
-persons,birth,not before,2945,39.42%
-persons,birth,not after,2952,39.51%
+persons,birth,birth,2661,35.61%
+persons,birth,when,2923,39.11%
+persons,birth,not before,2945,39.41%
+persons,birth,not after,2952,39.50%
 persons,birth,certainty,44,0.59%
 persons,birth,calendar,0,0.00%
-persons,death,death,2970,39.75%
-persons,death,when,3599,48.17%
-persons,death,not before,3651,48.87%
-persons,death,not after,3674,49.18%
+persons,death,death,2970,39.74%
+persons,death,when,3599,48.16%
+persons,death,not before,3651,48.86%
+persons,death,not after,3674,49.16%
 persons,death,certainty,45,0.60%
 persons,death,calendar,0,0.00%
 persons,floruit,floruit,60,0.80%
-persons,floruit,when,709,9.49%
-persons,floruit,from,722,9.66%
-persons,floruit,to,721,9.65%
-persons,floruit,not before,3008,40.26%
-persons,floruit,not after,3032,40.58%
+persons,floruit,when,710,9.50%
+persons,floruit,from,723,9.67%
+persons,floruit,to,722,9.66%
+persons,floruit,not before,3009,40.26%
+persons,floruit,not after,3033,40.59%
 persons,floruit,certainty,220,2.94%
 persons,floruit,calendar,0,0.00%
 persons,biography,occupation,31,0.41%
-persons,biography,sex,516,6.91%
+persons,biography,sex,517,6.92%
 persons,biography,nationality,22,0.29%
 persons,biography,lang knowledge,6,0.08%
-persons,biography,residence,633,8.47%
+persons,biography,residence,634,8.48%
 persons,biography,affiliation,55,0.74%
-persons,bibliography,bibl(s),995,13.32%
-persons,bibliography,note(s),170,2.28%
+persons,bibliography,bibl(s),995,13.31%
+persons,bibliography,note(s),170,2.27%
 places,identifiers,ID,719,100.00%
 places,identifiers,URI (TGN),633,88.04%
 places,identifiers,other ref(s),54,7.51%
@@ -98,8 +98,8 @@ works,title,uniform,12612,100.00%
 works,title,variant,1451,11.50%
 works,title,ms,8546,67.76%
 works,title,normalised,4578,36.30%
-works,author,name,6834,54.19%
-works,author,ID,6831,54.16%
+works,author,name,6833,54.18%
+works,author,ID,6830,54.15%
 works,author,affiliation,1,0.01%
 works,translator,name,182,1.44%
 works,translator,ID,181,1.44%
