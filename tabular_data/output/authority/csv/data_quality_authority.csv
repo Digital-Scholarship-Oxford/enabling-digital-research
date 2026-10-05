@@ -24,10 +24,10 @@ orgs,location,country,384,47.88%
 orgs,location,country ID,368,45.89%
 orgs,bibliography,bibl(s),42,5.24%
 orgs,bibliography,note(s),55,6.86%
-persons,identifiers,ID,7473,100.00%
-persons,identifiers,URI (BnF),1972,26.39%
+persons,identifiers,ID,7474,100.00%
+persons,identifiers,URI (BnF),1972,26.38%
 persons,identifiers,URI (GND),2955,39.54%
-persons,identifiers,URI (ISNI),2714,36.32%
+persons,identifiers,URI (ISNI),2714,36.31%
 persons,identifiers,URI (LC),2650,35.46%
 persons,identifiers,URI (Mirabile),120,1.61%
 persons,identifiers,URI (Oxford DNB),89,1.19%
@@ -37,20 +37,20 @@ persons,identifiers,URI (VIAF),3553,47.54%
 persons,identifiers,URI (Wikidata),2736,36.61%
 persons,identifiers,other ref(s),161,2.15%
 persons,identifiers,other URI(s),166,2.22%
-persons,names,display,7473,100.00%
+persons,names,display,7474,100.00%
 persons,names,preferred,1,0.01%
 persons,names,variant,3934,52.64%
-persons,names,crossref,2211,29.59%
+persons,names,crossref,2211,29.58%
 persons,names,ms,267,3.57%
-persons,birth,birth,2661,35.61%
+persons,birth,birth,2661,35.60%
 persons,birth,when,2923,39.11%
-persons,birth,not before,2945,39.41%
+persons,birth,not before,2945,39.40%
 persons,birth,not after,2952,39.50%
 persons,birth,certainty,44,0.59%
 persons,birth,calendar,0,0.00%
 persons,death,death,2970,39.74%
-persons,death,when,3599,48.16%
-persons,death,not before,3651,48.86%
+persons,death,when,3599,48.15%
+persons,death,not before,3651,48.85%
 persons,death,not after,3674,49.16%
 persons,death,certainty,45,0.60%
 persons,death,calendar,0,0.00%
@@ -59,7 +59,7 @@ persons,floruit,when,710,9.50%
 persons,floruit,from,723,9.67%
 persons,floruit,to,722,9.66%
 persons,floruit,not before,3009,40.26%
-persons,floruit,not after,3033,40.59%
+persons,floruit,not after,3033,40.58%
 persons,floruit,certainty,220,2.94%
 persons,floruit,calendar,0,0.00%
 persons,biography,occupation,31,0.41%
