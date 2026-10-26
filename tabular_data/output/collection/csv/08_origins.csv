@@ -219,10 +219,10 @@ MS_Add_D_2_origin_1,manuscript_167,Add_D,MS_Add_D_2,MS. Add. D. 2,manuscript,,MS
 MS_Add_D_3_origin_1,manuscript_168,Add_D,MS_Add_D_3,MS. Add. D. 3,manuscript,,MS_Add_D_3,16th century Italy,,,,,16th century,,1500,1600,,Gregorian,Italy,Italy,place_1000080,42.8333,12.8333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_Add_D_10_origin_1,manuscript_163,Add_D,MS_Add_D_10,MS. Add. D. 10,manuscript,,MS_Add_D_10,"1439 Italian, Udine",,,,,1439,1439,1439,1439,high,Gregorian,"Italian, Udine",Italian,place_1000080,42.8333,12.8333,,,,,Udine,place_7005139,46.061944,13.242222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_Add_D_32_origin_1,manuscript_169,Add_D,MS_Add_D_32,MS. Add. D. 32,manuscript,,MS_Add_D_32,"15th century, late Spain (?)",,,,,"15th century, late",,1490,1500,,Gregorian,Spain (?),Spain,place_1000095,40.0,-4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MS_Add_D_33_origin_1,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,manuscript-composite,,MS_Add_D_33,14th century,,,,,14th century,,1300,1400,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MS_Add_D_33_origin_2,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,part,MS. Add. D. 33 – Part 1,MS_Add_D_33-part1,14th century,,,,,14th century,,1300,1400,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MS_Add_D_33_origin_3,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,part,MS. Add. D. 33 – Part 2,MS_Add_D_33-part2,14th century,,,,,14th century,,1300,1400,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MS_Add_D_33_origin_4,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,part,MS. Add. D. 33 – Part 3,MS_Add_D_33-part3,14th century,,,,,14th century,,1300,1400,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Add_D_33_origin_1,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,manuscript-composite,,MS_Add_D_33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Add_D_33_origin_2,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,part,MS. Add. D. 33 – Part A (fols. 1-85),MS_Add_D_33-part1,"14th century, first half England",,,,,"14th century, first half",,1300,1350,,Gregorian,England,England,place_7002445,53.0,-2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Add_D_33_origin_3,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,part,MS. Add. D. 33 – Part B (fols. 86-160),MS_Add_D_33-part2,"14th century, early England (?)",,,,,"14th century, early",,1300,1310,,Gregorian,England (?),England,place_7002445,53.0,-2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Add_D_33_origin_4,manuscript_170,Add_D,MS_Add_D_33,MS. Add. D. 33,part,MS. Add. D. 33 – Part C (fols. 161-204),MS_Add_D_33-part3,"14th century, first half England",,,,,"14th century, first half",,1300,1350,,Gregorian,England,England,place_7002445,53.0,-2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_Add_D_39_origin_1,manuscript_171,Add_D,MS_Add_D_39,MS. Add. D. 39,manuscript,,MS_Add_D_39,"1451 Italian, Venice (?)",,,,,1451,1451,1451,1451,high,Gregorian,"Italian, Venice (?)",Italian,place_1000080,42.8333,12.8333,,,,,Venice,place_7018159,45.438611,12.326667,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_Add_D_42_origin_1,manuscript_172,Add_D,MS_Add_D_42,MS. Add. D. 42,manuscript,,MS_Add_D_42,c. 1580 England,,,,,c. 1580,1580,1580,1580,,Gregorian,England,England,place_7002445,53.0,-2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_Add_D_43_origin_1,manuscript_173,Add_D,MS_Add_D_43,MS. Add. D. 43,manuscript,,MS_Add_D_43,c. 1553 England,,,,,c. 1553,1553,1553,1553,,Gregorian,England,England,place_7002445,53.0,-2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5862,8 +5862,30 @@ Christ_Church_MS_687_origin_1,manuscript_3906,Christ_Church,Christ_Church_MS_687
 Christ_Church_MS_688_origin_1,manuscript_9500,Christ_Church,Christ_Church_MS_688,Christ Church MS. 688,manuscript,,Christ_Church_MS_688,?Netherlands s. xv,,,,,s. xv,,1400,1500,,Gregorian,?Netherlands,Netherlands,place_7016845,52.5,5.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Christ_Church_MS_689_origin_1,manuscript_3960,Christ_Church,Christ_Church_MS_689,Christ Church Mus 1295 (aka MS. 689),manuscript,,Christ_Church_MS_689,Italy (north-west) s. xv2/4,,,,,"s. xv2/4
                      ",,1425,1450,,Gregorian,Italy (north-west),Italy,place_1000080,42.8333,12.8333,north-west,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MS_Clar_Press_b_2_origin_1,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,manuscript,,MS_Clar_Press_b_2,5th or 6th century,,,,,"5th or 6th
-                        century",,400,600,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_1,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,manuscript-composite,,MS_Clar_Press_b_2,5th-10th century,,,,,"5th-10th
+                        century",,400,999,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_2,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 1,MS_Clar_Press_b_2-part1,6th–7th century,,,,,"6th–7th
+                           century",,500,700,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_3,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 2,MS_Clar_Press_b_2-part2,9th–10th century,,,,,"9th–10th
+                           century",,800,1000,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_4,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 3,MS_Clar_Press_b_2-part3,10th century,,,,,"10th
+                           century",,900,999,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_5,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 4,MS_Clar_Press_b_2-part4,10th century,,,,,"10th
+                           century",,900,999,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_6,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 5,MS_Clar_Press_b_2-part5,6th century,,,,,"6th
+                           century",,500,599,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_7,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 6,MS_Clar_Press_b_2-part6,11th–12th century,,,,," 11th–12th
+                           century ",,1000,1200,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_8,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 7,MS_Clar_Press_b_2-part7,6th century,,,,,"6th
+                           century",,500,599,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_9,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 8,MS_Clar_Press_b_2-part8,8th–9th century,,,,," 8th–9th
+                           century ",,700,900,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_10,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 9,MS_Clar_Press_b_2-part9,9th century,,,,,"9th
+                           century",,800,899,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_11,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 10,MS_Clar_Press_b_2-part10,5th-10th century,,,,,"5th-10th
+                        century",,400,999,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MS_Clar_Press_b_2_origin_12,manuscript_9781,Clar_Press,MS_Clar_Press_b_2,MS. Clar. Press b. 2,part,MS. Clar. Press b. 2 – Fragment 11,MS_Clar_Press_b_2-part11,5th-10th century,,,,,"5th-10th
+                        century",,400,999,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_Clar_Press_b_3_origin_1,manuscript_9790,Clar_Press,MS_Clar_Press_b_3,MS. Clar. Press b. 3,manuscript,,MS_Clar_Press_b_3,10th or 11th century,,,,,"10th or 11th
                         century",,900,1100,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 MS_E_D_Clarke_1_origin_1,manuscript_3973,Clarke,MS_E_D_Clarke_1,MS. E. D. Clarke 1,manuscript,,MS_E_D_Clarke_1,13th century (?),,,,,13th century (?),,1200,1300,,Gregorian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
