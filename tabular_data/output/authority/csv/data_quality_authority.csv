@@ -24,49 +24,49 @@ orgs,location,country,384,47.88%
 orgs,location,country ID,368,45.89%
 orgs,bibliography,bibl(s),42,5.24%
 orgs,bibliography,note(s),55,6.86%
-persons,identifiers,ID,7484,100.00%
-persons,identifiers,URI (BnF),1972,26.35%
-persons,identifiers,URI (GND),2955,39.48%
-persons,identifiers,URI (ISNI),2714,36.26%
-persons,identifiers,URI (LC),2650,35.41%
+persons,identifiers,ID,7487,100.00%
+persons,identifiers,URI (BnF),1972,26.34%
+persons,identifiers,URI (GND),2955,39.47%
+persons,identifiers,URI (ISNI),2714,36.25%
+persons,identifiers,URI (LC),2650,35.39%
 persons,identifiers,URI (Mirabile),120,1.60%
 persons,identifiers,URI (Oxford DNB),89,1.19%
-persons,identifiers,URI (Pinakes),600,8.02%
-persons,identifiers,URI (SUDOC),1765,23.58%
-persons,identifiers,URI (VIAF),3553,47.47%
-persons,identifiers,URI (Wikidata),2737,36.57%
+persons,identifiers,URI (Pinakes),600,8.01%
+persons,identifiers,URI (SUDOC),1765,23.57%
+persons,identifiers,URI (VIAF),3553,47.46%
+persons,identifiers,URI (Wikidata),2737,36.56%
 persons,identifiers,other ref(s),161,2.15%
 persons,identifiers,other URI(s),166,2.22%
-persons,names,display,7484,100.00%
+persons,names,display,7487,100.00%
 persons,names,preferred,1,0.01%
-persons,names,variant,3936,52.59%
-persons,names,crossref,2211,29.54%
+persons,names,variant,3936,52.57%
+persons,names,crossref,2211,29.53%
 persons,names,ms,267,3.57%
-persons,birth,birth,2661,35.56%
-persons,birth,when,2923,39.06%
-persons,birth,not before,2945,39.35%
-persons,birth,not after,2952,39.44%
+persons,birth,birth,2661,35.54%
+persons,birth,when,2923,39.04%
+persons,birth,not before,2945,39.33%
+persons,birth,not after,2952,39.43%
 persons,birth,certainty,44,0.59%
 persons,birth,calendar,0,0.00%
-persons,death,death,2970,39.68%
-persons,death,when,3601,48.12%
-persons,death,not before,3653,48.81%
-persons,death,not after,3676,49.12%
+persons,death,death,2970,39.67%
+persons,death,when,3601,48.10%
+persons,death,not before,3653,48.79%
+persons,death,not after,3676,49.10%
 persons,death,certainty,45,0.60%
 persons,death,calendar,0,0.00%
 persons,floruit,floruit,60,0.80%
-persons,floruit,when,710,9.49%
-persons,floruit,from,723,9.66%
-persons,floruit,to,722,9.65%
-persons,floruit,not before,3012,40.25%
-persons,floruit,not after,3036,40.57%
+persons,floruit,when,711,9.50%
+persons,floruit,from,724,9.67%
+persons,floruit,to,723,9.66%
+persons,floruit,not before,3014,40.26%
+persons,floruit,not after,3038,40.58%
 persons,floruit,certainty,220,2.94%
 persons,floruit,calendar,0,0.00%
 persons,biography,occupation,31,0.41%
-persons,biography,sex,522,6.97%
+persons,biography,sex,523,6.99%
 persons,biography,nationality,22,0.29%
 persons,biography,lang knowledge,6,0.08%
-persons,biography,residence,639,8.54%
+persons,biography,residence,640,8.55%
 persons,biography,affiliation,55,0.73%
 persons,bibliography,bibl(s),997,13.32%
 persons,bibliography,note(s),170,2.27%
@@ -87,60 +87,60 @@ places,location,country,464,64.53%
 places,location,country ID,464,64.53%
 places,bibliography,bibl(s),2,0.28%
 places,bibliography,note(s),11,1.53%
-works,identifiers,ID,12618,100.00%
+works,identifiers,ID,12625,100.00%
 works,identifiers,URI (JONAS),70,0.55%
-works,identifiers,URI (Mirabile),873,6.92%
+works,identifiers,URI (Mirabile),873,6.91%
 works,identifiers,URI (Pinakes),827,6.55%
 works,identifiers,URI (VIAF),152,1.20%
 works,identifiers,other ref(s),78,0.62%
 works,identifiers,other URI(s),92,0.73%
-works,title,uniform,12618,100.00%
-works,title,variant,1453,11.52%
-works,title,ms,8547,67.74%
-works,title,normalised,4578,36.28%
-works,author,name,6837,54.18%
-works,author,ID,6834,54.16%
+works,title,uniform,12625,100.00%
+works,title,variant,1454,11.52%
+works,title,ms,8546,67.69%
+works,title,normalised,4576,36.25%
+works,author,name,6841,54.19%
+works,author,ID,6838,54.16%
 works,author,affiliation,1,0.01%
 works,translator,name,187,1.48%
 works,translator,ID,186,1.47%
 works,translator,affiliation,0,0.00%
 works,language,text lang(s),2,0.02%
-works,language,main,12618,100.00%
+works,language,main,12625,100.00%
 works,language,other,627,4.97%
-works,incipit,incipit,13,0.10%
-works,subjects,list,12321,97.65%
-works,subjects,URI(s),12321,97.65%
-works,subjects,theology,12618,100.00%
-works,subjects,documents,12618,100.00%
-works,subjects,bible,12618,100.00%
-works,subjects,literature,12618,100.00%
-works,subjects,science,12618,100.00%
-works,subjects,liturgy,12618,100.00%
-works,subjects,history,12618,100.00%
-works,subjects,law,12618,100.00%
-works,subjects,philosophy,12618,100.00%
-works,subjects,hagiography,12618,100.00%
-works,subjects,medicine,12618,100.00%
-works,subjects,christian literature,12618,100.00%
-works,subjects,sermons,12618,100.00%
-works,subjects,classical literature,12618,100.00%
-works,subjects,monasticism and religious orders,12618,100.00%
-works,subjects,grammar,12618,100.00%
-works,subjects,clergy,12618,100.00%
-works,subjects,rhetoric,12618,100.00%
-works,subjects,geography,12618,100.00%
-works,subjects,natural history,12618,100.00%
-works,subjects,politics and government,12618,100.00%
-works,subjects,music,12618,100.00%
-works,subjects,indexes,12618,100.00%
-works,subjects,conduct,12618,100.00%
-works,subjects,heraldry,12618,100.00%
-works,subjects,magic,12618,100.00%
-works,subjects,bibliography,12618,100.00%
-works,subjects,recreation,12618,100.00%
-works,bibliography,repertory/ies,1995,15.81%
-works,bibliography,repertory URI(s),1418,11.24%
-works,bibliography,edition(s),1417,11.23%
+works,incipit,incipit,15,0.12%
+works,subjects,list,12328,97.65%
+works,subjects,URI(s),12328,97.65%
+works,subjects,theology,12625,100.00%
+works,subjects,documents,12625,100.00%
+works,subjects,bible,12625,100.00%
+works,subjects,literature,12625,100.00%
+works,subjects,science,12625,100.00%
+works,subjects,liturgy,12625,100.00%
+works,subjects,history,12625,100.00%
+works,subjects,law,12625,100.00%
+works,subjects,philosophy,12625,100.00%
+works,subjects,hagiography,12625,100.00%
+works,subjects,medicine,12625,100.00%
+works,subjects,christian literature,12625,100.00%
+works,subjects,sermons,12625,100.00%
+works,subjects,classical literature,12625,100.00%
+works,subjects,monasticism and religious orders,12625,100.00%
+works,subjects,grammar,12625,100.00%
+works,subjects,clergy,12625,100.00%
+works,subjects,rhetoric,12625,100.00%
+works,subjects,geography,12625,100.00%
+works,subjects,natural history,12625,100.00%
+works,subjects,politics and government,12625,100.00%
+works,subjects,music,12625,100.00%
+works,subjects,indexes,12625,100.00%
+works,subjects,conduct,12625,100.00%
+works,subjects,heraldry,12625,100.00%
+works,subjects,magic,12625,100.00%
+works,subjects,bibliography,12625,100.00%
+works,subjects,recreation,12625,100.00%
+works,bibliography,repertory/ies,1995,15.80%
+works,bibliography,repertory URI(s),1418,11.23%
+works,bibliography,edition(s),1417,11.22%
 works,bibliography,edition URI(s),18,0.14%
-works,bibliography,other bibl(s),455,3.61%
+works,bibliography,other bibl(s),457,3.62%
 works,bibliography,note(s),213,1.69%
